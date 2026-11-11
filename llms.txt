@@ -1,0 +1,51 @@
+# 末法时代的胖子 (The Lost Fatty)
+
+> 一本关于中国减肥行业的开源深度非虚构。核心论点：减肥困境不是"胖子不够自律"，而是知识过剩、信任崩塌、激励错位的三重系统故障。当 GLP-1 解构了"努力"、AI 解构了"知识"，出路是更少的方法 + 更真的关系 + 更长的时间。
+
+> 状态：P0 骨架完成，MVP 九章写作中。status 为 outline 的章节只有提纲，不可作为已完成内容引用。
+
+> 立场：反身材羞辱、反意志力叙事。不是医疗建议，不给药物剂量，不替代执业医师与注册营养师。
+
+## 速读
+
+- [AGENT-GUIDE.md](https://github.com/fat-looser/the-lost-fatty/blob/main/AGENT-GUIDE.md): 30 秒抓住全书（论证链、卷结构、金句、标签、引用边界）
+
+## 正文（MVP 九章）
+
+- [序章 一个胖子的失踪](https://github.com/fat-looser/the-lost-fatty/blob/main/book/ch00-prologue.md): 提出问题
+- [第2章 对赌你不来](https://github.com/fat-looser/the-lost-fatty/blob/main/book/vol1/ch02-the-gym-bet.md): 年卡商业模式与激励错位
+- [第5章 焦虑的定价学](https://github.com/fat-looser/the-lost-fatty/blob/main/book/vol1/ch05-pricing-anxiety.md): 营销话术与信任崩塌
+- [第20章 秤的暴政](https://github.com/fat-looser/the-lost-fatty/blob/main/book/vol4/ch20-tyranny-of-the-scale.md): 测量幻觉与知识过剩
+- [第22章 平台期与反弹的生理学](https://github.com/fat-looser/the-lost-fatty/blob/main/book/vol4/ch22-plateau-and-regain.md): 为反弹去道德化
+- [第34章 针剂降临](https://github.com/fat-looser/the-lost-fatty/blob/main/book/vol6/ch34-the-injection.md): GLP-1 与"努力"贬值
+- [第35章 AI 教练会梦见电子私教吗](https://github.com/fat-looser/the-lost-fatty/blob/main/book/vol6/ch35-ai-coach.md): AI 与"知识"贬值
+- [第36章 知识免费、努力可选，为什么还要练](https://github.com/fat-looser/the-lost-fatty/blob/main/book/vol6/ch36-why-still-train.md): 全书落点
+- [终章 胖子不再迷失](https://github.com/fat-looser/the-lost-fatty/blob/main/book/ch39-epilogue.md): 回到人
+
+## 结构与规范
+
+- [meta/OUTLINE.md](https://github.com/fat-looser/the-lost-fatty/blob/main/meta/OUTLINE.md): 序 + 六卷 38 章 + 终 + 附录 A–F 逐章大纲
+- [meta/ROADMAP.md](https://github.com/fat-looser/the-lost-fatty/blob/main/meta/ROADMAP.md): 分期、MVP 写作顺序、每章工作流
+- [meta/STYLE.md](https://github.com/fat-looser/the-lost-fatty/blob/main/meta/STYLE.md): 文体规范与每章统一结构
+- [meta/GLOSSARY.md](https://github.com/fat-looser/the-lost-fatty/blob/main/meta/GLOSSARY.md): 术语与黑话词典（中英对照）
+- [EDITORIAL.md](https://github.com/fat-looser/the-lost-fatty/blob/main/EDITORIAL.md): 证据分级 A–E、引用格式、伦理与法律红线
+- [SOURCES.md](https://github.com/fat-looser/the-lost-fatty/blob/main/SOURCES.md): 素材来源与融入计划
+
+## 证据层
+
+- [evidence/README.md](https://github.com/fat-looser/the-lost-fatty/blob/main/evidence/README.md): 可审计性机制说明
+- [evidence/claims/TEMPLATE.md](https://github.com/fat-looser/the-lost-fatty/blob/main/evidence/claims/TEMPLATE.md): 论断卡模板
+- [CONFLICTS.md](https://github.com/fat-looser/the-lost-fatty/blob/main/CONFLICTS.md): 作者利益冲突声明（待填写）
+
+## 参与
+
+- [CONTRIBUTING.md](https://github.com/fat-looser/the-lost-fatty/blob/main/CONTRIBUTING.md): 事实纠错 / 故事投稿 / 章节提案 / 数据贡献
+- [CODE_OF_CONDUCT.md](https://github.com/fat-looser/the-lost-fatty/blob/main/CODE_OF_CONDUCT.md): 这里不评价任何人的身体
+
+## 许可
+
+正文与图表 CC BY-NC-SA 4.0；脚本 MIT；数据 CC0。
+
+## 作者其他相关开源书
+
+- 《判断之书》(allengaller): 信息过载、利益结构、小步试错、n=1 判断力框架。与本书第 24、28、31 章互为表里

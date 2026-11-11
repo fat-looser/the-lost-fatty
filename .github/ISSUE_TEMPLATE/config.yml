@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 隐私 / 安全举报
+    about: 涉及他人隐私、未脱敏信息、安全问题的举报，请直接联系维护者，不要开公开 Issue
+    url: https://github.com/allengaller
+  - name: 先读贡献指南
+    about: 四种贡献路径、PR 流程、署名与隐私承诺
+    url: https://github.com/fat-looser/the-lost-fatty/blob/main/CONTRIBUTING.md
+  - name: 先读编辑规范
+    about: 证据分级、引用格式、伦理与法律红线
+    url: https://github.com/fat-looser/the-lost-fatty/blob/main/EDITORIAL.md
+  - name: 全书大纲
+    about: 提章节提案前，先看现有 40 章结构，避免重复
+    url: https://github.com/fat-looser/the-lost-fatty/blob/main/meta/OUTLINE.md

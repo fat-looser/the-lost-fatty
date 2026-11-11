@@ -1,0 +1,15 @@
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+
+除非另有说明，本仓库所有文本内容与图表采用 CC BY-NC-SA 4.0 许可：
+
+- 署名（BY）— 必须给出适当署名，提供本许可协议链接，并标明是否做了修改。
+- 非商业性使用（NC）— 不得将本作品用于商业目的。
+- 相同方式共享（SA）— 若再混合、转换或基于本作品创作，必须基于相同许可分发。
+
+完整协议文本：https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-Hans
+协议概览：https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-Hans
+
+例外：evidence/scripts/ 下的脚本采用 MIT 许可（见 LICENSE-CODE），
+evidence/data/ 下的数据采用 CC0 1.0（公有领域贡献），以便自由复用与商用。
+
+作者：allengaller 与 AI 协作者
