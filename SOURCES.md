@@ -5,7 +5,7 @@
 
 ## 采集状态总览（2026-11-12）
 
-**已完成 P0.5 证据层**：58 张卡（`claim-0001`–`claim-0061`，0032–0034 未使用）。其中 0061 为 P1 复核轮新建的 A 级专卡。
+**已完成 P0.5 证据层**：59 张卡（`claim-0001`–`claim-0062`，0032–0034 未使用）。其中 0061 为 P1 复核轮新建的 A 级专卡，0062 为第三轮新建的 C 级判例卡。
 **唯一裁决文件**：[evidence/claims/INDEX.md](evidence/claims/INDEX.md)——口径冲突、独立性警告、原文异常、黑名单来源全部在那里，动笔前必读。
 
 | 类别 | 状态 |
@@ -18,7 +18,7 @@
 | 访谈（D 级） | ❌ **0 条**。MVP 九章的开篇人物目前全部无素材支撑 |
 | 作者经历（E 级） | ❌ **0 条**。待作者决定是否公开 |
 
-**核查状态提醒**：58 张卡中 **46 张仍标「待核实」**——AI 检索的内容未经人工签字，**这不是瑕疵，这是本书论点的落实**（EDITORIAL 第七节）。
+**核查状态提醒**：59 张卡中 **47 张仍标「待核实」**——AI 检索的内容未经人工签字，**这不是瑕疵，这是本书论点的落实**（EDITORIAL 第七节）。
 
 ### 链路腐烂实测（本轮意外收获，本身即证据）
 
@@ -64,7 +64,7 @@
 | Keep 港股财报与招股书 | 01 市场结构、11 知识付费、30 平台 | ✅ 已采集 → [0007](evidence/claims/claim-0007-keep-revenue-structure.md)（收入大头已是卖货） |
 | 乐刻 / 超级猩猩公开资料 | 02 月付制对照 | ✅ 已采集 → [0006](evidence/claims/claim-0006-monthly-pay-inverted-incentive.md) ⚠️ 月付制连锁合计占全国场馆不到 1/20，是细分市场不是解药 |
 | 艾瑞 / 易观 / 德勤 健身与体重管理报告 | 01 市场规模交叉验证 | ⏳ 待采集（注意发布方利益相关） |
-| 健身房预付卡纠纷裁判文书 | 02 预售跑路、06 监管 | ✅ 部分 → [0005](evidence/claims/claim-0005-prepaid-gym-closure-refund.md)（闭店时无担保债权）⚠️ 法释〔2025〕4 号建议另建卡 |
+| 健身房预付卡纠纷裁判文书 | 02 预售跑路、06 监管 | ✅ 部分 → [0005](evidence/claims/claim-0005-prepaid-gym-closure-refund.md)（闭店时无担保债权；**法条原始页已入库并交叉验证**）＋ **[0062](evidence/claims/claim-0062-spc-prepaid-typical-cases.md)（最高法六则典型案例，含「职业闭店人」两案）**。⚠️ 原「法释〔2025〕4 号建议另建卡」**已撤销**：0005 已持有全文，另建属重复。仍缺**裁判文书网判决原件**（现用天眼查转录）与**更多健身行业判例**（0062 中健身房仅 1 例） |
 | 健身机构暴雷媒体报道 | 02 现金流结构 | ✅ 部分（并入 0004/0005）⚠️ 需交叉验证 |
 | 私教薪酬结构公开资料 | 03 劳动处境、35 AI 对照 | ✅ 已采集 → [0008](evidence/claims/claim-0008-pt-pay-sales-kpi.md)（底薪 1500 + 课时费 60–150 + 提成 6%–8%） |
 
@@ -78,6 +78,8 @@
 | 注册营养师管理办法 / 中国营养学会文件 | 15 身份战争 | ⏳ 待采集（P2） |
 | 市场监管总局处罚公告 | 04 产品史、05 营销、06 监管 | ⏳ 待检索 |
 | 广告法相关条款与判例 | 05 话术、06 监管 | ⏳ 待检索 |
+| **最高人民法院 法释〔2025〕4号《关于审理预付式消费民事纠纷案件适用法律若干问题的解释》** | 02 年卡对赌、06 监管 | ✅ **原始页已取得并入库可复核**：https://www.court.gov.cn/zixun/xiangqing/459321.html （2025-03-14 发布，2025-05-01 施行）。存档 [`court.html`](evidence/data/spc-prepaid-consumption-2025-4-court.html)（38,941 字节，MD5 `203de566fa49594da62e0cc2d4bee40b`）＋ [`szns-mirror.html`](evidence/data/spc-prepaid-consumption-2025-4-szns-mirror.html)（87,054 字节，MD5 `3849196a8f3e6d458351e8047e89f0b8`）＋ [`fulltext.txt`](evidence/data/spc-prepaid-consumption-2025-4-fulltext.txt)（4,339 字，MD5 `47f20b7a13fd88586fc7c5291cf8d844`）。**两来源法条正文逐字节一致，27 条齐全** → [0005](evidence/claims/claim-0005-prepaid-gym-closure-refund.md)。⚠️ 同页**权威解读**含官方表述**「重售卡、轻服务」「套路式、劝诱式」**（第十五条立法目的）。🚫 **「不来不退」非法定用语（0 命中）**，官方「收款不退」效力相反。⚠️ 站内检索另暴露 **434531 为征求意见稿**，已排除误引。仍缺 archive.org 快照 |
+| **最高人民法院 涉预付式消费典型案例（六则）** | 02 预售跑路、05 焦虑定价 | ✅ **原始页已取得并入库**：https://www.court.gov.cn/zixun/xiangqing/459331.html （2025-03-14 18:12:45，同场发布会）。存档 [`court.html`](evidence/data/spc-prepaid-consumption-2025-typical-cases-court.html)（31,206 字节，MD5 `aeb4b14a68b22938c7c42194a72b6ede`）＋ [`fulltext.txt`](evidence/data/spc-prepaid-consumption-2025-typical-cases-fulltext.txt)（5,618 字，MD5 `1c44a710a10995850b76ac7db6c89f08`），25/25 直引逐字命中 → **[0062](evidence/claims/claim-0062-spc-prepaid-typical-cases.md)（C，2026-11-12 新建）**。含**「职业闭店人」民事＋刑事两案**、行业黑话「死客激活」「背债人」「充值案」。🚫 **六案中健身房仅 1 例**（案例三），146 万诈骗案为摄影店、百万预付款案为美容美体养生。🚫 **典型案例非随机样本，不得推算发生率**。⚠️ 与 0005 **同机关同场发布会，不是两个独立来源** |
 | 药监局 GLP-1 类药物获批时间线与适应症 | 34 针剂 | ✅ 已采集 → [0039](evidence/claims/claim-0039-china-approval-timeline.md) ⚠️ **NMPA 批准日待查**（官网 412，三个流传日期皆为公告日） |
 | 医保目录与价格公开信息 | 34 可及性 | ✅ 已采集 → [0040](evidence/claims/claim-0040-china-price-access-2026.md)（2463→1284.36 元；**减重适应症全自费**）⚠️ 324.12 元规格两源冲突 |
 | AI 医疗器械与互联网诊疗监管文件 | 35 责任归属 | ✅ **原文已取得** → [0048](evidence/claims/claim-0048-china-ai-medical-regulation-liability.md)（CAC 令 15 号、NMPA 2021 年 47 号、国卫办医发〔2022〕2 号第 13/21/24/34 条）**已核实** |
