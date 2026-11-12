@@ -2,7 +2,9 @@
 
 > 一本关于中国减肥行业的开源深度非虚构。核心论点：减肥困境不是"胖子不够自律"，而是知识过剩、信任崩塌、激励错位的三重系统故障。当 GLP-1 解构了"努力"、AI 解构了"知识"，出路是更少的方法 + 更真的关系 + 更长的时间。
 
-> 状态：P0 骨架完成，MVP 九章写作中。status 为 outline 的章节只有提纲，不可作为已完成内容引用。
+> 状态：P0.5 证据层完成（57 张证据卡 + 口径裁决表），MVP 九章正文写作中。status 为 outline 的章节只有提纲，不可作为已完成内容引用。**57 张卡中 45 张仍标「待核实」（AI 检索未经人工签字），不得当作已证实的结论引用；9 张标「有争议」，引用须连反方一起。**
+
+> 引用前必读：evidence/claims/INDEX.md §2 口径裁决表（11 条）。同一事实出现多个数字时以该表为准。禁止跨试验比较（STEP1 vs SURMOUNT-1 非头对头）；禁止把美国趋势套到中国读者身上。
 
 > 立场：反身材羞辱、反意志力叙事。不是医疗建议，不给药物剂量，不替代执业医师与注册营养师。
 
@@ -24,7 +26,7 @@
 
 ## 结构与规范
 
-- [meta/OUTLINE.md](https://github.com/fat-looser/the-lost-fatty/blob/main/meta/OUTLINE.md): 序 + 六卷 38 章 + 终 + 附录 A–F 逐章大纲
+- [meta/OUTLINE.md](https://github.com/fat-looser/the-lost-fatty/blob/main/meta/OUTLINE.md): 序 + 六卷 38 章 + 终 + 附录 A–F 逐章大纲。**§0.1 核心论点裁决、§0.3 落点强度分级、§0.9 七处被证据推翻的假设（引用前必读）**
 - [meta/ROADMAP.md](https://github.com/fat-looser/the-lost-fatty/blob/main/meta/ROADMAP.md): 分期、MVP 写作顺序、每章工作流
 - [meta/STYLE.md](https://github.com/fat-looser/the-lost-fatty/blob/main/meta/STYLE.md): 文体规范与每章统一结构
 - [meta/GLOSSARY.md](https://github.com/fat-looser/the-lost-fatty/blob/main/meta/GLOSSARY.md): 术语与黑话词典（中英对照）
@@ -33,6 +35,7 @@
 
 ## 证据层
 
+- [evidence/claims/INDEX.md](https://github.com/fat-looser/the-lost-fatty/blob/main/evidence/claims/INDEX.md): **主控台**。全卡索引、口径裁决表 11 条、重叠卡裁决、独立性与利益相关警告、原文异常与黑名单、已通过的 DOI 核验、人工复核优先级
 - [evidence/README.md](https://github.com/fat-looser/the-lost-fatty/blob/main/evidence/README.md): 可审计性机制说明
 - [evidence/claims/TEMPLATE.md](https://github.com/fat-looser/the-lost-fatty/blob/main/evidence/claims/TEMPLATE.md): 论断卡模板
 - [CONFLICTS.md](https://github.com/fat-looser/the-lost-fatty/blob/main/CONFLICTS.md): 作者利益冲突声明（待填写）
