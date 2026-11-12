@@ -5,7 +5,7 @@
 
 ## 采集状态总览（2026-11-12）
 
-**已完成 P0.5 证据层**：57 张卡（`claim-0001`–`claim-0060`，0032–0034 未使用）。
+**已完成 P0.5 证据层**：58 张卡（`claim-0001`–`claim-0061`，0032–0034 未使用）。其中 0061 为 P1 复核轮新建的 A 级专卡。
 **唯一裁决文件**：[evidence/claims/INDEX.md](evidence/claims/INDEX.md)——口径冲突、独立性警告、原文异常、黑名单来源全部在那里，动笔前必读。
 
 | 类别 | 状态 |
@@ -18,7 +18,7 @@
 | 访谈（D 级） | ❌ **0 条**。MVP 九章的开篇人物目前全部无素材支撑 |
 | 作者经历（E 级） | ❌ **0 条**。待作者决定是否公开 |
 
-**核查状态提醒**：57 张卡中 **45 张仍标「待核实」**——AI 检索的内容未经人工签字，**这不是瑕疵，这是本书论点的落实**（EDITORIAL 第七节）。
+**核查状态提醒**：58 张卡中 **46 张仍标「待核实」**——AI 检索的内容未经人工签字，**这不是瑕疵，这是本书论点的落实**（EDITORIAL 第七节）。
 
 ### 链路腐烂实测（本轮意外收获，本身即证据）
 
@@ -72,7 +72,7 @@
 
 | 来源 | 用于 | 核查状态 |
 |---|---|---|
-| 国家卫健委《肥胖症诊疗指南（2024 年版）》 | 14 疾病承认史、34 针剂、37 最小实践 | ✅ **PDF 已取得，MD5 一致** → [0042](evidence/claims/claim-0042-china-obesity-guideline-2024.md)（成文 2024-10-12，政策库发布 10-20）⚠️「慢性复发性疾病」0 命中、「健身」0 次两项检索事实**记录在 [0009](evidence/claims/claim-0009-obesity-paradox-fitness-spending.md)（C 级）**，A 级专卡待建 |
+| 国家卫健委《肥胖症诊疗指南（2024 年版）》 | 14 疾病承认史、20 秤、22 反弹、34 针剂、36 落点、37 最小实践 | ✅ **PDF 已入库可复核**：[`evidence/data/obesity-guideline-2024.pdf`](evidence/data/obesity-guideline-2024.pdf)（79 页，MD5 `b004c90bbdb849731c6c7362971ed07e`）。**两卡分工**：[0042](evidence/claims/claim-0042-china-obesity-guideline-2024.md)（A，治疗定位/诊断切点/行政发布程序，成文 2024-10-12、政策库发布 10-20）＋ **[0061](evidence/claims/claim-0061-obesity-guideline-fulltext-search.md)（A，全文检索事实与测量层级，2026-11-12 新建）**。⚠️「健身」0 次、「慢性复发性疾病」0 次**已从 C 级卡 0009 升格至 0061**，计数须做**三法**（朴素/去空白/允许页码插入）。⚠️ 0061 另收紧：「复发」4 次、CBT 设「维持和预防复发」模块 → **不得写「指南回避复发性」**；词频**不得推论「官方忽视运动」** |
 | 《中国居民营养与慢性病状况报告》 | 01 肥胖率、21 饮食环境 | ⚠️ **二手取得** → [0053](evidence/claims/claim-0053-china-adult-overweight-obesity-prevalence.md)（34.3% / 16.4%，2015—2019 监测）；gov.cn 404、nhc.gov.cn 412，需回溯《营养学报》2020;42(6):521 |
 | 国家职业资格目录（历版） | 07 国职变迁、15 营养师身份 | ⏳ 待采集（P2） |
 | 注册营养师管理办法 / 中国营养学会文件 | 15 身份战争 | ⏳ 待采集（P2） |
@@ -104,7 +104,7 @@
 | 身材焦虑的性别结构与跨文化证据 | 05 性别小节 | ✅ → [0031](evidence/claims/claim-0031-gendered-body-marketing.md) ⚠️ **Karazsia 2017 下降；中国方向相反**；Grabe 2008 符号未明不得引 |
 | STEP 系列（semaglutide）/ SURMOUNT 系列（tirzepatide） | 34 针剂效应量与局限 | ✅ → [0035](evidence/claims/claim-0035-step1-semaglutide-effect-size.md)、[0036](evidence/claims/claim-0036-surmount1-tirzepatide-dose-response.md) ⚠️ **非头对头，禁止比较优劣** |
 | GLP-1 停药后体重回升研究 | 34 停药之后 | ✅ → [0037](evidence/claims/claim-0037-weight-regain-after-discontinuation.md) ⚠️ 引文纠正为 **Wilding DOM 2022 + Rubino JAMA 2021** |
-| GLP-1 与去脂体重 / 肌肉流失 | 34 力量训练必要性、36 生理支柱 | ✅ → [0038](evidence/claims/claim-0038-lean-mass-loss-resistance-training.md)、[0060](evidence/claims/claim-0060-glp1-exercise-muscle-bone-fitness.md) ⚠️ **两份更正未获取（P0）**；安慰剂组同为 75/25；**无客观身体功能结局** |
+| GLP-1 与去脂体重 / 肌肉流失 | 34 力量训练必要性、36 生理支柱 | ✅ → [0038](evidence/claims/claim-0038-lean-mass-loss-resistance-training.md)、[0060](evidence/claims/claim-0060-glp1-exercise-muscle-bone-fitness.md) ⚠️ **Look 更正已关闭（仅 Figure 4 图轴单位）；Batsis 勘误正文仍未取得**（PMID 42258831，Cloudflare 403 → **28.3% 非终局**）；**构成基本相同：药组 74/26 vs 安慰剂组 75/25**；**客观功能终点全缺，但 SF-36v2 自评功能药组改善** |
 | GLP-1 不良反应与长期安全性 | 34 反方 | ✅ → [0041](evidence/claims/claim-0041-adverse-effects-longterm-gap.md) ⚠️「超过 5 年缺口」已撤回 → **约 3.3 年** |
 | 食欲的生理机制（摄入 / RMR / 中介） | 34 机制 | ✅ → [0043](evidence/claims/claim-0043-appetite-physiology-not-morality.md)（−35% 摄入、RMR 不变、<1 pp 由胃肠不适中介） |
 | 心血管硬终点与腰围中介 | 34 瘦≠健康 | ✅ → [0044](evidence/claims/claim-0044-select-cardiovascular-hard-endpoint.md)（HR 0.80，**仅约 33% 由腰围缩小中介**） |
@@ -162,8 +162,8 @@
 
 | 阶段 | 主要素材动作 |
 |---|---|
-| **P0.5** | ✅ **已完成**：MVP 九章所需 A/B/C 级来源采集与建卡（57 张）+ INDEX 口径裁决 |
-| P1 MVP | **人工复核签字 45 张「待核实」卡**；取两份未获取的更正；补 D/E 级人物素材；访谈暂缓 |
+| **P0.5** | ✅ **已完成**：MVP 九章所需 A/B/C 级来源采集与建卡（57 张；P1 复核轮 +1 → **58**）+ INDEX 口径裁决 |
+| P1 MVP | **人工复核签字 46 张「待核实」卡**；取 Batsis 勘误正文（Look 更正已关闭，仅图轴单位）；补 D/E 级人物素材；访谈暂缓 |
 | P2 | 完成访谈计划；补齐行业数据与认证资料；补中国人群证据 |
 | P3 | 社区田野采样；附录 B 真伪对照表逐条建卡 |
 | P4 | 读者投稿融入；社区共建 claims |

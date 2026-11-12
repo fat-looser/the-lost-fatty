@@ -341,7 +341,7 @@ verifier: null
   - **异质性极端**：I² = 98%（来源 4 绝对量）、88%（来源 5 肌肉）、98.6%（来源 6 BMD）、78.1%（来源 6 肌力）。**只有来源 4 的比例指标 I²=7%。**
   - **两处原文数字异常已逐字照录并标注**：来源 5 的 SMD 符号、来源 6 的 SMD 百分号。**均不得直接引用。**
   - **COI 密集**：来源 1/2 由 Novo Nordisk Foundation 资助且多位作者与药厂有顾问/持股/讲者费关系；来源 3 一位作者与几乎所有主要药厂及 WW 有资助/咨询关系；来源 5 通讯级作者为 ESCEO 主席兼期刊编委。**来源 6/8 声明无冲突。**
-  - **功能终点全缺**：本卡没有任何来源给出 GLP-1 使用者的肌肉功能/体能测量结果。
+  - **客观功能终点全缺**：本卡没有任何来源给出 GLP-1 使用者的**客观**肌肉功能/体能测量结果（握力、步速、SPPB、起坐）。**交叉引用**：SURMOUNT-1 **有 SF-36v2 自评身体功能，且药组显著改善**（「reported improved physical function scores despite decreases in lean mass」）→ 详见 [claim-0038](claim-0038-lean-mass-loss-resistance-training.md)。**只写「功能终点全缺」而略去自评改善，是选择性引用。**
 - 什么情况下这条论断不成立：
   1. LEAN-PREP 或同类 RCT 结果显示**抗阻运动 + 蛋白不能保住 GLP-1 治疗中的肌肉** → 则「练能补药的短板」失去直接支撑；
   2. 功能终点研究（握力、步速、SPPB）显示 GLP-1 使用者的**肌肉功能未受损** → 则「掉肌肉」只是数字问题，不是健康问题；
@@ -353,7 +353,7 @@ verifier: null
 
 | 日期 | 核查人 | 动作 | 结论 |
 |---|---|---|---|
-| 2026-11-12 | allengaller（AI agent 检索建卡） | 建卡（Q9 药物之外运动的必要性）。经 PubMed E-utilities 核实 8 篇文献引文与摘要直引：Lundgren 2021 NEJM（33951361）、Jensen 2024 EClinicalMedicine（38544798）、Beavers 2025 Obesity（39710882）、Laverde 2026 Int J Obes（42321502）、Beaudart 2026 Drugs（42730869）、O'Bryan 2022 Sports Med（35608815）、Locatelli 2024 Diabetes Care（38687506）、Alawadhi 2026 BMJ Open LEAN-PREP 方案（42020128） | **待核实**（全文未取；功能终点全缺；零中国证据；关键 RCT 无结果） |
+| 2026-11-12 | allengaller（AI agent 检索建卡） | 建卡（Q9 药物之外运动的必要性）。经 PubMed E-utilities 核实 8 篇文献引文与摘要直引：Lundgren 2021 NEJM（33951361）、Jensen 2024 EClinicalMedicine（38544798）、Beavers 2025 Obesity（39710882）、Laverde 2026 Int J Obes（42321502）、Beaudart 2026 Drugs（42730869）、O'Bryan 2022 Sports Med（35608815）、Locatelli 2024 Diabetes Care（38687506）、Alawadhi 2026 BMJ Open LEAN-PREP 方案（42020128） | **待核实**（全文未取；客观功能终点全缺；零中国证据；关键 RCT 无结果） |
 | 2026-11-12 | 同上 | **补充检索（本轮新增）**：`exercise training during GLP-1 receptor agonist therapy lean mass randomized controlled trial`、`resistance exercise semaglutide body composition randomized trial`、`resistance training bone mineral density meta-analysis randomized controlled trials adults`、`exercise preserve lean mass weight loss older adults randomized controlled trial meta-analysis`（最后一条返回 **[]**）。经 esummary 筛出 13 篇候选，efetch 抓取 4 篇摘要 → **新增来源 3/6/7/8**，填补了「抗阻训练改善骨密度」与「关键 RCT 仍无结果」两个缺口 | 已补入 |
 | 2026-11-12 | 同上 | **证据级校准**：来源 1 = A（RCT）；**来源 2 = A 母试验 / 本分析按 B 对待**（事后分析 + 109/195 到场）；来源 3/4/5/6 = A；**来源 7 = B（作者自述 narrative review，非 A）**；**来源 8 = C（试验方案，非结果证据）** | 已按 EDITORIAL.md 一 校准，未把方案当证据 |
 | 2026-11-12 | 同上 | **口径冲突核对（三处）**：① 去脂体重「比例 +1.81%」vs「绝对量 −1.74 kg」vs「司美 −5.44 kg」→ 已并列成表，标注两种修辞；② 来源 7「∼6 kg」vs 来源 3「−1.9 kg」vs 来源 4「−1.74 kg」→ **以 DXA 安慰剂对照 meta（来源 3）为准**，来源 7 约数不得并列；③ 来源 5「SMD 0.52, CI −0.8; −0.23」符号不一致、来源 6「ΔSMD = 1.1%」单位异常 → **逐字照录 + 标注「不得直接引用」** | 已记录，未擅自修正原文 |
@@ -362,6 +362,7 @@ verifier: null
 | 2026-11-12 | 同上 | **伦理红线（EDITORIAL.md 六）**：来源 8 的「1.6 g/kg/day 蛋白」「每周三次、1→3 组」已明确标注为**试验设计参数，不构成营养/训练处方**；全卡涉及肥胖症与糖尿病用药 → 论断原文与来源 1 均标注**须附「请就诊」指引**；来源 1 的心率升高与胆石症信号**不得自行解读为「运动抵消副作用」** | 已落实 |
 | 2026-11-12 | 同上 | 跨卡一致性：① 与 **claim-0035/0036**（STEP1 司美、SURMOUNT-1 替尔泊肽）**药物不同、终点不同，禁止跨卡比较效应量**；② 与 **claim-0057**「胖=懒 含行为内核」的反方对齐——**本卡同样不得把「掉肌肉」归因为药的道德罪状**（群体层面生理机制 ≠ 个体层面归责）；③ 与 **claim-0058** 对齐——本卡提供生理必要性，补 claim-0059「情绪收益可能来自社交而非运动」的缺口；④ 与 **claim-0020/0021**（BIA/DXA 精度）对齐——**本卡来源 3 用 DXA，来源 4/5 混用多种身体成分测量法，精度口径需与彼卡一致** | 已标注 |
 | 2026-11-12 | 同上 | **最强反方确认**：Beaudart 2026（来源 5）——骨与关节无显著效应、肌肉功能后果不确定、变化 largely related to weight loss、GRADE low。**已按要求作为最强反对意见写入，并在论断原文中正面呈现** | 已落实用户要求 |
+| 2026-11-12 | AI 辅助检索（待人工复核） | **第二轮复核（跨卡，本轮新增）**：取得 **Look 2025 SURMOUNT-1 DXA 子研究全文**（Europe PMC `PMC11965027/fullTextXML`，98,053 字节）与 **Look 更正全文**（`10.1111/dom.70050`，PMID 40832789 / PMC12710557，经 PMC 文章页 HTML 取得；内容**仅 Figure 4 图轴单位「(%)」应为「(kg)」，75%/25% 与所有效应量不受影响**）；**Batsis 勘误记录已定位**（`10.7326/ANNALS-26-02085`，**PMID 42258831**，ErratumFor 三篇：41996180 主文 / 41996178 Video Summary / 41996179 Summary for Patients），**勘误正文受阻于 Cloudflare 人机验证（acpjournals.org 与 doi.org 均 403），未取得**。据此本轮修订两处：① 本卡「功能终点全缺」**限定为「客观功能终点全缺」**，并补交叉引用——SURMOUNT-1 **有 SF-36v2 自评功能且药组显著改善**（「despite decreases in lean mass」）；② 全书共享口径「安慰剂组同为 75/25」改为**构成基本相同（药组 74/26 vs 安慰剂组 75/25）**——「同为」是摘要四舍五入，正文 Results 节两组差 1 个百分点（该数字由 0038 承载，本卡口径以 INDEX 为准）。详见 [claim-0038 推翻记录](claim-0038-lean-mass-loss-resistance-training.md) 与 [INDEX §2.1](INDEX.md) | **待核实** |
 
 **下一步人工核查动作**：
 1. **查 LEAN-PREP（NCT06885736）是否已发表结果**——本卡第一优先项；同时检索其他「GLP-1 + 抗阻运动」已完成 RCT；

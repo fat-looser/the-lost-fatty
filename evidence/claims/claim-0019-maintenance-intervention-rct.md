@@ -3,7 +3,7 @@ id: claim-0019
 title: 维持可以被外部结构支持，而不是靠更硬的意志：RCT 显示每月一次人际接触使 30 个月回升减少 1.5 kg（95% CI −2.4 至 −0.6）；Meta 分析显示饮食+活动行为干预 12 个月少回升 1.56 kg（95% CI −2.27 至 −0.86）；纯技术干预的效益短暂
 status: 待核实
 level: A
-chapters: [22, 35, 36, 39]
+chapters: [22, 34, 35, 36, 39]
 created: 2026-11-12
 verified: null
 verifier: null
