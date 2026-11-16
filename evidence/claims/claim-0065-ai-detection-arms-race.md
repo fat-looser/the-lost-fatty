@@ -73,8 +73,12 @@ verifier: null
 **3c. Krishna et al，arXiv 2303.11156（攻击方视角；摘要页直取）**
 
 - 存档：[`evidence/data/arxiv-2303.11156-krishna-abs.html`](../data/arxiv-2303.11156-krishna-abs.html)，44,275 B，MD5 `49a06d825981c78afcf781e8d724a683`
-- 直引：recursive paraphrasing attack "can **significantly reduce detection rates**, it only slightly degrades text quality in many cases"；另证明**欺骗攻击（spoofing）**可行——攻击者可让检测器把**人类文本判成 AI**，带来「reputational risks for LLM developers」
-- ⚠️ **具体百分比（如「检测率降至个位数」）在正文/图表里，本次仅取得摘要 → 不得引用具体百分比，只引「显著降低」**。待全文核实后升级。
+- 直引（摘要）：recursive paraphrasing attack "can **significantly reduce detection rates**, it only slightly degrades text quality in many cases"；另证明**欺骗攻击（spoofing）**可行——攻击者可让检测器把**人类文本判成 AI**，带来「reputational risks for LLM developers」
+- ✅ **全文数字（2026-11-16 经 ar5iv HTML 版逐字取证；⚠️ arXiv PDF 两次下载均损坏——XRef 表错，非随机截断，改走 ar5iv 转换版）**：存档 [`evidence/data/ar5iv-2303.11156-krishna-fulltext.html`](../data/ar5iv-2303.11156-krishna-fulltext.html)（606,539 B，MD5 `7d5c86276b83bdee7ed5c2ad5b8a0924`）
+  > "recursive paraphrasing attack on watermarked texts, even over relatively long passages of 300 tokens in length, **can drop the detection rate (true positive rate at 1% false positive rate or TPR@1% FPR) from 99.3% to 9.7%**"
+  > "OpenAI drops from **100% to 60%** after paraphrasing"；"OpenAI's RoBERTa-Large-Detector drops from **100% to around 92%**"
+  > "After **two rounds of paraphrasing (pp2)**, the detection performance (TPR@1% FPR) in **all the settings drops below 50%**"
+- 🔑 **口径**：数字针对**水印类**（99.3→9.7）与**微调分类器**（OpenAI 100→60）等不同检测方案，**不是同一个检测器**；正文并列时必须分开归属。
 
 ### 支柱 ④（监管实测：中央网信办三份官方原文，cac.gov.cn 直连 200）
 
@@ -84,13 +88,14 @@ verifier: null
 | 「清朗·整治AI应用乱象」部署 | 2026-04-30 | `www.cac.gov.cn/2026-04/30/c_1779289298718765.htm` | 专项行动部署；标识要求（「标识」9 命中） |
 | 「清朗·整治科普健康类网络谣言」 | **2026-11-06** | `www.cac.gov.cn/2026-11/06/c_1795719652932799.htm` | **为期 2 个月**；四类重点整治（见下） |
 
-- 存档：三份均入库（[`cac-20260902-qinglang-ai-stage2.html`](../data/cac-20260902-qinglang-ai-stage2.html) 19,763 B MD5 `33d2d2e40e772913d1f249438a0bd4e6`；[`cac-20260430-qinglang-ai-deploy.html`](../data/cac-20260430-qinglang-ai-deploy.html) 19,498 B MD5 `604af5834559fe0dbcc2988c9b66886e`；[`cac-20261106-qinglang-health-rumor.html`](../data/cac-20261106-qinglang-health-rumor.html) 18,195 B MD5 `f8ab713469849391706260f23c78db02`）
+- 存档：五份均入库（[`cac-20260902-qinglang-ai-stage2.html`](../data/cac-20260902-qinglang-ai-stage2.html) 19,763 B MD5 `33d2d2e40e772913d1f249438a0bd4e6`；[`cac-20260430-qinglang-ai-deploy.html`](../data/cac-20260430-qinglang-ai-deploy.html) 19,498 B MD5 `604af5834559fe0dbcc2988c9b66886e`；[`cac-20261106-qinglang-health-rumor.html`](../data/cac-20261106-qinglang-health-rumor.html) 18,195 B MD5 `f8ab713469849391706260f23c78db02`；**2026-11-16 新增：**[`cac-20260706-qinglang-ai-stage1.html`](../data/cac-20260706-qinglang-ai-stage1.html) 14,976 B MD5 `d21693a4c8d011b3a53de15cdd92728e`；[`cac-20260914-genai-filing-announcement.html`](../data/cac-20260914-genai-filing-announcement.html) 13,618 B MD5 `e4ed0e0557c6d238a0b04d40d443caf4`）
 - 🔑 **2026-11-06 通知与本书论点的直接咬合（原文直引）**：
   > 「**借审美焦虑制造『黄连素是减肥神药』等运动、减重类谣言**」——监管文件**点名**「审美焦虑」是谣言制造的驱动机制，并点名**减重类谣言**。第 5 章「焦虑不是副作用，是产品」与第 35 章在此获得监管侧文本。
   > 「**（三）滥用人工智能技术，生成健康科普谣言**」——四子类：**批量生成同质化**涉健康文案；**AI 换脸换声盗用知名专家形象**虚假科普带货；**诱导 AI 大模型生成虚假「死亡率」「存活率」**等不实科学数据；**AI 伪造权威通报、官方健康提示**。
   > 「冒充医疗卫生健康等领域专业人士……打造所谓『国家一级保健师』『国家一级营养师』」——伪专业身份摆拍。
 - ⚠️ **「561 万」的口径边界**：这是**全平台累计清理的违法违规信息总数**（含 AI 生成与非 AI），**不是「AI 检测器的准确率」，也不是「AI 内容占比」**。正文不得从 561 万反推任何比例。它的正确用法是证明：**大规模机器初筛 + 处置已在生产运行**。
-- ⚠️ **时间线（次级来源补充，待官方逐条核验）**：2025-04「清朗·整治AI技术滥用」（处置违规 AI 产品 3,500 余款）→ 2025-09-01《人工智能生成合成内容标识办法》施行（见 [claim-0050](claim-0050-ai-health-misinformation-supply.md)）→ 2026-04 AI 应用乱象专项启动 → 2026-07 第一阶段通报（1.4 万余款 / 2.6 万余账号，次级转述）→ 2026-09-02 第二阶段（本卡一手核实）→ 2026-11-06 健康谣言专项（本卡一手核实）。
+- ✅ **时间线（2026-11-16 更新：第一阶段已升级为官方一手）**：2025-04「清朗·整治AI技术滥用」（处置违规 AI 产品 3,500 余款，次级转述）→ 2025-09-01《人工智能生成合成内容标识办法》施行（见 [claim-0050](claim-0050-ai-health-misinformation-supply.md)）→ 2026-04-30 专项部署（本卡一手）→ **2026-07-06 第一阶段通报（本卡一手，官方原文逐字核实）**：「累计处置违规网站、应用程序、智能体等AI产品**1.4万余款**，清理违法违规信息**600余万条**，处置账号**2.6万余个**，下架违规AI商品**1300余个**、违规开源数据集**9个**」→ 2026-09-02 第二阶段（本卡一手）→ 2026-11-06 健康谣言专项（本卡一手）。
+- 🚨 **双计数口径栅栏（必须随数字一起写）**：第一阶段「600 余万条」（截至 2026-07-06）与第二阶段「561 万余条」（截至 2026-09-02）是**两个阶段的分别计数，不是累计**。**不得把两者相加得出「1161 万」**；也不得把任一单阶段数字读成「AI 违规内容总量」。两阶段通报均未披露 AI 生成内容的占比拆分。
 
 ### 支柱+（防守方反击：SynthID-Text，Nature 2024）
 
@@ -136,6 +141,9 @@ verifier: null
 | 2026-11-16 | AI 辅助检索（待人工复核） | cac.gov.cn 官方页 ×3 直连 200，561 万/4.9 万/2,400 逐字命中；健康谣言专项（2026-11-06）全文提取 | 支柱④官方原文入库；⚠️ nhc/nmpa 412 与 cac 200 并存——同国政务站防护策略不同，与 claim-0063 一致 |
 | 2026-11-16 | AI 辅助检索（待人工复核） | openai.com 403（不绕过）；web.archive.org 000（与 claim-0063 一致） | 支柱①降级为次级来源标注 |
 | 2026-11-16 | AI 辅助检索（待人工复核） | URL 审计：全部探测目标与检索结果原始地址逐一比对 | 无代理替换、无越界主机 |
+| 2026-11-16 | AI 辅助检索（待人工复核） | **清朗一阶段官方原文定位并核实**（cac.gov.cn「落实举措」专栏 → `2026-07/06/c_1785081384384987.htm`，200）：1.4万款/600余万条/2.6万账号/1300余商品/9个数据集逐字命中 | 待核实第 4 条关闭；**新增双计数口径栅栏**（600余万 vs 561万为两阶段分别计数） |
+| 2026-11-16 | AI 辅助检索（待人工复核） | **生成式 AI 备案公告官方正文核实**（`2026-09/14/c_1791136833136332.htm`，200）：截至 8-31 累计 **1112 款备案、731 款登记**（新增 124 备案含 7 款手机端侧 / 133 登记） | 附件列表 JS 渲染未能程序化取得 → Keepace.ai 条目升级为多源次级（见 0066 核查记录） |
+| 2026-11-16 | AI 辅助检索（待人工复核） | **Krishna 全文数字取证**：arXiv PDF ×2 下载均损坏（XRef 错，1.5MB/1.9MB）→ 改走 ar5iv HTML 版（606KB）→ 四组数字逐字入库（99.3→9.7 / 100→60 / 100→92 / 两轮后全部<50%） | 待核实第 3 条关闭；**支柱③c 从「显著降低」粒度升级为具体数字** |
 
 ## 推翻记录（如适用）
 
@@ -155,8 +163,8 @@ verifier: null
 
 1. **中文检测的系统测评**——本卡全部学术证据为英文场景。检索 `中文 AIGC 检测 准确率 基准`、CNKI/万方「AIGC 文本检测 评测」，优先找有公开数据集的中文学术测评。
 2. **OpenAI 一手核验**——订阅或浏览器人工访问 `openai.com/ai-text-classifier/`（403 页不绕过）；26%/9% 数字核验后升级引用级别，否则删数字留事由。
-3. **Krishna 全文百分比**——arXiv PDF（`arxiv.org/pdf/2303.11156`）取得后补「检测率降至 X%」级引用。
-4. **清朗第一阶段（2026-07）官方原文**——「1.4 万余款 / 2.6 万余账号」目前为次级转述，官方页 URL 待定位（cac.gov.cn 列表页 2026-07 段逐条核对）。
+3. ~~**Krishna 全文百分比**~~ ✅ **已关闭（2026-11-16）**：经 ar5iv HTML 版取得全文（99.3→9.7 / 100→60 / 100→92 / 两轮后全部<50% 四组数字逐字入库）。⚠️ arXiv 官方 PDF 两次下载均损坏（XRef 表错），已如实记录。
+4. ~~**清朗第一阶段（2026-07）官方原文**~~ ✅ **已关闭（2026-11-16）**：官方原文取得并逐字核实（含 600 余万条 / 1300 余商品 / 9 个数据集等次级摘要没有的细节），存档入库。**新增双计数口径栅栏**（见支柱④时间线）。
 5. **SynthID 全文细节**——人工 side-by-side 评分的样本量与流程（PMCID PMC11499265 开放）。
 6. **561 万构成拆分**——如有官方问答/记者会披露「涉健康」子集，补入第 5 章/第 35 章接口。
 7. 全部存档页的 archive.org 快照（服务本网络持续不可达，待复测）。
