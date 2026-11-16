@@ -1,0 +1,42 @@
+1. J Clin Endocrinol Metab. 2012 Jul;97(7):2489-96. doi: 10.1210/jc.2012-1444.
+Epub  2012 Apr 24.
+
+Metabolic slowing with massive weight loss despite preservation of fat-free 
+mass.
+
+Johannsen DL(1), Knuth ND, Huizenga R, Rood JC, Ravussin E, Hall KD.
+
+Author information:
+(1)Skeletal Muscle Physiology Laboratory, National Institute of Diabetes and 
+Digestive and Kidney Diseases, National Institutes of Health, 12A South Drive, 
+Room 4007, Bethesda, Maryland 20892, USA. ke
+
+Erratum in
+    J Clin Endocrinol Metab. 2016 May;101(5):2266. doi: 10.1210/jc.2016-1651.
+
+CONTEXT: An important goal during weight loss is to maximize fat loss while 
+preserving metabolically active fat-free mass (FFM). Massive weight loss 
+typically results in substantial loss of FFM potentially slowing metabolic rate.
+OBJECTIVE: Our objective was to determine whether a weight loss program 
+consisting of diet restriction and vigorous exercise helped to preserve FFM and 
+maintain resting metabolic rate (RMR).
+PARTICIPANTS AND INTERVENTION: We measured body composition by dual-energy x-ray 
+absorptiometry, RMR by indirect calorimetry, and total energy expenditure by 
+doubly labeled water at baseline (n = 16), wk 6 (n = 11), and wk 30 (n = 16).
+RESULTS: At baseline, participants were severely obese (× ± SD; body mass index 
+49.4 ± 9.4 kg/m(2)) with 49 ± 5% body fat. At wk 30, more than one third of 
+initial body weight was lost (-38 ± 9%) and consisted of 17 ± 8% from FFM and 83 
+± 8% from fat. RMR declined out of proportion to the decrease in body mass, 
+demonstrating a substantial metabolic adaptation (-244 ± 231 and -504 ± 171 
+kcal/d at wk 6 and 30, respectively, P < 0.01). Energy expenditure attributed to 
+physical activity increased by 10.2 ± 5.1 kcal/kg.d at wk 6 and 6.0 ± 4.1 
+kcal/kg.d at wk 30 (P < 0.001 vs. zero).
+CONCLUSIONS: Despite relative preservation of FFM, exercise did not prevent 
+dramatic slowing of resting metabolism out of proportion to weight loss. This 
+metabolic adaptation may persist during weight maintenance and predispose to 
+weight regain unless high levels of physical activity or caloric restriction are 
+maintained.
+
+DOI: 10.1210/jc.2012-1444
+PMCID: PMC3387402
+PMID: 22535969 [Indexed for MEDLINE]

@@ -1,0 +1,49 @@
+1. Obesity (Silver Spring). 2016 Aug;24(8):1612-9. doi: 10.1002/oby.21538. Epub 
+2016 May 2.
+
+Persistent metabolic adaptation 6 years after "The Biggest Loser" competition.
+
+Fothergill E(1), Guo J(1), Howard L(1), Kerns JC(2), Knuth ND(3), Brychta R(1), 
+Chen KY(1), Skarulis MC(1), Walter M(1), Walter PJ(1), Hall KD(1).
+
+Author information:
+(1)National Institute of Diabetes and Digestive and Kidney Diseases, National 
+Institutes of Health (NIH), Bethesda, Maryland, USA.
+(2)Hospitalist Section, Washington DC Veterans Affairs Medical Center, 
+Washington, DC, USA.
+(3)Department of Kinesiology, Towson University, Baltimore, Maryland, USA.
+
+Comment in
+    Obesity (Silver Spring). 2016 Aug;24(8):1609-10. doi: 10.1002/oby.21553.
+    Obesity (Silver Spring). 2016 Oct;24(10):2026. doi: 10.1002/oby.21635.
+    Obesity (Silver Spring). 2016 Oct;24(10):2025. doi: 10.1002/oby.21638.
+    Curr Obes Rep. 2016 Dec;5(4):383-385. doi: 10.1007/s13679-016-0230-y.
+
+OBJECTIVE: To measure long-term changes in resting metabolic rate (RMR) and body 
+composition in participants of "The Biggest Loser" competition.
+METHODS: Body composition was measured by dual energy X-ray absorptiometry, and 
+RMR was determined by indirect calorimetry at baseline, at the end of the 
+30-week competition and 6 years later. Metabolic adaptation was defined as the 
+residual RMR after adjusting for changes in body composition and age.
+RESULTS: Of the 16 "Biggest Loser" competitors originally investigated, 14 
+participated in this follow-up study. Weight loss at the end of the competition 
+was (mean ± SD) 58.3 ± 24.9 kg (P < 0.0001), and RMR decreased by 610 ± 483 
+kcal/day (P = 0.0004). After 6 years, 41.0 ± 31.3 kg of the lost weight was 
+regained (P = 0.0002), while RMR was 704 ± 427 kcal/day below baseline (P < 
+0.0001) and metabolic adaptation was -499 ± 207 kcal/day (P < 0.0001). Weight 
+regain was not significantly correlated with metabolic adaptation at the 
+competition's end (r = -0.1, P = 0.75), but those subjects maintaining greater 
+weight loss at 6 years also experienced greater concurrent metabolic slowing (r 
+= 0.59, P = 0.025).
+CONCLUSIONS: Metabolic adaptation persists over time and is likely a 
+proportional, but incomplete, response to contemporaneous efforts to reduce body 
+weight.
+
+© 2016 The Obesity Society.
+
+DOI: 10.1002/oby.21538
+PMCID: PMC4989512
+PMID: 27136388 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure: No authors have conflicting 
+interests.
