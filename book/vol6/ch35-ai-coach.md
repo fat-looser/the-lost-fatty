@@ -3,11 +3,11 @@ title: AI 教练会梦见电子私教吗
 volume: 6
 chapter: 35
 status: outline
-updated: 2026-11-13
+updated: 2026-11-16
 wordcount: 0
 keywords: [AI 教练, LLM, 幻觉, 校准, 动作识别, 可穿戴, 数据隐私, 责任归属, 伪科普, PIPL, 医疗器械监管]
 tldr: ""
-claims: [claim-0019, claim-0045, claim-0046, claim-0047, claim-0048, claim-0049, claim-0050, claim-0051, claim-0052, claim-0063]
+claims: [claim-0019, claim-0045, claim-0046, claim-0047, claim-0048, claim-0049, claim-0050, claim-0051, claim-0052, claim-0063, claim-0065]
 ai_assisted: true
 ---
 
@@ -134,7 +134,7 @@ AI 能替代教练的哪一部分，不能替代哪一部分？——**以及，
 
 - 可复现、可溯源、可审计的 AI 使用方式
 - **本书自身的实践**：AI 辅助检索与润色，但证据卡必须人工核查（EDITORIAL.md 第七节）
-  → ✅ **61 张卡中 49 张仍标「待核实」，正是因为 AI 检索的内容未经人工签字。这不是瑕疵，这是论点的落实。**
+  → ✅ **62 张卡中 50 张仍标「待核实」，正是因为 AI 检索的内容未经人工签字。这不是瑕疵，这是论点的落实。**
 - 读者怎么用 AI：当索引与草稿，不当法官
 - 与第 31 章（开源治理）呼应
 
