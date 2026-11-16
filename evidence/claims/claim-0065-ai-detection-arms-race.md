@@ -102,8 +102,13 @@ verifier: null
 - 来源：Dathathri S, See A, et al. **Scalable watermarking for identifying large language model outputs.** *Nature* 2024;634(8035):818-823. DOI `10.1038/s41586-024-08025-4`（2024-10-23）｜PMID 39443777｜PMCID PMC11499265
 - 直引（摘要）：
   > "Here we describe **SynthID-Text**, a **production-ready** text watermarking scheme that preserves text quality and enables high detection accuracy … we conducted a **live experiment that assessed feedback from nearly 20 million Gemini responses**, again confirming the preservation of text quality."
+- ✅ **全文方法学（2026-11-16 PMC11499265 开放全文逐字取证，存档 [`evidence/data/pmc-11499265-synthid-fulltext.html`](../data/pmc-11499265-synthid-fulltext.html) 222,025 B MD5 `3e58a17274d7333e117138e2572c21c3`）**：
+  > 实况实验方法："A **random fraction of queries were routed to a watermarked model and an equivalent number to the unwatermarked counterpart**"——随机分流对照；质量测量是**用户点赞/点踩率对比**（thumbs-up rate for the two models…）
+  > 「human quality feedback, both from a large-scale live experiment and a **small-scale controlled study**, perplexity statistics and standard model capability benchmarks all indicate that non-distortionary SynthID-Text **causes no loss in text quality**」
+  > 生产部署："SynthID-Text **has been used to watermark Gemini and Gemini Advanced**"
+  > 可检性口径：全文统一用 **TPR@FPR=1%**；「we find **no significant difference in rater preference** (Extended Data Table 1)」
 - ⚠️ **利益相关（逐字引用自 PubMed 利益声明）**："Work funded and performed by **Google DeepMind** … have **filed patent applications** … relating to the SynthID-Text watermarking method."
-- 🔑 **与第 35 章既有纪律咬合**：PH-LLM/PHIA 的 Google 资助披露已在 ch35（「批判者的证据也来自被批判的一方」）；SynthID 同样处理——**水印能力的最硬证据恰好出自生成方自己**。**水印≠检测对手方文本**：SynthID 只能检测带自家水印的输出，这一点正文必须写明，不得写成「AI 文本检测已解决」。
+- 🔑 **两层新栅栏**：① 实况实验的质量测量是**用户点赞率**（主观反馈），不是客观质量指标；② 评分与度量全部由 DeepMind 自己设计与解读（资助已披露）。**与第 35 章既有纪律咬合**：PH-LLM/PHIA 同款处理——**水印能力的最硬证据恰好出自生成方自己**。**水印≠检测对手方文本**：SynthID 只能检测带自家水印的输出，正文不得写成「AI 文本检测已解决」。
 
 ## 四支柱合并裁决
 
@@ -120,7 +125,7 @@ verifier: null
 ## 反方与局限
 
 1. **时效性（最大局限）**：支柱 ② 是 2023 年的检测器版本——**今天的检测器可能更好**。但 RAID（2024）与监管实践（2026）表明差距结构未变。**正文必须写「截至 [日期]，公开测评显示……」**。
-2. **语言边界**：支柱 ②③ 的测评对象全部是**英文**。**中文检测的独立系统测评本书未取得**——这对一本中文书是实质性缺口，已列入待核实第 1 条。**不得把英文测评数字直接套到中文内容上。**
+2. **语言边界（2026-11-16 部分关闭）**：支柱 ②③ 测评对象为英文；**中文侧已取得独立基准 C-HAT-Bench**（arXiv 2609.32770，2026-09-26，桂林电子科技大学；C-HAT-240K 数据集：5,000 篇源文本 × 5 领域，**21 个检测器 × 4 种协议**）。其核心裁决可引：「most MGT detectors are evaluated only on fully human-written versus fully AI-generated text … **binary setting may overstate detector reliability**」，且**边界定位任务中出现「F1@1 falls to 0」与「overall accuracy remains close to chance」级失败**。⚠️ **逐检测器的中文数字在表格里未逐表提取**——引用粒度止于「基准存在 + 头条裁决」；**不得把英文 61.3% 等具体数字套到中文内容**，中文数字待逐表提取后升级。
 3. **OpenAI 一手缺失**：支柱 ① 的 26%/9% 只有次级来源（一手页 403，本书不绕过）。若人工复核仍无法核验，正文只保留下架事由（TechCrunch 标题级），**删去 26%/9% 具体数字**。
 4. **Krishna 具体百分比未取得**：摘要不含数字，正文百分比待全文。**现有引用仅到「显著降低」粒度。**
 5. **561 万的构成不明**：官方通报未拆分「AI 生成 vs 非 AI」「涉健康 vs 泛内容」。**任何拆分推断都是编造。**
@@ -144,6 +149,8 @@ verifier: null
 | 2026-11-16 | AI 辅助检索（待人工复核） | **清朗一阶段官方原文定位并核实**（cac.gov.cn「落实举措」专栏 → `2026-07/06/c_1785081384384987.htm`，200）：1.4万款/600余万条/2.6万账号/1300余商品/9个数据集逐字命中 | 待核实第 4 条关闭；**新增双计数口径栅栏**（600余万 vs 561万为两阶段分别计数） |
 | 2026-11-16 | AI 辅助检索（待人工复核） | **生成式 AI 备案公告官方正文核实**（`2026-09/14/c_1791136833136332.htm`，200）：截至 8-31 累计 **1112 款备案、731 款登记**（新增 124 备案含 7 款手机端侧 / 133 登记） | 附件列表 JS 渲染未能程序化取得 → Keepace.ai 条目升级为多源次级（见 0066 核查记录） |
 | 2026-11-16 | AI 辅助检索（待人工复核） | **Krishna 全文数字取证**：arXiv PDF ×2 下载均损坏（XRef 错，1.5MB/1.9MB）→ 改走 ar5iv HTML 版（606KB）→ 四组数字逐字入库（99.3→9.7 / 100→60 / 100→92 / 两轮后全部<50%） | 待核实第 3 条关闭；**支柱③c 从「显著降低」粒度升级为具体数字** |
+| 2026-11-16 | AI 辅助检索（待人工复核） | **SynthID PMC 全文取证**（PMC11499265，222KB）：随机分流对照方法、TPR@FPR=1% 口径、质量三层证据、生产部署句逐字入库；**新增两层栅栏**（质量测量=用户点赞率主观反馈；全部由 DeepMind 设计解读） | 待核实第 5 条按「方法学已核实」级关闭 |
+| 2026-11-16 | AI 辅助检索（待人工复核） | **中文检测基准取得**：C-HAT-Bench（arXiv 2609.32770，778KB HTML 存档）——21 检测器 × 4 协议 × C-HAT-240K；头条裁决逐字入库 | 待核实第 1 条部分关闭；「全部学术证据为英文」的表述作废，改为「逐检测器中文数字待提取」 |
 
 ## 推翻记录（如适用）
 
@@ -161,10 +168,10 @@ verifier: null
 
 ## 仍待核实（关键缺口）
 
-1. **中文检测的系统测评**——本卡全部学术证据为英文场景。检索 `中文 AIGC 检测 准确率 基准`、CNKI/万方「AIGC 文本检测 评测」，优先找有公开数据集的中文学术测评。
+1. **中文检测的系统测评（2026-11-16 部分关闭）**：✅ 已取得 **C-HAT-Bench**（arXiv 2609.32770，中文人机协作文本检测基准，21 检测器 × 4 协议，头条裁决「binary setting may overstate detector reliability」），存档 [`evidence/data/arxiv-2609.32770-chatbench-fulltext.html`](../data/arxiv-2609.32770-chatbench-fulltext.html)（778,649 B，MD5 `23c440af5788385d5ad6291f70620ad0`）。⚠️ 剩余：逐检测器中文数字（表格级）未提取；**商用中文检测器（朱雀、知网 AIGC 检测等）的独立第三方测评仍未取得**——中文社交媒体的零散实测（如「同一手写稿六平台 89% vs 7%」）只能作 D 级线索，不入卡正文。
 2. **OpenAI 一手核验**——订阅或浏览器人工访问 `openai.com/ai-text-classifier/`（403 页不绕过）；26%/9% 数字核验后升级引用级别，否则删数字留事由。
 3. ~~**Krishna 全文百分比**~~ ✅ **已关闭（2026-11-16）**：经 ar5iv HTML 版取得全文（99.3→9.7 / 100→60 / 100→92 / 两轮后全部<50% 四组数字逐字入库）。⚠️ arXiv 官方 PDF 两次下载均损坏（XRef 表错），已如实记录。
 4. ~~**清朗第一阶段（2026-07）官方原文**~~ ✅ **已关闭（2026-11-16）**：官方原文取得并逐字核实（含 600 余万条 / 1300 余商品 / 9 个数据集等次级摘要没有的细节），存档入库。**新增双计数口径栅栏**（见支柱④时间线）。
-5. **SynthID 全文细节**——人工 side-by-side 评分的样本量与流程（PMCID PMC11499265 开放）。
+5. ~~**SynthID 全文细节**~~ ✅ **已关闭（2026-11-16）**：PMC 开放全文取得（方法学三层证据：大规模实况点赞率 + 小规模受控研究 + 困惑度/标准基准；TPR@FPR=1% 统一口径；rater preference 无显著差异引 Extended Data Table 1）。⚠️ 样本量等表格级细节在 Extended Data，未逐表提取——引用粒度止于「方法学已核实」。
 6. **561 万构成拆分**——如有官方问答/记者会披露「涉健康」子集，补入第 5 章/第 35 章接口。
 7. 全部存档页的 archive.org 快照（服务本网络持续不可达，待复测）。
