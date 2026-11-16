@@ -5,7 +5,7 @@
 
 ## 采集状态总览（2026-11-12）
 
-**已完成 P0.5 证据层**：59 张卡（`claim-0001`–`claim-0062`，0032–0034 未使用）。其中 0061 为 P1 复核轮新建的 A 级专卡，0062 为第三轮新建的 C 级判例卡。
+**已完成 P0.5 证据层**：60 张卡（`claim-0001`–`claim-0063`，0032–0034 未使用）。其中 0061 为 P1 复核轮新建的 A 级专卡，0062 为第三轮新建的 C 级判例卡，0063 为第四轮新建的 D 级实测卡（作者技术实测，非访谈）。
 **唯一裁决文件**：[evidence/claims/INDEX.md](evidence/claims/INDEX.md)——口径冲突、独立性警告、原文异常、黑名单来源全部在那里，动笔前必读。
 
 | 类别 | 状态 |
@@ -18,7 +18,7 @@
 | 访谈（D 级） | ❌ **0 条**。MVP 九章的开篇人物目前全部无素材支撑 |
 | 作者经历（E 级） | ❌ **0 条**。待作者决定是否公开 |
 
-**核查状态提醒**：59 张卡中 **47 张仍标「待核实」**——AI 检索的内容未经人工签字，**这不是瑕疵，这是本书论点的落实**（EDITORIAL 第七节）。
+**核查状态提醒**：60 张卡中 **48 张仍标「待核实」**——AI 检索的内容未经人工签字，**这不是瑕疵，这是本书论点的落实**（EDITORIAL 第七节）。
 
 ### 链路腐烂实测（本轮意外收获，本身即证据）
 
@@ -31,7 +31,7 @@
 | 搜狐视频（科普原始出处） | **软 404**（返回 200 但内容不存在） |
 | 知乎 | **403** |
 | 今日头条 | 200 但**仅 JS 壳**，无正文 |
-| 百度知道 | 含 `ai_detect` 元数据，**疑批量生产** |
+| 百度知道 | **200，正文可取**（本次唯一可复核的民间来源）。🚨 原记「含 `ai_detect` 元数据，疑批量生产」**已推翻**——该字段是 AI **检测**打分，实测 `ai_score` 近零、`pre_label` 0，详见 claim-0030 |
 | archive.org | **不可达**（curl 000）→ 全部存档快照「待建」 |
 | NMPA 官网获批查询 | **412** → 三个流传日期皆为公告日，批准日待查 |
 
@@ -106,7 +106,7 @@
 | 身材焦虑的性别结构与跨文化证据 | 05 性别小节 | ✅ → [0031](evidence/claims/claim-0031-gendered-body-marketing.md) ⚠️ **Karazsia 2017 下降；中国方向相反**；Grabe 2008 符号未明不得引 |
 | STEP 系列（semaglutide）/ SURMOUNT 系列（tirzepatide） | 34 针剂效应量与局限 | ✅ → [0035](evidence/claims/claim-0035-step1-semaglutide-effect-size.md)、[0036](evidence/claims/claim-0036-surmount1-tirzepatide-dose-response.md) ⚠️ **非头对头，禁止比较优劣** |
 | GLP-1 停药后体重回升研究 | 34 停药之后 | ✅ → [0037](evidence/claims/claim-0037-weight-regain-after-discontinuation.md) ⚠️ 引文纠正为 **Wilding DOM 2022 + Rubino JAMA 2021** |
-| GLP-1 与去脂体重 / 肌肉流失 | 34 力量训练必要性、36 生理支柱 | ✅ → [0038](evidence/claims/claim-0038-lean-mass-loss-resistance-training.md)、[0060](evidence/claims/claim-0060-glp1-exercise-muscle-bone-fitness.md) ⚠️ **Look 更正已关闭（仅 Figure 4 图轴单位）；Batsis 勘误正文仍未取得**（PMID 42258831，Cloudflare 403 → **28.3% 非终局**）；**构成基本相同：药组 74/26 vs 安慰剂组 75/25**；**客观功能终点全缺，但 SF-36v2 自评功能药组改善** |
+| GLP-1 与去脂体重 / 肌肉流失 | 34 力量训练必要性、36 生理支柱 | ✅ → [0038](evidence/claims/claim-0038-lean-mass-loss-resistance-training.md)、[0060](evidence/claims/claim-0060-glp1-exercise-muscle-bone-fitness.md) ⚠️ **Look 更正已关闭（仅 Figure 4 图轴单位）；Batsis 勘误正文仍未取得**（PMID 42258831，**付费墙**，开放渠道确证无副本 → **28.3% 非终局**）；**构成基本相同：药组 74/26 vs 安慰剂组 75/25**；**客观功能终点全缺，但 SF-36v2 自评功能药组改善** |
 | GLP-1 不良反应与长期安全性 | 34 反方 | ✅ → [0041](evidence/claims/claim-0041-adverse-effects-longterm-gap.md) ⚠️「超过 5 年缺口」已撤回 → **约 3.3 年** |
 | 食欲的生理机制（摄入 / RMR / 中介） | 34 机制 | ✅ → [0043](evidence/claims/claim-0043-appetite-physiology-not-morality.md)（−35% 摄入、RMR 不变、<1 pp 由胃肠不适中介） |
 | 心血管硬终点与腰围中介 | 34 瘦≠健康 | ✅ → [0044](evidence/claims/claim-0044-select-cardiovascular-hard-endpoint.md)（HR 0.80，**仅约 33% 由腰围缩小中介**） |
@@ -164,8 +164,8 @@
 
 | 阶段 | 主要素材动作 |
 |---|---|
-| **P0.5** | ✅ **已完成**：MVP 九章所需 A/B/C 级来源采集与建卡（57 张；P1 复核轮 +1 → **58**）+ INDEX 口径裁决 |
-| P1 MVP | **人工复核签字 46 张「待核实」卡**；取 Batsis 勘误正文（Look 更正已关闭，仅图轴单位）；补 D/E 级人物素材；访谈暂缓 |
+| **P0.5** | ✅ **已完成**：MVP 九章所需 A/B/C 级来源采集与建卡（57 张；P1 复核轮 +1 → 58；第三轮 +1 → **59**）+ INDEX 口径裁决 |
+| P1 MVP | **人工复核签字 48 张「待核实」卡**；取 Batsis 勘误正文（Look 更正已关闭，仅图轴单位）；补 D/E 级人物素材；访谈暂缓 |
 | P2 | 完成访谈计划；补齐行业数据与认证资料；补中国人群证据 |
 | P3 | 社区田野采样；附录 B 真伪对照表逐条建卡 |
 | P4 | 读者投稿融入；社区共建 claims |

@@ -158,7 +158,7 @@ verifier: null
 
 - 证据的局限：
   - **来源 1 的证据质量参差**：35 项研究中位随访仅 **26 周**、中位样本仅 **78 人**；**42.9% 为低偏倚风险**（即过半不是）；**仅 10 项（28.6%）把体成分预设为主要结局**（其余多为事后分析）；**因异质性无法 meta 合并**，只能给中位数与 IQR。这意味着 **28.3% 是一个粗糙的集中趋势，不是精确的效应量**。
-  - **来源 1 的更正正文仍未获取，但记录已定位**：`Erratum in: Ann Intern Med 2026 Jul;179(7):1072. doi: 10.7326/ANNALS-26-02085`。**2026-11-12 复核：该更正确实有独立 PubMed 记录，PMID 42258831**（此前「检索无独立记录」是检索失败，不是记录不存在）。它同时是**三篇**的勘误：主文 PMID 41996180、Annals Video Summary PMID 41996178、Summary for Patients PMID 41996179。**勘误正文受阻于出版方 Cloudflare 人机验证（acpjournals.org 与 doi.org 均返回 403），未能取得** → 仍属待核实。
+  - **来源 1 的更正正文仍未获取，但记录已定位**：`Erratum in: Ann Intern Med 2026 Jul;179(7):1072. doi: 10.7326/ANNALS-26-02085`。**2026-11-12 复核：该更正确实有独立 PubMed 记录，PMID 42258831**（此前「检索无独立记录」是检索失败，不是记录不存在）。它同时是**三篇**的勘误：主文 PMID 41996180、Annals Video Summary PMID 41996178、Summary for Patients PMID 41996179。**勘误正文未能取得** → 仍属待核实。**第三轮定性（2026-11-12）：付费墙，不是抓取技术问题。** Europe PMC core 记录：`pmcid=None` / `inPMC=N` / `inEPMC=N` / `isOpenAccess=N` / `hasPDF=N` / `abstractText=None`；PubMed efetch 仅 491 字节无摘要；三个被勘误 DOI 亦全部闭源 → **开放渠道已穷尽，不存在免费全文**。acpjournals.org 与 doi.org 的 403 直接成因未确证（人机验证或付费墙网关），**但即使通过也不会有开放副本**。**本书不绕过任何访问控制。** 书目细节：**单页 1072，Epub 2026-06-09，`[No authors listed]`，标题为 "Correction: Effect of Incretin-Based and Nonpharmacologic Weight Loss on Body Composition."**
     → **可确认的是**：主文摘要（PMID 41996180）经 eutils 重新逐字抓取，**28.3%（IQR 15.9–39.9）、65%、两套基准、对照组 38%、「no study reported objective physical function outcomes」、「PRIMARY FUNDING SOURCE: None」全部与本卡一致**。勘误同时指向视频摘要与患者摘要，**提示可能是三篇共有的字段（如作者/单位/声明）**，但**这只是推测，不得写成结论**。
     → 🚫 **在取得勘误正文前，不得声称「28.3% 已是终局数字」。**
   - **来源 2 的样本与利益问题**：n=160（主试验的 6.3%）、73% 女性、亚组分析 post hoc、6/8 作者为礼来雇员兼股东、厂商持版权、存在未获取正文的更正。**不能把 160 人的结论当作 2539 人的结论。**
@@ -184,7 +184,7 @@ verifier: null
 |---|---|---|---|
 | 2026-11-12 | AI 辅助检索（待人工复核） | 建卡。经 NCBI eutils 核验 PMID 41996180、DOI 10.7326/ANNALS-25-00478、**论文标题逐字核对为「Effect of Incretin-Based and Nonpharmacologic Weight Loss on Body Composition: A Systematic Review」**、卷期页码、作者、检索日期范围、35 项研究、中位 26 周/78 人、42.9% 低偏倚、28.6% 预设主要结局、两套基准、28.3%（IQR 15.9–39.9）、65%/67%/two thirds、对照组 38%、「no study reported objective physical function outcomes」、「PRIMARY FUNDING SOURCE: None」 | 待核实 |
 | 2026-11-12 | AI 辅助检索（待人工复核） | 发现来源 1 存在 Erratum（Ann Intern Med 2026 Jul;179(7):1072, doi 10.7326/ANNALS-26-02085）；按 DOI 与关键词检索 PubMed 均无独立记录，更正正文未获取 | 更正内容待核实 |
-| 2026-11-12 | AI 辅助检索（待人工复核） | **更正复核（第二轮）**：Crossref 解析 `10.7326/ANNALS-26-02085` 得标题「Correction: Effect of Incretin-Based and Nonpharmacologic Weight Loss on Body Composition」；Europe PMC 检索得 **PMID 42258831**（**推翻此前「无独立记录」的判断**）；eutils efetch 得其 `CommentsCorrectionsList` 为 **ErratumFor 三篇**：41996178（Video Summary）、41996179（Summary for Patients）、41996180（主文）。重新逐字抓取主文摘要，**28.3%/IQR/65%/两套基准/对照组 38%/no objective function/None 资助全部一致**。勘误正文：acpjournals.org 与 doi.org 均 **403 Cloudflare 人机验证**，未获取 | 记录已定位；**勘误正文仍待核实** |
+| 2026-11-12 | AI 辅助检索（待人工复核） | **更正复核（第二轮）**：Crossref 解析 `10.7326/ANNALS-26-02085` 得标题「Correction: Effect of Incretin-Based and Nonpharmacologic Weight Loss on Body Composition」；Europe PMC 检索得 **PMID 42258831**（**推翻此前「无独立记录」的判断**）；eutils efetch 得其 `CommentsCorrectionsList` 为 **ErratumFor 三篇**：41996178（Video Summary）、41996179（Summary for Patients）、41996180（主文）。重新逐字抓取主文摘要，**28.3%/IQR/65%/两套基准/对照组 38%/no objective function/None 资助全部一致**。勘误正文：acpjournals.org 与 doi.org 均 **403**，未获取 | 记录已定位；**勘误正文仍待核实** |
 | 2026-11-12 | AI 辅助检索（待人工复核） | **更正取得（第二轮）**：Europe PMC `fullTextXML` 返回 500、`?pdf=render` 返回 Cloudflare 挑战页；改由 **PMC 文章页 HTML** 取得勘误正文，逐字为「The y-axis title of the fat mass and lean mass graphs in Figure 4 incorrectly states 'Change from baseline (%)'. This should have read 'Change from baseline (kg)'」 | ✅ **已解决：仅图轴单位，承重数字不受影响** |
 | 2026-11-12 | AI 辅助检索（待人工复核） | **取得来源 2 全文并复核承重句**：Europe PMC `PMC11965027/fullTextXML`（98,053 字节）。发现 **Results 节为药组 74% 脂肪 / 26% 去脂体重、安慰剂组 75% / 25%**，摘要的「approximately 75/25 for both」是四舍五入；Discussion 用词为「similar to」。**另发现本卡此前遗漏 SF-36v2 自评功能显著改善**（「despite decreases in lean mass」）、**≥65 岁安慰剂组脂肪占比仅 63%**、以及参考文献 36 为 Heymsfield 2014 对「四分之一规则」的批判性综述 | **两处实质性修订，见推翻记录** |
 | 2026-11-12 | AI 辅助检索（待人工复核） | 核验来源 2：PMID 39996356 / PMCID PMC11965027 / DOI 10.1111/dom.16275，抓取 PMC 全文 XML；确认 n=160（124/36）、73% 女性、−21.3%/−33.9%/−10.9% vs −5.3%/−8.2%/−2.6%、**「approximately 75% was fat mass and 25% was lean mass for both tirzepatide and placebo」**；逐字提取利益声明（6/8 作者为礼来雇员兼股东、厂商持版权） | 待核实 |
@@ -207,7 +207,8 @@ verifier: null
 - 推翻日期：2026-11-12
 - 推翻理由与证据：取得来源 2 的 PMC 全文（98,053 字节 XML）后逐句复核，发现本卡此前**只引了摘要**。**摘要与正文的精度差异，正是本书第 18 章批判的现象——而这次发生在本书自己身上。**
 - 正文如何修订：第 34 章第五节、第 36 章支柱一、[INDEX §2.1](INDEX.md)、README 与 AGENT-GUIDE 的金句与「三条分寸」同步改写；第 34/36 章须新增 SF-36v2 自评功能改善这一反方。
-- ⚠️ **仍未关闭的风险**：来源 1 的勘误正文（PMID 42258831）受阻于 Cloudflare，未取得。**若它修改了 28.3%，本卡须再次修订。**
+- ⚠️ **仍未关闭的风险**：来源 1 的勘误正文（PMID 42258831）锁在**付费墙**后，未取得。**若它修改了 28.3%，本卡须再次修订。**
+- 🔑 **障碍性质已查清，不要再写成技术故障**：开放渠道确证无副本（`inPMC=N`/`inEPMC=N`/`isOpenAccess=N`/`hasPDF=N`/无摘要）。**取得它的正当途径是订阅、图书馆或向作者索取，不是绕过访问控制。**
 - 📌 **方法论教训**：**「摘要已逐字直引」不等于「已读全文」。** 本卡第一轮的自检写着「关键句为摘要/PMC 全文直引」，但承重的那一句恰恰只来自摘要。**凡承重数字，必须回到正文 Results 节核对。**
 
 ## 关联卡片

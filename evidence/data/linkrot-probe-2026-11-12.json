@@ -1,0 +1,478 @@
+{
+  "measured_at": "2026-11-12T22:29:59+08:00",
+  "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+  "extract": "去script/style→去标签→实体解码→去空白",
+  "results": [
+    {
+      "url": "https://www.gov.cn/xinwen/2020-12/24/content_5572983.htm",
+      "http": 404,
+      "bytes": 0,
+      "text_chars": 0,
+      "final_url": null,
+      "verdict": "dead",
+      "marks": [],
+      "transport_errors": [],
+      "attempts": 1,
+      "category": "政府原始发布",
+      "prior_recorded": "404",
+      "source_card": "0053",
+      "verdict_v1": "dead",
+      "verdict_v2": "gone"
+    },
+    {
+      "url": "https://www.nhc.gov.cn/",
+      "http": 412,
+      "bytes": 0,
+      "text_chars": 0,
+      "final_url": null,
+      "verdict": "dead",
+      "marks": [],
+      "transport_errors": [],
+      "attempts": 1,
+      "category": "政府原始发布",
+      "prior_recorded": "412",
+      "source_card": "0039",
+      "verdict_v1": "dead",
+      "verdict_v2": "blocked"
+    },
+    {
+      "url": "https://www.nmpa.gov.cn/",
+      "http": 412,
+      "bytes": 0,
+      "text_chars": 0,
+      "final_url": null,
+      "verdict": "dead",
+      "marks": [],
+      "transport_errors": [],
+      "attempts": 1,
+      "category": "政府原始发布",
+      "prior_recorded": "412",
+      "source_card": "0039",
+      "verdict_v1": "dead",
+      "verdict_v2": "blocked"
+    },
+    {
+      "url": "https://tv.sohu.com/v/dXMvMzM4OTE2MjEyLzY4Mjc5ODk2OS5zaHRtbA==.html?channeled=2001040002&vid=682798969",
+      "http": 200,
+      "bytes": 50437,
+      "text_chars": 986,
+      "final_url": "https://tv.sohu.com/404/index.shtml",
+      "verdict": "soft404",
+      "marks": [
+        "final_url_has_404",
+        "missing:404"
+      ],
+      "transport_errors": [],
+      "attempts": 1,
+      "body_md5": "9f311bcb74034548bf3e97577f4a76d1",
+      "category": "科普视频原始出处",
+      "prior_recorded": "软404",
+      "source_card": "0030",
+      "verdict_v1": "soft404",
+      "verdict_v2": "soft404"
+    },
+    {
+      "url": "https://tv.sohu.com/404/index.shtml",
+      "http": 200,
+      "bytes": 50437,
+      "text_chars": 986,
+      "final_url": "https://tv.sohu.com/404/index.shtml",
+      "verdict": "soft404",
+      "marks": [
+        "final_url_has_404",
+        "missing:404"
+      ],
+      "transport_errors": [],
+      "attempts": 1,
+      "body_md5": "9f311bcb74034548bf3e97577f4a76d1",
+      "category": "平台404页(对照)",
+      "prior_recorded": "—",
+      "source_card": "0030",
+      "verdict_v1": "soft404",
+      "verdict_v2": "soft404"
+    },
+    {
+      "url": "https://zhuanlan.zhihu.com/p/617620296",
+      "http": 403,
+      "bytes": 0,
+      "text_chars": 0,
+      "final_url": null,
+      "verdict": "dead",
+      "marks": [],
+      "transport_errors": [],
+      "attempts": 1,
+      "category": "UGC 专栏",
+      "prior_recorded": "403",
+      "source_card": "0030",
+      "verdict_v1": "dead",
+      "verdict_v2": "blocked"
+    },
+    {
+      "url": "https://zhidao.baidu.com/question/1744260259829506107.html",
+      "http": 200,
+      "bytes": 154628,
+      "text_chars": 1050,
+      "final_url": "https://zhidao.baidu.com/question/1744260259829506107.html",
+      "verdict": "ai_flagged",
+      "marks": [
+        "ai:ai_detect"
+      ],
+      "transport_errors": [],
+      "attempts": 1,
+      "body_md5": "72ca706719f1d6fe28caebfb2a2cbb0b",
+      "category": "UGC 问答",
+      "prior_recorded": "ai_detect",
+      "source_card": "0030",
+      "verdict_v1": "ai_flagged",
+      "verdict_v2": "ai_flagged"
+    },
+    {
+      "url": "https://m.toutiao.com/article/7500905160182219318/",
+      "http": 200,
+      "bytes": 72914,
+      "text_chars": 0,
+      "final_url": "https://www.toutiao.com/article/7500905160182219318/?&source=m_redirect",
+      "verdict": "js_shell",
+      "marks": [],
+      "transport_errors": [],
+      "attempts": 1,
+      "body_md5": "98536c93ffddc5cd9956b56ba058f7c7",
+      "category": "聚合资讯",
+      "prior_recorded": "200 但 JS 壳",
+      "source_card": "0030",
+      "verdict_v1": "js_shell",
+      "verdict_v2": "js_shell"
+    },
+    {
+      "url": "https://archive.org/",
+      "http": 0,
+      "bytes": 0,
+      "text_chars": 0,
+      "final_url": null,
+      "verdict": "dead",
+      "marks": [],
+      "transport_errors": [
+        "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>",
+        "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>",
+        "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>"
+      ],
+      "attempts": 3,
+      "category": "存档服务",
+      "prior_recorded": "curl 000 不可达",
+      "source_card": "SOURCES",
+      "verdict_v1": "dead",
+      "verdict_v2": "unreachable"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7617101/",
+      "http": 200,
+      "bytes": 20522,
+      "text_chars": 76,
+      "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7617101/",
+      "verdict": "js_shell",
+      "marks": [],
+      "transport_errors": [],
+      "attempts": 1,
+      "body_md5": "3583bb52e5d0eef905f86404f91a1e9b",
+      "category": "对照:开放全文",
+      "prior_recorded": "—",
+      "source_card": "0053",
+      "verdict_v1": "js_shell",
+      "verdict_v2": "js_shell"
+    },
+    {
+      "url": "https://www.court.gov.cn/zixun/xiangqing/459321.html",
+      "http": 200,
+      "bytes": 38941,
+      "text_chars": 7939,
+      "final_url": "https://www.court.gov.cn/zixun/xiangqing/459321.html",
+      "verdict": "ok",
+      "marks": [],
+      "transport_errors": [],
+      "attempts": 1,
+      "body_md5": "203de566fa49594da62e0cc2d4bee40b",
+      "category": "对照:司法原始页",
+      "prior_recorded": "—",
+      "source_card": "0005",
+      "verdict_v1": "ok",
+      "verdict_v2": "ok"
+    },
+    {
+      "url": "https://www.szns.gov.cn/nsqsfj/gkmlpt/content/12/12088/post_12088095.html",
+      "http": 0,
+      "bytes": 0,
+      "text_chars": 0,
+      "final_url": null,
+      "verdict": "dead",
+      "marks": [],
+      "transport_errors": [
+        "URLError: <urlopen error [SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1082)>",
+        "URLError: <urlopen error [SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1082)>",
+        "URLError: <urlopen error [SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1082)>"
+      ],
+      "attempts": 3,
+      "category": "对照:政府转载件",
+      "prior_recorded": "—",
+      "source_card": "0005",
+      "verdict_v1": "dead",
+      "verdict_v2": "unreachable"
+    }
+  ],
+  "curl_crosscheck": [
+    {
+      "url": "https://www.gov.cn/xinwen/2020-12/24/content_5572983.htm",
+      "category": "政府原始发布",
+      "urllib": {
+        "http": 404,
+        "bytes": 0,
+        "chars": 0,
+        "verdict": "dead",
+        "verdict_v2": "gone"
+      },
+      "curl": {
+        "http": 404,
+        "bytes": 15556,
+        "chars": 493,
+        "final": "https://www.gov.cn/xinwen/2020-12/24/content_5572983.htm",
+        "md5": "d4901cd36d9143fbaea002a6a92f29bb",
+        "err": null,
+        "verdict_v2": "gone"
+      }
+    },
+    {
+      "url": "https://www.nhc.gov.cn/",
+      "category": "政府原始发布",
+      "urllib": {
+        "http": 412,
+        "bytes": 0,
+        "chars": 0,
+        "verdict": "dead",
+        "verdict_v2": "blocked"
+      },
+      "curl": {
+        "http": 412,
+        "bytes": 3737,
+        "chars": 0,
+        "final": "https://www.nhc.gov.cn/",
+        "md5": "e42bc0ed4c7910c71c7b8d60c54c3ae6",
+        "err": null,
+        "verdict_v2": "blocked"
+      }
+    },
+    {
+      "url": "https://www.nmpa.gov.cn/",
+      "category": "政府原始发布",
+      "urllib": {
+        "http": 412,
+        "bytes": 0,
+        "chars": 0,
+        "verdict": "dead",
+        "verdict_v2": "blocked"
+      },
+      "curl": {
+        "http": 412,
+        "bytes": 2531,
+        "chars": 0,
+        "final": "https://www.nmpa.gov.cn/",
+        "md5": "98f2838ad069fed2f11d932cd90cff87",
+        "err": null,
+        "verdict_v2": "blocked"
+      }
+    },
+    {
+      "url": "https://tv.sohu.com/v/dXMvMzM4OTE2MjEyLzY4Mjc5ODk2OS5zaHRtbA==.html?channeled=2001040002&vid=682798969",
+      "category": "科普视频原始出处",
+      "urllib": {
+        "http": 200,
+        "bytes": 50437,
+        "chars": 986,
+        "verdict": "soft404",
+        "verdict_v2": "soft404"
+      },
+      "curl": {
+        "http": 200,
+        "bytes": 50437,
+        "chars": 986,
+        "final": "https://tv.sohu.com/404/index.shtml",
+        "md5": "9f311bcb74034548bf3e97577f4a76d1",
+        "err": null,
+        "verdict_v2": "soft404"
+      }
+    },
+    {
+      "url": "https://tv.sohu.com/404/index.shtml",
+      "category": "平台404页(对照)",
+      "urllib": {
+        "http": 200,
+        "bytes": 50437,
+        "chars": 986,
+        "verdict": "soft404",
+        "verdict_v2": "soft404"
+      },
+      "curl": {
+        "http": 200,
+        "bytes": 50437,
+        "chars": 986,
+        "final": "https://tv.sohu.com/404/index.shtml",
+        "md5": "9f311bcb74034548bf3e97577f4a76d1",
+        "err": null,
+        "verdict_v2": "soft404"
+      }
+    },
+    {
+      "url": "https://zhuanlan.zhihu.com/p/617620296",
+      "category": "UGC 专栏",
+      "urllib": {
+        "http": 403,
+        "bytes": 0,
+        "chars": 0,
+        "verdict": "dead",
+        "verdict_v2": "blocked"
+      },
+      "curl": {
+        "http": 403,
+        "bytes": 650,
+        "chars": 33,
+        "final": "https://zhuanlan.zhihu.com/p/617620296",
+        "md5": "af35379d9028b80e5866fb3507ec26db",
+        "err": null,
+        "verdict_v2": "blocked"
+      }
+    },
+    {
+      "url": "https://zhidao.baidu.com/question/1744260259829506107.html",
+      "category": "UGC 问答",
+      "urllib": {
+        "http": 200,
+        "bytes": 154628,
+        "chars": 1050,
+        "verdict": "ai_flagged",
+        "verdict_v2": "ai_flagged"
+      },
+      "curl": {
+        "http": 200,
+        "bytes": 154619,
+        "chars": 1047,
+        "final": "https://zhidao.baidu.com/question/1744260259829506107.html",
+        "md5": "801c809b8e0657853845540d0216e104",
+        "err": null,
+        "verdict_v2": "ai_flagged"
+      }
+    },
+    {
+      "url": "https://m.toutiao.com/article/7500905160182219318/",
+      "category": "聚合资讯",
+      "urllib": {
+        "http": 200,
+        "bytes": 72914,
+        "chars": 0,
+        "verdict": "js_shell",
+        "verdict_v2": "js_shell"
+      },
+      "curl": {
+        "http": 200,
+        "bytes": 72914,
+        "chars": 0,
+        "final": "https://www.toutiao.com/article/7500905160182219318/?&source=m_redirect",
+        "md5": "98536c93ffddc5cd9956b56ba058f7c7",
+        "err": null,
+        "verdict_v2": "js_shell"
+      }
+    },
+    {
+      "url": "https://archive.org/",
+      "category": "存档服务",
+      "urllib": {
+        "http": 0,
+        "bytes": 0,
+        "chars": 0,
+        "verdict": "dead",
+        "verdict_v2": "unreachable"
+      },
+      "curl": {
+        "http": 0,
+        "bytes": 0,
+        "chars": 0,
+        "final": "https://archive.org/",
+        "md5": null,
+        "err": "curl: (28) Connection timed out after 30002 milliseconds",
+        "verdict_v2": "unreachable"
+      }
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7617101/",
+      "category": "对照:开放全文",
+      "urllib": {
+        "http": 200,
+        "bytes": 20522,
+        "chars": 76,
+        "verdict": "js_shell",
+        "verdict_v2": "js_shell"
+      },
+      "curl": {
+        "http": 200,
+        "bytes": 244294,
+        "chars": 51004,
+        "final": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7617101/",
+        "md5": "7c3dbee2cf329b02b87a1f3358e4daf1",
+        "err": null,
+        "verdict_v2": "ok"
+      }
+    },
+    {
+      "url": "https://www.court.gov.cn/zixun/xiangqing/459321.html",
+      "category": "对照:司法原始页",
+      "urllib": {
+        "http": 200,
+        "bytes": 38941,
+        "chars": 7939,
+        "verdict": "ok",
+        "verdict_v2": "ok"
+      },
+      "curl": {
+        "http": 200,
+        "bytes": 38941,
+        "chars": 7939,
+        "final": "https://www.court.gov.cn/zixun/xiangqing/459321.html",
+        "md5": "203de566fa49594da62e0cc2d4bee40b",
+        "err": null,
+        "verdict_v2": "ok"
+      }
+    },
+    {
+      "url": "https://www.szns.gov.cn/nsqsfj/gkmlpt/content/12/12088/post_12088095.html",
+      "category": "对照:政府转载件",
+      "urllib": {
+        "http": 0,
+        "bytes": 0,
+        "chars": 0,
+        "verdict": "dead",
+        "verdict_v2": "unreachable"
+      },
+      "curl": {
+        "http": 200,
+        "bytes": 87054,
+        "chars": 5146,
+        "final": "https://www.szns.gov.cn/nsqsfj/gkmlpt/content/12/12088/post_12088095.html",
+        "md5": "4d6b56766f53cbacdeb2c26012dc2d67",
+        "err": null,
+        "verdict_v2": "ok"
+      }
+    }
+  ],
+  "crosscheck_at": "2026-11-12T22:31:48+0800",
+  "verdict_taxonomy": {
+    "v1": "dead / soft404 / js_shell / ai_flagged / ok",
+    "v2": "gone(404,410) / blocked(403,412,451) / unreachable(http=0×3) / soft404 / js_shell / ai_flagged / ok",
+    "why_changed": "v1 把「内容已删除」「客户端被拒」「本机不可达」一律记为 dead。前两者是关于世界的断言，第三者只是关于本次测量的断言；混为一谈会制造本书正在批评的失真。",
+    "changed_at": "2026-11-13",
+    "note": "v1 原判保留在 verdict / verdict_v1 字段，未静默改写历史测量。v2 由已记录的 http 码与正文长度确定性推导，未重新抓取。"
+  },
+  "instrument_caveats": [
+    "urllib 在 HTTPError 分支不读响应体 → bytes=0 不代表响应为空，只代表未读体。实测 gov.cn 404：urllib 0B vs curl 15,556B/493字。跨客户端比字节前须确认两侧都读了体。",
+    "原始 HTML 的 MD5 不是页面身份的稳定指纹。szns 转载件三次抓取字节数均 87,054，MD5 三次不同（3849196a…/4d6b5676…/cc365c4e…），差异仅一段等长会话 token 与一个时间戳；去标签正文 5,146 字逐字全等。",
+    "ai_flagged 仅表示 HTML 含该字段，不表示内容判定。百度知道 ai_detect 实测 ai_score=0.00016993 / pre_label=0 → 原推断「疑批量生产」已推翻，见 claim-0030。",
+    "archive.org 两个客户端失败模式不同（urllib 3×SSL UNEXPECTED_EOF / curl 28 超时 30s）→ 只能断言本机本时段不可达，不得断言该服务全局宕机。",
+    "⚠️ v2 首次回填时漏传 marks，导致搜狐 soft404 与百度知道 ai_flagged 被误降为 ok；已修正。教训：口径升级本身也要复核，否则修正会制造新的失真。"
+  ]
+}

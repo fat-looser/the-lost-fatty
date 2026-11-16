@@ -100,7 +100,7 @@ verifier: null
 - 交叉验证价值：独立、无厂商资助的系统综述确认「肠促胰素类药物减重幅度持续大于安慰剂或生活方式干预对照」，与 SURMOUNT-1 方向一致。
 - ⚠️ **该综述存在更正**：PubMed 记录标注 `Erratum in: Ann Intern Med. 2026 Jul;179(7):1072. doi: 10.7326/ANNALS-26-02085`。
   - ✅ **2026-11-12 第二轮复核纠正**：此前写「按该 DOI 在 PubMed 检索无独立记录」是**检索失败，不是记录不存在**。该勘误**确有独立记录：PMID 42258831**，且同时是**三篇**的勘误（主文 41996180 / Annals Video Summary 41996178 / Summary for Patients 41996179）。
-  - ⚠️ **勘误正文仍未取得**：acpjournals.org 与 doi.org 均返回 **403 Cloudflare 人机验证**。**主文摘要已重新逐字核对，本卡所引数字与摘要一致**，但**勘误是否改动正文数字仍待核实** → 人工复核时须先取得勘误内容。详见 [claim-0038](claim-0038-lean-mass-loss-resistance-training.md) 与 [INDEX §5.1](INDEX.md)。
+  - ⚠️ **勘误正文仍未取得**：acpjournals.org 与 doi.org 均返回 **403**。**第三轮定性：付费墙**——Europe PMC 确证 `inPMC=N`/`inEPMC=N`/`isOpenAccess=N`/`hasPDF=N`/无摘要，**开放渠道不存在副本**；403 的直接成因未确证，但通过亦无免费全文。**不绕过访问控制。****主文摘要已重新逐字核对，本卡所引数字与摘要一致**，但**勘误是否改动正文数字仍待核实** → 人工复核时须先取得勘误内容。详见 [claim-0038](claim-0038-lean-mass-loss-resistance-training.md) 与 [INDEX §5.1](INDEX.md)。
   - 🔑 **「检索无记录」不等于「记录不存在」**——这是本书方法论教训之一。
 
 ## 反方与局限
