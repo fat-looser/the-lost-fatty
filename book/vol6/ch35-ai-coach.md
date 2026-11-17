@@ -150,7 +150,7 @@ AI 能替代教练的哪一部分，不能替代哪一部分？——**以及，
   - 回应：**不全信，且必须披露。** PH-LLM 与 PHIA 的作者全为 Alphabet 员工。**「考试分数超过人类专家」不得作为无保留结论**；且**考试分数≠临床疗效**——Stanford My Heart Counts RCT 仍在招募、无结果。
 - **第五强反对**："你说平台会操纵 AI 教练，证据呢？"
   - 回应：**没有直接实证。这是结构推断（E 级），本章已显式标注。** 本书不做无证据的指控。
-- **局限**：实测样本有限（E 级，**目前 0 条**）；模型版本迭代快；视觉纠错缺乏标准化基准；**中国厂商（华为/小米/Keep）完全空白**；综述证据库止于 2025-02
+- **局限**：实测样本有限（E 级，**目前 0 条**）；模型版本迭代快；视觉纠错缺乏标准化基准；中国厂商三形态已盘点（[claim-0066](../../evidence/claims/claim-0066-china-vendor-ai-coaches.md)）但**疗效证据仍空白**；综述证据库止于 2025-02
 - 本书自身使用 AI，必须披露（见 EDITORIAL.md 第七节）
 
 ## 落点（候选）
@@ -187,7 +187,7 @@ AI 能替代教练的哪一部分，不能替代哪一部分？——**以及，
 | AI 无利益冲突（实证）/ 平台有（推断） | [0052](../../evidence/claims/claim-0052-ai-no-conflict-platform-has.md) | B | **有争议** |
 | 人际接触有效、纯技术臂失效 | [0019](../../evidence/claims/claim-0019-maintenance-intervention-rct.md) | A | 待核实（第22章主卡） |
 
-**仍缺**：作者实测记录（E 级，注明模型/版本/日期/方法，**0 条**）；**中国厂商 AI 教练资料（华为/小米/Keep，完全空白）**；AI 内容检测的量化数据；平台实际合规做法；Stanford My Heart Counts RCT 结果（仍在招募）。
+**仍缺**：作者实测记录（E 级，注明模型/版本/日期/方法，**0 条**）；中国厂商**疗效证据**（产品形态已盘 [claim-0066](../../evidence/claims/claim-0066-china-vendor-ai-coaches.md)，独立验证仍 0）；AI 内容检测的逐检测器中文数字（[claim-0065](../../evidence/claims/claim-0065-ai-detection-arms-race.md) 表格级待提取）；平台实际合规做法；Stanford My Heart Counts RCT 结果（仍在招募）。
 
 ## 写作备注
 
