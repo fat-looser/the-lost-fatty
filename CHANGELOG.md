@@ -155,6 +155,18 @@ F.context('answers')['4510027545'].ext_pack =
 
 🔑 **为什么把它留在 README 而不是删掉**：第 35 章批评「AI 时代的浅阅读」，而本书证据层自己就犯了一次——**读了一个看起来像结论的键名，就把它当成了结论**。**这不是自嘲，是示范：在一个字段名就能充当结论的环境里，核查是唯一还没被自动化掉的动作。**
 
+### ✅ 第二批人工签字：claim-0060 + claim-0038 转正 + ch36 P-1 主槽填入
+
+**两卡转正**（A 级，2026-11-17，verifier：作者）：
+- **[claim-0060](evidence/claims/claim-0060-glp1-exercise-muscle-bone-fitness.md)**：签字范围 = Lundgren 2021 四臂结果与直引、Jensen 2024 停药随访、Beaudart 2026 反方、LEAN-PREP 状态声明。🔑 卡内明确：**「练能保住 GLP-1 掉的肌肉」仍无已完成 RCT——签字不改变这一缺口**。
+- **[claim-0038](evidence/claims/claim-0038-lean-mass-loss-resistance-training.md)**：签字范围 = DXA meta 两套口径、SURMOUNT-1 正文口径（74/26 vs 75/25）、客观/自评并陈、Batsis 摘要数字。⚠️ **Batsis 勘误正文仍未取得——28.3% 仍非终局数字，签字不关闭此风险。**
+
+**ch36 P-1 主槽填入**（§二支柱一）：四臂表 + 两段直引（体重差全 CI 段 / 体脂率段 /「Only the combination strategy…」）+ Jensen 2024（含 56% 到场与跨零警示）+ Beaudart 反方同段在场 + SURMOUNT-1 精确口径与自评改善直引 + 五条外推限制 + LEAN-PREP 缺口。支柱一头注改为「P-1 已签字填入；P-2/P-3 待签字」。
+
+**连带同步**：ch34 所需证据表三行（0038×2、0060）状态更新（Batsis 风险声明保留）；README「两张卡仍是待核实」旧表述更新；INDEX 两行 + §0 计数。**计数：待核实 50→48，已核实 4→6**。ch36 正文 7,313→**7,863 字**。
+
+**下一签字优先级：P-2（claim-0059，支柱二心理四数并陈）→ P-3/P-5（claim-0058）→ P-6/P-7（0060 已签，仅差 0061）**。
+
 ### ✅ 第一次人工签字：claim-0019 转正 + ch36 P-4 主槽填入
 
 **[claim-0019](evidence/claims/claim-0019-maintenance-intervention-rct.md)**（A 级，`status: 待核实 → 已核实`，verified 2026-11-17，verifier：作者）——**全书落点唯一 A 级实证转正**。签字范围：Svetkey 2008 三臂表（含完整 CI）、Dombrowski 2014 meta、「未拆开变量」诚实声明。

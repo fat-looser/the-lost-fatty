@@ -1,17 +1,17 @@
 ---
 id: claim-0060
 title: GLP-1 减重会掉去脂体重，药物不改善骨密度与关节结局；只有「药物+运动」联合组改善心肺适能——但「练能保住肌肉」在 GLP-1 人群中尚无已完成的 RCT 结果
-status: 待核实
+status: 已核实
 level: A
 chapters: [34, 36]
 created: 2026-11-12
-verified: null
-verifier: null
+verified: 2026-11-17
+verifier: 作者（用户指令，EDITORIAL §7 人工签字）
 ---
 
 # claim-0060：药物不是替代训练的理由——但这句话的证据比它听起来弱
 
-> ⚠️ **AI 使用披露（依 EDITORIAL.md 七）**：本卡由 AI agent 通过 PubMed E-utilities 检索建立，引文与直引均逐字取自实际抓取的 PubMed 记录，未生成任何未经检索的数字。状态 `待核实`，`verified: null`，须人工核查后方可进入正文。
+> ⚠️ **AI 使用披露（依 EDITORIAL.md 七）**：本卡由 AI agent 通过 PubMed E-utilities 检索建立，引文与直引均逐字取自实际抓取的 PubMed 记录，未生成任何未经检索的数字。作者已于 2026-11-17 人工签字（EDITORIAL §7），签字范围：Lundgren 2021 四臂结果与直引、Jensen 2024 停药随访、Beaudart 2026 反方、LEAN-PREP 状态声明。🔑 「练能保住 GLP-1 掉的肌肉」仍无已完成 RCT 结果——签字不改变这一缺口。可进入正文引用。。
 
 > ⚠️ **口径红线（本卡最容易出错的地方）**：
 > 1. **「去脂体重占总重的比例上升」与「去脂体重绝对量下降」同时为真，且被用于相反的修辞。** Laverde 2026：比例 **+1.81%**，绝对量 **−1.74 kg**，司美格鲁肽 **−5.44 kg**。**只引其中一个就是误导。**
