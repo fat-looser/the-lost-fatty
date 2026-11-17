@@ -1,17 +1,17 @@
 ---
 id: claim-0059
 title: 运动改善抑郁症状的效应真实但被高估（SMD 约 −0.4 至 −0.7），低偏倚试验中大幅缩水；焦虑证据同样存在，且发表偏倚的方向在文献中是分裂的
-status: 待核实
+status: 已核实
 level: A
 chapters: [36]
 created: 2026-11-12
-verified: null
-verifier: null
+verified: 2026-11-17
+verifier: 作者（用户指令，EDITORIAL §7 人工签字）
 ---
 
 # claim-0059：运动对抑郁焦虑的效应——数字很大，但越严格的试验数字越小
 
-> ⚠️ **AI 使用披露（依 EDITORIAL.md 七）**：本卡由 AI agent 通过 PubMed E-utilities 检索建立，引文与直引均逐字取自实际抓取的 PubMed 记录，未生成任何未经检索的数字。状态 `待核实`，`verified: null`，须人工核查后方可进入正文。
+> ⚠️ **AI 使用披露（依 EDITORIAL.md 七）**：本卡由 AI agent 通过 PubMed E-utilities 检索建立，引文与直引均逐字取自实际抓取的 PubMed 记录，未生成任何未经检索的数字。作者已于 2026-11-17 人工签字（EDITORIAL §7）。签字范围：Cochrane 2026 五行效应量表（含低偏倚子集 −0.46 与长期随访跨零）、Krogh 2017 / Cochrane 2013 低偏倚归零记录、Schuch 2016 SMD 1.11 及其「低估」主张、performance bias 全高风险判定。**签字不改变「偏倚方向分裂」这一卡的立场——两面仍然并陈。** 可进入正文引用。。
 
 > ⚠️ **本卡最重要的诚实之处：用户预设「近期研究质疑效应量被发表偏倚夸大」，但文献的实际方向是分裂的——Schuch 2016 明确声称发表偏倚导致效应被**低估**（调整后 SMD = 1.11）。** 本卡不迎合预设，两面都写。
 >
