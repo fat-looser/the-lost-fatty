@@ -72,9 +72,9 @@
 | [claim-0045](claim-0045-llm-health-advice-quality.md) | LLM 方案可用但同质化；个体化与安全性仍是短板 | A | **有争议** | 35 |
 | [claim-0046](claim-0046-hallucination-confidence-calibration.md) | **「同样确定性说对错」须改写**；高风险场景伤害证据是硬的 | B | **有争议** | 35 |
 | [claim-0047](claim-0047-visual-pose-form-correction.md) | **视觉纠错不是「演示阶段」**：已有 16 周单臂临床验证 | B | **有争议** | 35 |
-| [claim-0048](claim-0048-china-ai-medical-regulation-liability.md) | AI 不得替代医师；但「自报体重+饮食照片」落在器械监管之外 | C | **已核实** | 35 |
-| [claim-0049](claim-0049-health-data-sensitive-pipl.md) | 医疗健康与行踪轨迹属 PIPL 敏感信息；侵权适用过错推定 | C | **已核实** | 35 |
-| [claim-0050](claim-0050-ai-health-misinformation-supply.md) | 生成式 AI 提高伪科普产量与「看起来可信」程度 | A | **已核实** | 35 |
+| [claim-0048](claim-0048-china-ai-medical-regulation-liability.md) | AI 不得替代医师；但「自报体重+饮食照片」落在器械监管之外 | C | **已核实** | 35·36 |
+| [claim-0049](claim-0049-health-data-sensitive-pipl.md) | 医疗健康与行踪轨迹属 PIPL 敏感信息；侵权适用过错推定 | C | **已核实** | 35·36 |
+| [claim-0050](claim-0050-ai-health-misinformation-supply.md) | 生成式 AI 提高伪科普产量与「看起来可信」程度 | A | **已核实** | 35·36 |
 | [claim-0051](claim-0051-wearable-llm-health-agents-2026.md) | 可穿戴+LLM 已是付费产品；**关键研究几乎全由 Google 资助** | B | **有争议** | 35 |
 | [claim-0052](claim-0052-ai-no-conflict-platform-has.md) | 「AI 无利益冲突」有实证；「平台有」仍是结构推断 | B | **有争议** | 35 |
 | [claim-0053](claim-0053-china-adult-overweight-obesity-prevalence.md) | 成人超重 34.3%、肥胖 16.4%（中国口径）；**仍属二手转引** | C | 待核实 | 0 |

@@ -3,7 +3,7 @@ id: claim-0049
 title: 医疗健康与行踪轨迹是 PIPL 明列的敏感个人信息，须单独同意 + 事前影响评估；侵权适用过错推定，平台自证无过错才能免责
 status: 已核实
 level: C
-chapters: [35]
+chapters: [35, 36]
 created: 2026-11-12
 verified: null
 verifier: null

@@ -3,7 +3,7 @@ id: claim-0048
 title: 中国监管明令 AI 不得替代医师、不得自动生成处方；但吃「用户自报体重 + 饮食照片」的 AI 教练落在医疗器械监管之外——责任靠内容生产者责任与过错推定兜底
 status: 已核实
 level: C
-chapters: [35]
+chapters: [35, 36]
 created: 2026-11-12
 verified: null
 verifier: null

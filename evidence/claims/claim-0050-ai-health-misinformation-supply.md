@@ -3,7 +3,7 @@ id: claim-0050
 title: 生成式 AI 显著提高健康伪科普的产量、速度与「看起来可信」的程度；用户难以分辨，现有检测系统表现有限——供给爆炸有 A 级支撑，但「检测军备竞赛」的量化数据仍缺
 status: 已核实
 level: A
-chapters: [35]
+chapters: [35, 36]
 created: 2026-11-12
 verified: null
 verifier: null
