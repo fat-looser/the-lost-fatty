@@ -125,7 +125,7 @@ verifier: null
 ## 反方与局限
 
 1. **时效性（最大局限）**：支柱 ② 是 2023 年的检测器版本——**今天的检测器可能更好**。但 RAID（2024）与监管实践（2026）表明差距结构未变。**正文必须写「截至 [日期]，公开测评显示……」**。
-2. **语言边界（2026-11-16 部分关闭）**：支柱 ②③ 测评对象为英文；**中文侧已取得独立基准 C-HAT-Bench**（arXiv 2609.32770，2026-09-26，桂林电子科技大学；C-HAT-240K 数据集：5,000 篇源文本 × 5 领域，**21 个检测器 × 4 种协议**）。其核心裁决可引：「most MGT detectors are evaluated only on fully human-written versus fully AI-generated text … **binary setting may overstate detector reliability**」，且**边界定位任务中出现「F1@1 falls to 0」与「overall accuracy remains close to chance」级失败**。⚠️ **逐检测器的中文数字在表格里未逐表提取**——引用粒度止于「基准存在 + 头条裁决」；**不得把英文 61.3% 等具体数字套到中文内容**，中文数字待逐表提取后升级。
+2. **语言边界（2026-11-16 部分关闭）**：支柱 ②③ 测评对象为英文；**中文侧已取得独立基准 C-HAT-Bench**（arXiv 2609.32770，2026-09-26，桂林电子科技大学；C-HAT-240K 数据集：5,000 篇源文本 × 5 领域，**21 个检测器 × 4 种协议**）。其核心裁决可引：「most MGT detectors are evaluated only on fully human-written versus fully AI-generated text … **binary setting may overstate detector reliability**」，且**边界定位任务中出现「F1@1 falls to 0」与「overall accuracy remains close to chance」级失败**。✅ **2026-11-17 首批逐检测器中文数字入库**（焦点检测器 **AIGC-detector-zhv2**，即朱雀 v2）——原文逐字：「the mean cross-domain ACC is lowest when Literature is the target domain (**78.24%**), but reaches **85.43%** when the detector is trained on Literature and evaluated on the remaining domains」；「Training on News produces the highest mean cross-domain ACC (**87.45%**), with **86.1%–88.6%** on the other domains, whereas Q&A yields **79.9%** and **falls to 61.8% on Law**」。🔑 可引结论句：「**High in-domain accuracy alone does not establish transferable detection cues**」——**单域高准确率不等于跨域可迁移**，这正是「检测军备竞赛」在中文侧的量化注脚。其余 20 个检测器的表格数字仍待逐表提取。
 3. **OpenAI 一手缺失**：支柱 ① 的 26%/9% 只有次级来源（一手页 403，本书不绕过）。若人工复核仍无法核验，正文只保留下架事由（TechCrunch 标题级），**删去 26%/9% 具体数字**。
 4. **Krishna 具体百分比未取得**：摘要不含数字，正文百分比待全文。**现有引用仅到「显著降低」粒度。**
 5. **561 万的构成不明**：官方通报未拆分「AI 生成 vs 非 AI」「涉健康 vs 泛内容」。**任何拆分推断都是编造。**
@@ -151,6 +151,7 @@ verifier: null
 | 2026-11-16 | AI 辅助检索（待人工复核） | **Krishna 全文数字取证**：arXiv PDF ×2 下载均损坏（XRef 错，1.5MB/1.9MB）→ 改走 ar5iv HTML 版（606KB）→ 四组数字逐字入库（99.3→9.7 / 100→60 / 100→92 / 两轮后全部<50%） | 待核实第 3 条关闭；**支柱③c 从「显著降低」粒度升级为具体数字** |
 | 2026-11-16 | AI 辅助检索（待人工复核） | **SynthID PMC 全文取证**（PMC11499265，222KB）：随机分流对照方法、TPR@FPR=1% 口径、质量三层证据、生产部署句逐字入库；**新增两层栅栏**（质量测量=用户点赞率主观反馈；全部由 DeepMind 设计解读） | 待核实第 5 条按「方法学已核实」级关闭 |
 | 2026-11-16 | AI 辅助检索（待人工复核） | **中文检测基准取得**：C-HAT-Bench（arXiv 2609.32770，778KB HTML 存档）——21 检测器 × 4 协议 × C-HAT-240K；头条裁决逐字入库 | 待核实第 1 条部分关闭；「全部学术证据为英文」的表述作废，改为「逐检测器中文数字待提取」 |
+| 2026-11-17 | AI 辅助检索（待人工复核） | **C-HAT-Bench 焦点检测器数字提取**（本地存档 HTML，零新抓取）：朱雀 v2 跨域 ACC 61.8%–88.6%（观察 ❽❾ 逐字）+ 「High in-domain accuracy alone does not establish transferable detection cues」 | 中文侧从「零数字」升级为「基准级数字」；其余 20 检测器待逐表 |
 
 ## 推翻记录（如适用）
 
@@ -168,7 +169,7 @@ verifier: null
 
 ## 仍待核实（关键缺口）
 
-1. **中文检测的系统测评（2026-11-16 部分关闭）**：✅ 已取得 **C-HAT-Bench**（arXiv 2609.32770，中文人机协作文本检测基准，21 检测器 × 4 协议，头条裁决「binary setting may overstate detector reliability」），存档 [`evidence/data/arxiv-2609.32770-chatbench-fulltext.html`](../data/arxiv-2609.32770-chatbench-fulltext.html)（778,649 B，MD5 `23c440af5788385d5ad6291f70620ad0`）。⚠️ 剩余：逐检测器中文数字（表格级）未提取；**商用中文检测器（朱雀、知网 AIGC 检测等）的独立第三方测评仍未取得**——中文社交媒体的零散实测（如「同一手写稿六平台 89% vs 7%」）只能作 D 级线索，不入卡正文。
+1. **中文检测的系统测评（2026-11-16 部分关闭）**：✅ 已取得 **C-HAT-Bench**（arXiv 2609.32770，中文人机协作文本检测基准，21 检测器 × 4 协议，头条裁决「binary setting may overstate detector reliability」），存档 [`evidence/data/arxiv-2609.32770-chatbench-fulltext.html`](../data/arxiv-2609.32770-chatbench-fulltext.html)（778,649 B，MD5 `23c440af5788385d5ad6291f70620ad0`）。✅ **2026-11-17 部分关闭**：焦点检测器 AIGC-detector-zhv2（朱雀 v2）的跨域数字已入库（61.8%–88.6%，观察 ❽❾ 逐字）；**其余 20 个检测器的表格数字待提取**。⚠️ 独立第三方性质说明：C-HAT-Bench 是学术基准（论文作者测试朱雀 v2），**非厂商自测**——这是「商用中文检测器有独立学术测评」的第一个实证；知网 AIGC 检测是否在 21 检测器之列待核对（检测器明细在论文附录 B）。中文社交媒体零散实测仍为 D 级线索不入正文。
 2. **OpenAI 一手核验**——订阅或浏览器人工访问 `openai.com/ai-text-classifier/`（403 页不绕过）；26%/9% 数字核验后升级引用级别，否则删数字留事由。
 3. ~~**Krishna 全文百分比**~~ ✅ **已关闭（2026-11-16）**：经 ar5iv HTML 版取得全文（99.3→9.7 / 100→60 / 100→92 / 两轮后全部<50% 四组数字逐字入库）。⚠️ arXiv 官方 PDF 两次下载均损坏（XRef 表错），已如实记录。
 4. ~~**清朗第一阶段（2026-07）官方原文**~~ ✅ **已关闭（2026-11-16）**：官方原文取得并逐字核实（含 600 余万条 / 1300 余商品 / 9 个数据集等次级摘要没有的细节），存档入库。**新增双计数口径栅栏**（见支柱④时间线）。
