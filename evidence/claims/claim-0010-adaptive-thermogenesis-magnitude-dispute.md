@@ -5,9 +5,11 @@ status: 有争议
 level: A
 chapters: [22]
 created: 2026-11-12
-verified: null
-verifier: null
+verified: 2026-11-18
+verifier: 作者（用户指令，EDITORIAL §7 人工签字）
 ---
+
+> ✅ **来源已签字核验（2026-11-18，作者人工复核，EDITORIAL §7）。`status: 有争议` 保留——它是主张级信号（争议须随卡进入正文，反方证据与正方同段呈现），签字只确认来源与数字口径，不改变主张状态。**
 
 # claim-0010：代谢适应——它存在，但「有多大」和「是不是反弹的元凶」都还没有定论
 

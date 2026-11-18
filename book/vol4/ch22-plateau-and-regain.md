@@ -144,15 +144,15 @@ ai_assisted: true
 
 | 论断 | 卡 | 级 | 状态 |
 |---|---|---|---|
-| 代谢适应量级存在严重分歧（30–100 vs −500 kcal/d） | [0010](../../evidence/claims/claim-0010-adaptive-thermogenesis-magnitude-dispute.md) | A | **有争议**（正文须保留争议） |
-| 超级减肥王六年随访 + **2016 更正作废 789/−504** | [0011](../../evidence/claims/claim-0011-biggest-loser-six-year-rmr.md) | B | 待核实（DOI 已 Crossref 核实） |
-| NREE 与活动下降；**Levine 1999 不可引** | [0012](../../evidence/claims/claim-0012-neat-decline-under-restriction.md) | B | 待核实 |
+| 代谢适应量级存在严重分歧（30–100 vs −500 kcal/d） | [0010](../../evidence/claims/claim-0010-adaptive-thermogenesis-magnitude-dispute.md) | A | **有争议**（正文须保留争议；来源已核验 2026-11-18） |
+| 超级减肥王六年随访 + **2016 更正作废 789/−504** | [0011](../../evidence/claims/claim-0011-biggest-loser-six-year-rmr.md) | B | **已核实（2026-11-18）**（DOI 已 Crossref 核实） |
+| NREE 与活动下降；**Levine 1999 不可引** | [0012](../../evidence/claims/claim-0012-neat-decline-under-restriction.md) | B | **已核实（2026-11-18）** |
 | 激素变化 ≥1 年不回基线；ghrelin 与回升关联 | [0013](../../evidence/claims/claim-0013-hormonal-adaptation-persistence.md) | A | 待核实（DOI 已核实） |
 | set point vs settling point 未收敛 | [0014](../../evidence/claims/claim-0014-setpoint-vs-settlingpoint.md) | B | **有争议**（不得选边） |
-| NWCR 十年维持 + **幸存者偏差** | [0015](../../evidence/claims/claim-0015-nwcr-successful-maintainers.md) | B | 待核实 |
-| 反弹时间曲线（第一年 1/3；4–5 年 29%/17%） | [0016](../../evidence/claims/claim-0016-weight-regain-timecourse.md) | A | 待核实 |
-| **依从性衰减 + 自报低报 47±16%** | [0017](../../evidence/claims/claim-0017-plateau-adherence-underreporting.md) | B | 待核实 |
-| 3500 kcal 规则错误；约 1 年半衰期 | [0018](../../evidence/claims/claim-0018-energy-balance-dynamics-plateau.md) | B | 待核实 |
+| NWCR 十年维持 + **幸存者偏差** | [0015](../../evidence/claims/claim-0015-nwcr-successful-maintainers.md) | B | **已核实（2026-11-18）** |
+| 反弹时间曲线（第一年 1/3；4–5 年 29%/17%） | [0016](../../evidence/claims/claim-0016-weight-regain-timecourse.md) | A | **已核实（2026-11-18）** |
+| **依从性衰减 + 自报低报 47±16%** | [0017](../../evidence/claims/claim-0017-plateau-adherence-underreporting.md) | B | **已核实（2026-11-18）** |
+| 3500 kcal 规则错误；约 1 年半衰期 | [0018](../../evidence/claims/claim-0018-energy-balance-dynamics-plateau.md) | B | **已核实（2026-11-18）** |
 | **人际接触有效、纯技术臂失效** | [0019](../../evidence/claims/claim-0019-maintenance-intervention-rct.md) | A | 待核实 |
 | **官方规范侧证：CBT「维持和预防复发」模块（6–9 次面对面）；维持期运动量单列且更高** | [0061](../../evidence/claims/claim-0061-obesity-guideline-fulltext-search.md) | A | 待核实（**本轮新增**，PDF 已入库 79 页；**规范侧证非效应量**，不得当作对 1.5 kg 的独立验证） |
 

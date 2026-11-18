@@ -9,14 +9,14 @@
 | 维度 | 分布 |
 |---|---|
 | 总数 | 63 张（claim-0001 ~ claim-0066，其中 0032–0034 未使用） |
-| 状态 | 待核实 31 · **已核实 23** · 有争议 9 |
+| 状态 | 待核实 25 · **已核实 29** · 有争议 9 |
 | 证据级 | A 30 · B 15 · **C 16** · **D 2** · E 0 |
 | 反方小节 | 63/63 全部具备 |
 
 > ⚠️ **D 2 的说明**：claim-0063 / 0064 均为**作者实测 / 公开内容抽样**（可复现脚本+原始输出入库），**都不是访谈**。0065（B）补齐 0050 承认缺失的「检测军备竞赛量化数据」。**访谈类 D 级仍为 0**，E 级仍为 0——人物与第一人称素材的结构性缺口**没有**因此缩小。
 
 
-**「已核实」现有 23 张**（2026-11-17~18 分六批签字，含 ch34/ch35 全部挂卡；0013/0035–0037/0039–0044/0054/0063/0065/0066 为第五~六批批量签字），其余卡的直引虽已逐字取自 PubMed/PMC/政府原文，但按 [EDITORIAL.md](../../EDITORIAL.md) 第七节，**AI 辅助检索的事实性内容须人工复核签字后才能改状态**。这是设计，不是遗漏。**0019 于 2026-11-17 由作者签字**——全书落点唯一 A 级实证转正，ch36 P-4 已填。
+**「已核实」现有 29 张**（2026-11-17~18 分七批签字；第七批为 ch22 挂卡 0011/0012/0015/0016/0017/0018；**0010 保留有争议**，来源已核验），其余卡的直引虽已逐字取自 PubMed/PMC/政府原文，但按 [EDITORIAL.md](../../EDITORIAL.md) 第七节，**AI 辅助检索的事实性内容须人工复核签字后才能改状态**。这是设计，不是遗漏。**0019 于 2026-11-17 由作者签字**——全书落点唯一 A 级实证转正，ch36 P-4 已填。
 
 **访谈 / 作者经验类素材为 0 的含义**：62 张卡里两张 D 级（0063/0064）是**作者实测与传播抽样**，不是访谈；**没有一条访谈或作者经验进入证据层**。全书的第一人称视角与人物场景仍缺素材支撑——这是 P2 阶段访谈工作要补的，也是当前最大的结构性缺口。
 
@@ -38,14 +38,14 @@
 | [claim-0008](claim-0008-pt-pay-sales-kpi.md) | 私教薪酬把卖课排在上课之前——结构问题非个人道德 | C | 待核实 | 2·3 |
 | [claim-0009](claim-0009-obesity-paradox-fitness-spending.md) | 千亿市场，秤上无解 | C | 待核实 | 1 |
 | [claim-0010](claim-0010-adaptive-thermogenesis-magnitude-dispute.md) | 代谢适应幅度学界严重分歧：极端样本 −500 vs 稳定体重 −50 kcal/d | A | **有争议** | 22 |
-| [claim-0011](claim-0011-biggest-loser-six-year-rmr.md) | 超级减肥王六年随访；**流传的 789/−504 已于 2016 年被更正** | B | 待核实 | 22 |
-| [claim-0012](claim-0012-neat-decline-under-restriction.md) | 能量限制下 NREE 与活动下降；**Levine 1999 是过量进食研究，不能引** | B | 待核实 | 22 |
+| [claim-0011](claim-0011-biggest-loser-six-year-rmr.md) | 超级减肥王六年随访；**流传的 789/−504 已于 2016 年被更正** | B | **已核实（2026-11-18 作者签字）** | 22 |
+| [claim-0012](claim-0012-neat-decline-under-restriction.md) | 能量限制下 NREE 与活动下降；**Levine 1999 是过量进食研究，不能引** | B | **已核实（2026-11-18 作者签字）** | 22 |
 | [claim-0013](claim-0013-hormonal-adaptation-persistence.md) | 食欲激素变化 ≥1 年不回基线；ghrelin 每 +1 ng/mL → 多回升 2.3% | A | **已核实（2026-11-18 作者签字）** | 22·34 |
 | [claim-0014](claim-0014-setpoint-vs-settlingpoint.md) | set point vs settling point 之争未收敛，不得断言任一方 | B | **有争议** | 22 |
-| [claim-0015](claim-0015-nwcr-successful-maintainers.md) | NWCR 十年维持 23.1 kg、>87%；**自我选择样本有幸存者偏差** | B | 待核实 | 22 |
-| [claim-0016](claim-0016-weight-regain-timecourse.md) | 反弹时间曲线：第一年约回升三分之一；4–5 年维持 29%/17% | A | 待核实 | 22 |
-| [claim-0017](claim-0017-plateau-adherence-underreporting.md) | 最强竞争解释：依从性衰减 + 摄入自报偏低（低报 47±16%） | B | 待核实 | 22 |
-| [claim-0018](claim-0018-energy-balance-dynamics-plateau.md) | 「3500 千卡 = 1 磅」是错的；体重按约 1 年半衰期趋向新平台 | B | 待核实 | 22 |
+| [claim-0015](claim-0015-nwcr-successful-maintainers.md) | NWCR 十年维持 23.1 kg、>87%；**自我选择样本有幸存者偏差** | B | **已核实（2026-11-18 作者签字）** | 22 |
+| [claim-0016](claim-0016-weight-regain-timecourse.md) | 反弹时间曲线：第一年约回升三分之一；4–5 年维持 29%/17% | A | **已核实（2026-11-18 作者签字）** | 22 |
+| [claim-0017](claim-0017-plateau-adherence-underreporting.md) | 最强竞争解释：依从性衰减 + 摄入自报偏低（低报 47±16%） | B | **已核实（2026-11-18 作者签字）** | 22 |
+| [claim-0018](claim-0018-energy-balance-dynamics-plateau.md) | 「3500 千卡 = 1 磅」是错的；体重按约 1 年半衰期趋向新平台 | B | **已核实（2026-11-18 作者签字）** | 22 |
 | [claim-0019](claim-0019-maintenance-intervention-rct.md) | 每月一次人际接触使 30 个月回升少 1.5 kg；纯技术臂失效 | A | **已核实（2026-11-17 作者签字）** | 22·35·36 |
 | [claim-0020](claim-0020-bia-scale-validity.md) | 家用 BIA 体脂秤个体层面不可与参考方法互换，误差十余百分点 | A | 待核实 | 20 |
 | [claim-0021](claim-0021-dexa-precision-limits.md) | DEXA 也非绝对真值；生物学变异远大于技术误差 | B | 待核实 | 20 |
