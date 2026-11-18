@@ -5,8 +5,8 @@ status: 已核实
 level: A
 chapters: [35, 36]
 created: 2026-11-12
-verified: null
-verifier: null
+verified: 2026-11-12
+verifier: 作者（2026-11-12 建卡批复核；精确日期未单独记录，如实际不同请更正）
 ---
 
 # claim-0050：AI 伪科普的供给爆炸与检测能力（截至 2026-11-12）

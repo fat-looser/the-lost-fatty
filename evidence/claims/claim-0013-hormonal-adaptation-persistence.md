@@ -1,13 +1,15 @@
 ---
 id: claim-0013
 title: 减重后食欲相关激素的变化持续至少一年不回到基线（Sumithran, NEJM 2011, n=50）；DiRECT 事后分析显示空腹 ghrelin 每升高 1 ng/mL，随后一年体重多回升 2.3%（95% CI 0.4–4.1）——但「激素变化是否驱动反弹」仍有反证
-status: 待核实
+status: 已核实
 level: A
 chapters: [22, 34]
 created: 2026-11-12
-verified: null
-verifier: null
+verified: 2026-11-18
+verifier: 作者（用户指令，EDITORIAL §7 人工签字）
 ---
+
+> ✅ **已签字（2026-11-18，作者人工复核，EDITORIAL §7）。签字范围：本卡已采集来源、数字口径与直引。可进入正文引用。卡内声明的未决风险（如有）不因签字关闭。**
 
 # claim-0013：减重后的饥饿不是嘴馋——但「激素导致反弹」这句话，学界还没盖章
 

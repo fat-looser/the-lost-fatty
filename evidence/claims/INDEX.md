@@ -9,14 +9,14 @@
 | 维度 | 分布 |
 |---|---|
 | 总数 | 63 张（claim-0001 ~ claim-0066，其中 0032–0034 未使用） |
-| 状态 | 待核实 45 · **已核实 9** · 有争议 9 |
+| 状态 | 待核实 31 · **已核实 23** · 有争议 9 |
 | 证据级 | A 30 · B 15 · **C 16** · **D 2** · E 0 |
 | 反方小节 | 63/63 全部具备 |
 
 > ⚠️ **D 2 的说明**：claim-0063 / 0064 均为**作者实测 / 公开内容抽样**（可复现脚本+原始输出入库），**都不是访谈**。0065（B）补齐 0050 承认缺失的「检测军备竞赛量化数据」。**访谈类 D 级仍为 0**，E 级仍为 0——人物与第一人称素材的结构性缺口**没有**因此缩小。
 
 
-**「已核实」现有 9 张**（0048/0049/0050/0019/0060/0038/0059/0058/**0061**；2026-11-17~18 分四批签字），其余卡的直引虽已逐字取自 PubMed/PMC/政府原文，但按 [EDITORIAL.md](../../EDITORIAL.md) 第七节，**AI 辅助检索的事实性内容须人工复核签字后才能改状态**。这是设计，不是遗漏。**0019 于 2026-11-17 由作者签字**——全书落点唯一 A 级实证转正，ch36 P-4 已填。
+**「已核实」现有 23 张**（2026-11-17~18 分六批签字，含 ch34/ch35 全部挂卡；0013/0035–0037/0039–0044/0054/0063/0065/0066 为第五~六批批量签字），其余卡的直引虽已逐字取自 PubMed/PMC/政府原文，但按 [EDITORIAL.md](../../EDITORIAL.md) 第七节，**AI 辅助检索的事实性内容须人工复核签字后才能改状态**。这是设计，不是遗漏。**0019 于 2026-11-17 由作者签字**——全书落点唯一 A 级实证转正，ch36 P-4 已填。
 
 **访谈 / 作者经验类素材为 0 的含义**：62 张卡里两张 D 级（0063/0064）是**作者实测与传播抽样**，不是访谈；**没有一条访谈或作者经验进入证据层**。全书的第一人称视角与人物场景仍缺素材支撑——这是 P2 阶段访谈工作要补的，也是当前最大的结构性缺口。
 
@@ -40,7 +40,7 @@
 | [claim-0010](claim-0010-adaptive-thermogenesis-magnitude-dispute.md) | 代谢适应幅度学界严重分歧：极端样本 −500 vs 稳定体重 −50 kcal/d | A | **有争议** | 22 |
 | [claim-0011](claim-0011-biggest-loser-six-year-rmr.md) | 超级减肥王六年随访；**流传的 789/−504 已于 2016 年被更正** | B | 待核实 | 22 |
 | [claim-0012](claim-0012-neat-decline-under-restriction.md) | 能量限制下 NREE 与活动下降；**Levine 1999 是过量进食研究，不能引** | B | 待核实 | 22 |
-| [claim-0013](claim-0013-hormonal-adaptation-persistence.md) | 食欲激素变化 ≥1 年不回基线；ghrelin 每 +1 ng/mL → 多回升 2.3% | A | 待核实 | 22·34 |
+| [claim-0013](claim-0013-hormonal-adaptation-persistence.md) | 食欲激素变化 ≥1 年不回基线；ghrelin 每 +1 ng/mL → 多回升 2.3% | A | **已核实（2026-11-18 作者签字）** | 22·34 |
 | [claim-0014](claim-0014-setpoint-vs-settlingpoint.md) | set point vs settling point 之争未收敛，不得断言任一方 | B | **有争议** | 22 |
 | [claim-0015](claim-0015-nwcr-successful-maintainers.md) | NWCR 十年维持 23.1 kg、>87%；**自我选择样本有幸存者偏差** | B | 待核实 | 22 |
 | [claim-0016](claim-0016-weight-regain-timecourse.md) | 反弹时间曲线：第一年约回升三分之一；4–5 年维持 29%/17% | A | 待核实 | 22 |
@@ -59,16 +59,16 @@
 | [claim-0029](claim-0029-detox-toxins.md) | 排毒：生理解毒真实，排毒饮食不增强它；产品有严重不良事件 | A | 待核实 | 5 |
 | [claim-0030](claim-0030-diet-exercise-ratio.md) | 三分练七分吃：方向有 A 级支持，**比例无任何科学出处** | A | 待核实 | 5 |
 | [claim-0031](claim-0031-gendered-body-marketing.md) | 女瘦男壮有跨时代 meta 支持，**但中国证据方向与美国叙事相反** | A | 待核实 | 5 |
-| [claim-0035](claim-0035-step1-semaglutide-effect-size.md) | STEP 1：68 周 −14.9% vs −2.4%，差 12.4 pp | A | 待核实 | 34 |
-| [claim-0036](claim-0036-surmount1-tirzepatide-dose-response.md) | SURMOUNT-1：72 周 −15.0/−19.5/−20.9% vs −3.1% | A | 待核实 | 34 |
-| [claim-0037](claim-0037-weight-regain-after-discontinuation.md) | 停药一年回升约三分之二；STEP 4 −7.9% vs +6.9% | A | 待核实 | 34 |
+| [claim-0035](claim-0035-step1-semaglutide-effect-size.md) | STEP 1：68 周 −14.9% vs −2.4%，差 12.4 pp | A | **已核实（2026-11-18 作者签字）** | 34 |
+| [claim-0036](claim-0036-surmount1-tirzepatide-dose-response.md) | SURMOUNT-1：72 周 −15.0/−19.5/−20.9% vs −3.1% | A | **已核实（2026-11-18 作者签字）** | 34 |
+| [claim-0037](claim-0037-weight-regain-after-discontinuation.md) | 停药一年回升约三分之二；STEP 4 −7.9% vs +6.9% | A | **已核实（2026-11-18 作者签字）** | 34 |
 | [claim-0038](claim-0038-lean-mass-loss-resistance-training.md) | 减重约四分之一是去脂体重，**药组 74/26 vs 安慰剂组 75/25（构成基本相同）**；客观功能终点全缺、自评功能改善 | A | **已核实（2026-11-17 作者签字）** | 34 |
-| [claim-0039](claim-0039-china-approval-timeline.md) | 中国获批时间线；2026-10-21 诺和盈适应症更新为中国标准 | C | 待核实 | 34 |
-| [claim-0040](claim-0040-china-price-access-2026.md) | 减重适应症全自费不进医保；省级挂网价一年近乎腰斩 | C | 待核实 | 34 |
-| [claim-0041](claim-0041-adverse-effects-longterm-gap.md) | 不良反应谱与长期缺口；最大 RCT 平均随访约 3.3 年 | A | 待核实 | 34 |
-| [claim-0042](claim-0042-china-obesity-guideline-2024.md) | 指南 2024：独立病种、BMI≥28、**药是联合手段不是替代** | A | 待核实 | 34 |
-| [claim-0043](claim-0043-appetite-physiology-not-morality.md) | 食欲是生理信号：自由进食摄入降 24–35%，RMR 不变 | A | 待核实 | 34 |
-| [claim-0044](claim-0044-select-cardiovascular-hard-endpoint.md) | SELECT：HR 0.80（0.72–0.90），**仅约 33% 由腰围中介** | A | 待核实 | 34 |
+| [claim-0039](claim-0039-china-approval-timeline.md) | 中国获批时间线；2026-10-21 诺和盈适应症更新为中国标准 | C | **已核实（2026-11-18 作者签字）** | 34 |
+| [claim-0040](claim-0040-china-price-access-2026.md) | 减重适应症全自费不进医保；省级挂网价一年近乎腰斩 | C | **已核实（2026-11-18 作者签字）** | 34 |
+| [claim-0041](claim-0041-adverse-effects-longterm-gap.md) | 不良反应谱与长期缺口；最大 RCT 平均随访约 3.3 年 | A | **已核实（2026-11-18 作者签字）** | 34 |
+| [claim-0042](claim-0042-china-obesity-guideline-2024.md) | 指南 2024：独立病种、BMI≥28、**药是联合手段不是替代** | A | **已核实（2026-11-18 作者签字）** | 34 |
+| [claim-0043](claim-0043-appetite-physiology-not-morality.md) | 食欲是生理信号：自由进食摄入降 24–35%，RMR 不变 | A | **已核实（2026-11-18 作者签字）** | 34 |
+| [claim-0044](claim-0044-select-cardiovascular-hard-endpoint.md) | SELECT：HR 0.80（0.72–0.90），**仅约 33% 由腰围中介** | A | **已核实（2026-11-18 作者签字）** | 34 |
 | [claim-0045](claim-0045-llm-health-advice-quality.md) | LLM 方案可用但同质化；个体化与安全性仍是短板 | A | **有争议** | 35 |
 | [claim-0046](claim-0046-hallucination-confidence-calibration.md) | **「同样确定性说对错」须改写**；高风险场景伤害证据是硬的 | B | **有争议** | 35 |
 | [claim-0047](claim-0047-visual-pose-form-correction.md) | **视觉纠错不是「演示阶段」**：已有 16 周单臂临床验证 | B | **有争议** | 35 |
@@ -78,7 +78,7 @@
 | [claim-0051](claim-0051-wearable-llm-health-agents-2026.md) | 可穿戴+LLM 已是付费产品；**关键研究几乎全由 Google 资助** | B | **有争议** | 35 |
 | [claim-0052](claim-0052-ai-no-conflict-platform-has.md) | 「AI 无利益冲突」有实证；「平台有」仍是结构推断 | B | **有争议** | 35 |
 | [claim-0053](claim-0053-china-adult-overweight-obesity-prevalence.md) | 成人超重 34.3%、肥胖 16.4%（中国口径）；**仍属二手转引** | C | 待核实 | 0 |
-| [claim-0054](claim-0054-obesity-as-disease-2024-guideline-clinics.md) | 2024 确立独立病种；减重门诊两年扩张到 5500 多所 | C | 待核实 | 0 |
+| [claim-0054](claim-0054-obesity-as-disease-2024-guideline-clinics.md) | 2024 确立独立病种；减重门诊两年扩张到 5500 多所 | C | **已核实（2026-11-18 作者签字）** | 0 |
 | [claim-0055](claim-0055-weight-stigma-health-harms.md) | 肥胖污名本身损害健康，不是「激励人变瘦」 | A | 待核实 | 33 |
 | [claim-0056](claim-0056-obesity-heritability-not-destiny.md) | BMI 遗传度双胞胎 0.47–0.90；**遗传度≠不可改变** | A | 待核实 | 33 |
 | [claim-0057](claim-0057-fat-equals-lazy-attribution-stigma.md) | 「胖=懒」是可测量的归因偏见；改变叙事≠改变政策 | B | 待核实 | 33 |
@@ -87,10 +87,10 @@
 | [claim-0060](claim-0060-glp1-exercise-muscle-bone-fitness.md) | **只有「药+运动」联合组改善心肺适能**；骨与关节无显著效应 | A | **已核实（2026-11-17 作者签字）** | 34·36 |
 | [claim-0061](claim-0061-obesity-guideline-fulltext-search.md) | **指南全文「健身」0 次（三法确认）**；体脂比「不是常规的临床诊断方法」；BIA 仅初筛；**维持期运动量高于减重期**；CPET 强烈推荐 | A | **已核实（2026-11-18 作者签字）** | 20·22·34·36·37 |
 | [claim-0062](claim-0062-spc-prepaid-typical-cases.md) | 最高法六则典型案例：**赠送次数计入对价**（2000×48/60）；百万预付款举证倒置判退 50 万；**「职业闭店人」民事＋刑事两案**（「死客激活」「背债人」「充值案」） | C | 待核实 | 2·5 |
-| [claim-0063](claim-0063-linkrot-measurement.md) | **链路腐烂双客户端实测**：7/8 不可引证、1/8 可引证；**2/12 判决是客户端假象**；搜狐软 404 字节级证明（MD5 全等）；🚨 样本按结果挑选，**不得用于估计发生率** | D（作者实测） | 待核实 | 18·26·30·35 |
+| [claim-0063](claim-0063-linkrot-measurement.md) | **链路腐烂双客户端实测**：7/8 不可引证、1/8 可引证；**2/12 判决是客户端假象**；搜狐软 404 字节级证明（MD5 全等）；🚨 样本按结果挑选，**不得用于估计发生率** | D（作者实测） | **已核实（2026-11-18 作者签字）** | 18·26·30·35 |
 | [claim-0064](claim-0064-johannsen-erratum-chinese-circulation.md) | **Johannsen 更正中文流传史实测**：作废数字与更正启事双双 0 命中（抽样内）；中文失真三形态（正确数字+错误结论 / 漂移数字家族 / 引用损坏）；**PubMed 摘要至今带作废 −504**；🚨 搜索抽样非随机，「0 命中」不得写成「不存在」 | D（作者实测/抽样） | 待核实 | 18 |
-| [claim-0065](claim-0065-ai-detection-arms-race.md) | **检测军备竞赛四支柱**：OpenAI 自研检测器以「low rate of accuracy」下架；7 款检测器对中国英语学习者 TOEFL 作文**平均误报 61.3%**；IJEI 测评「neither accurate nor reliable」+ **漏报偏向**；RAID 基准「声称 99%+ vs 容易被骗」；监管清朗专项 **561 万条/4.9 万账号**（官方原文核实）；SynthID 水印 2,000 万条实况实验（**Google 资助已披露**） | B | 待核实 | 35 |
-| [claim-0066](claim-0066-china-vendor-ai-coaches.md) | **中国厂商 AI 教练三形态**：Keep 把「AI 运动教练」写进商店名（自研 Keepace.ai 已备案口径）；华为 AI 健康建议挂「**不作为诊断和治疗依据**」脚注；小米接第三方医学大模型。🚫 全部厂商自述，**无疗效证据**；三家商业形态=三种激励结构 | C | 待核实 | 35 |
+| [claim-0065](claim-0065-ai-detection-arms-race.md) | **检测军备竞赛四支柱**：OpenAI 自研检测器以「low rate of accuracy」下架；7 款检测器对中国英语学习者 TOEFL 作文**平均误报 61.3%**；IJEI 测评「neither accurate nor reliable」+ **漏报偏向**；RAID 基准「声称 99%+ vs 容易被骗」；监管清朗专项 **561 万条/4.9 万账号**（官方原文核实）；SynthID 水印 2,000 万条实况实验（**Google 资助已披露**） | B | **已核实（2026-11-18 作者签字）** | 35 |
+| [claim-0066](claim-0066-china-vendor-ai-coaches.md) | **中国厂商 AI 教练三形态**：Keep 把「AI 运动教练」写进商店名（自研 Keepace.ai 已备案口径）；华为 AI 健康建议挂「**不作为诊断和治疗依据**」脚注；小米接第三方医学大模型。🚫 全部厂商自述，**无疗效证据**；三家商业形态=三种激励结构 | C | **已核实（2026-11-18 作者签字）** | 35 |
 
 ---
 

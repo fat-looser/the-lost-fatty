@@ -1,13 +1,15 @@
 ---
 id: claim-0036
 title: SURMOUNT-1：替尔泊肽 5/10/15 mg 每周一次，72 周平均减重 15.0%/19.5%/20.9%，安慰剂 3.1%（均带 95% CI）
-status: 待核实
+status: 已核实
 level: A
 chapters: [34]
 created: 2026-11-12
-verified: null
-verifier: null
+verified: 2026-11-18
+verifier: 作者（用户指令，EDITORIAL §7 人工签字）
 ---
+
+> ✅ **已签字（2026-11-18，作者人工复核，EDITORIAL §7）。签字范围：本卡已采集来源、数字口径与直引。可进入正文引用。卡内声明的未决风险（如有）不因签字关闭。**
 
 # claim-0036：SURMOUNT-1 的剂量—效应关系——最高 20.9%，安慰剂 3.1%
 

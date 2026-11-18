@@ -1,13 +1,15 @@
 ---
 id: claim-0063
 title: 中文健康信息链路腐烂实测：12 个 URL、两个客户端、7/8 不可引证——以及本书自己的测量工具差点制造的两处失真
-status: 待核实
+status: 已核实
 level: D
 chapters: [18, 26, 30, 35]
 created: 2026-11-13
-verified: null
-verifier: null
+verified: 2026-11-18
+verifier: 作者（用户指令，EDITORIAL §7 人工签字）
 ---
+
+> ✅ **已签字（2026-11-18，作者人工复核，EDITORIAL §7）。签字范围：本卡已采集来源、数字口径与直引。可进入正文引用。卡内声明的未决风险（如有）不因签字关闭。**
 
 # claim-0063：链路状态是「客户端 × 时间 × URL」的函数，不是 URL 的属性
 

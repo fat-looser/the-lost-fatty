@@ -209,20 +209,20 @@ GLP-1 改写了什么？——**以及，它没有改写什么？**
 
 | 论断 | 卡 | 级 | 状态 |
 |---|---|---|---|
-| 食欲是生理信号（摄入降 24–35%、RMR 不变、<1 pp 中介） | [0043](../../evidence/claims/claim-0043-appetite-physiology-not-morality.md) | A | 待核实 |
-| 中国获批时间线与适应症 | [0039](../../evidence/claims/claim-0039-china-approval-timeline.md) | C | 待核实（NMPA 批准日待查） |
-| 价格与可及性（采集 2026-11-12） | [0040](../../evidence/claims/claim-0040-china-price-access-2026.md) | C | 待核实（324.12 元规格两源冲突） |
-| STEP 1 效应量 | [0035](../../evidence/claims/claim-0035-step1-semaglutide-effect-size.md) | A | 待核实 |
-| SURMOUNT-1 剂量-效应 | [0036](../../evidence/claims/claim-0036-surmount1-tirzepatide-dose-response.md) | A | 待核实 |
-| 停药后回升约三分之二 | [0037](../../evidence/claims/claim-0037-weight-regain-after-discontinuation.md) | A | 待核实 |
+| 食欲是生理信号（摄入降 24–35%、RMR 不变、<1 pp 中介） | [0043](../../evidence/claims/claim-0043-appetite-physiology-not-morality.md) | A | **已核实（2026-11-18）** |
+| 中国获批时间线与适应症 | [0039](../../evidence/claims/claim-0039-china-approval-timeline.md) | C | **已核实（2026-11-18）**（NMPA 批准日待查） |
+| 价格与可及性（采集 2026-11-12） | [0040](../../evidence/claims/claim-0040-china-price-access-2026.md) | C | **已核实（2026-11-18）**（324.12 元规格两源冲突） |
+| STEP 1 效应量 | [0035](../../evidence/claims/claim-0035-step1-semaglutide-effect-size.md) | A | **已核实（2026-11-18）** |
+| SURMOUNT-1 剂量-效应 | [0036](../../evidence/claims/claim-0036-surmount1-tirzepatide-dose-response.md) | A | **已核实（2026-11-18）** |
+| 停药后回升约三分之二 | [0037](../../evidence/claims/claim-0037-weight-regain-after-discontinuation.md) | A | **已核实（2026-11-18）** |
 | **去脂体重：药组 74/26 vs 安慰剂组 75/25** | [0038](../../evidence/claims/claim-0038-lean-mass-loss-resistance-training.md) | A | ✅ **已核实（2026-11-17 作者签字）**（Look 更正已关闭；Batsis 勘误正文仍未取得——28.3% 仍非终局） |
 | **客观功能终点全缺 / 自评功能改善（SF-36v2）** | [0038](../../evidence/claims/claim-0038-lean-mass-loss-resistance-training.md) | A | ✅ **已核实（2026-11-17）**（两者必须并陈） |
-| 不良反应与长期缺口（约 3.3 年） | [0041](../../evidence/claims/claim-0041-adverse-effects-longterm-gap.md) | A | 待核实 |
-| **指南 2024：药是联合手段不是替代** | [0042](../../evidence/claims/claim-0042-china-obesity-guideline-2024.md) | A | 待核实（PDF 已取得，MD5 一致） |
+| 不良反应与长期缺口（约 3.3 年） | [0041](../../evidence/claims/claim-0041-adverse-effects-longterm-gap.md) | A | **已核实（2026-11-18）** |
+| **指南 2024：药是联合手段不是替代** | [0042](../../evidence/claims/claim-0042-china-obesity-guideline-2024.md) | A | **已核实（2026-11-18）**（PDF 已取得，MD5 一致） |
 | **指南全文检索：「健身」0 次（三法）、维持期运动量单列、CBT 预防复发模块、CPET 强烈推荐** | [0061](../../evidence/claims/claim-0061-obesity-guideline-fulltext-search.md) | A | 待核实（**本轮新建**，PDF 已入库 79 页，直引 14/14 命中；**规范侧证非效应量**） |
-| **SELECT：HR 0.80，仅 33% 由腰围中介** | [0044](../../evidence/claims/claim-0044-select-cardiovascular-hard-endpoint.md) | A | 待核实 |
+| **SELECT：HR 0.80，仅 33% 由腰围中介** | [0044](../../evidence/claims/claim-0044-select-cardiovascular-hard-endpoint.md) | A | **已核实（2026-11-18）** |
 | **只有药+运动联合组改善心肺适能** | [0060](../../evidence/claims/claim-0060-glp1-exercise-muscle-bone-fitness.md) | A | ✅ **已核实（2026-11-17）**（第 36 章主卡，本章交叉引用） |
-| 激素变化 ≥1 年不回基线 | [0013](../../evidence/claims/claim-0013-hormonal-adaptation-persistence.md) | A | 待核实（第 22 章主卡） |
+| 激素变化 ≥1 年不回基线 | [0013](../../evidence/claims/claim-0013-hormonal-adaptation-persistence.md) | A | **已核实（2026-11-18）**（第 22 章主卡） |
 | 用药者体验 | — | D | **待访谈（0 条）**，严格脱敏，不写剂量与渠道 |
 
 **仍缺**：中国人群 RCT；**客观**功能终点研究；**Batsis 勘误正文**（PMID 42258831，付费墙，开放渠道无副本）；Heymsfield 2014 对「四分之一规则」的批判性综述；用药者访谈。

@@ -1,13 +1,15 @@
 ---
 id: claim-0044
 title: SELECT 心血管硬终点：17604 人、平均随访 39.8 个月，MACE 6.5% vs 8.0%，HR 0.80（95% CI 0.72–0.90）；但仅约 33% 由腰围缩小中介，「瘦了就健康」并不成立
-status: 待核实
+status: 已核实
 level: A
 chapters: [34]
 created: 2026-11-12
-verified: null
-verifier: null
+verified: 2026-11-18
+verifier: 作者（用户指令，EDITORIAL §7 人工签字）
 ---
+
+> ✅ **已签字（2026-11-18，作者人工复核，EDITORIAL §7）。签字范围：本卡已采集来源、数字口径与直引。可进入正文引用。卡内声明的未决风险（如有）不因签字关闭。**
 
 # claim-0044：不是体重秤上的数字，是急诊室里的数字——以及它没那么简单的地方
 

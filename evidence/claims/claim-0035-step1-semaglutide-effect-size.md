@@ -1,13 +1,15 @@
 ---
 id: claim-0035
 title: STEP 1：司美格鲁肽 2.4 mg 每周一次联合生活方式干预，68 周平均减重 14.9%，安慰剂组 2.4%，组间差 12.4 个百分点
-status: 待核实
+status: 已核实
 level: A
 chapters: [34]
 created: 2026-11-12
-verified: null
-verifier: null
+verified: 2026-11-18
+verifier: 作者（用户指令，EDITORIAL §7 人工签字）
 ---
+
+> ✅ **已签字（2026-11-18，作者人工复核，EDITORIAL §7）。签字范围：本卡已采集来源、数字口径与直引。可进入正文引用。卡内声明的未决风险（如有）不因签字关闭。**
 
 # claim-0035：STEP 1 的效应量——14.9% vs 2.4%，差 12.4 个百分点
 

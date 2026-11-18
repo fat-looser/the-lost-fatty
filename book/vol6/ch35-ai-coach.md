@@ -134,7 +134,7 @@ AI 能替代教练的哪一部分，不能替代哪一部分？——**以及，
 
 - 可复现、可溯源、可审计的 AI 使用方式
 - **本书自身的实践**：AI 辅助检索与润色，但证据卡必须人工核查（EDITORIAL.md 第七节）
-  → ✅ **63 张卡中 45 张仍标「待核实」，正是因为 AI 检索的内容未经人工签字。这不是瑕疵，这是论点的落实。**（0019/0060/0038/0059/0058/0061 已签 2026-11-17~18）
+  → ✅ **63 张卡中 31 张仍标「待核实」，正是因为 AI 检索的内容未经人工签字。这不是瑕疵，这是论点的落实。**（已签 23 张：2026-11-17~18 分六批，含本章全部挂卡；有争议 9 张的来源亦经签核，状态按主张级保留）
 - 读者怎么用 AI：当索引与草稿，不当法官
 - 与第 31 章（开源治理）呼应
 
@@ -185,7 +185,10 @@ AI 能替代教练的哪一部分，不能替代哪一部分？——**以及，
 | **伪科普供给爆炸** | [0050](../../evidence/claims/claim-0050-ai-health-misinformation-supply.md) | A | **已核实** |
 | 可穿戴+LLM：付费产品、Google 资助 | [0051](../../evidence/claims/claim-0051-wearable-llm-health-agents-2026.md) | B | **有争议** |
 | AI 无利益冲突（实证）/ 平台有（推断） | [0052](../../evidence/claims/claim-0052-ai-no-conflict-platform-has.md) | B | **有争议** |
-| 人际接触有效、纯技术臂失效 | [0019](../../evidence/claims/claim-0019-maintenance-intervention-rct.md) | A | 待核实（第22章主卡） |
+| 人际接触有效、纯技术臂失效 | [0019](../../evidence/claims/claim-0019-maintenance-intervention-rct.md) | A | **已核实（2026-11-17）** |
+| **链路腐烂双客户端实测**（7/8 不可引证、2/12 客户端假象） | [0063](../../evidence/claims/claim-0063-linkrot-measurement.md) | D | **已核实（2026-11-18）** |
+| **检测军备竞赛四支柱**（OpenAI 下架 / 61.3% 误报 / RAID / 清朗 561 万） | [0065](../../evidence/claims/claim-0065-ai-detection-arms-race.md) | B | **已核实（2026-11-18）** |
+| **中国厂商 AI 教练三形态**（Keep/华为/小米，无疗效证据） | [0066](../../evidence/claims/claim-0066-china-vendor-ai-coaches.md) | C | **已核实（2026-11-18）** |
 
 **仍缺**：作者实测记录（E 级，注明模型/版本/日期/方法，**0 条**）；中国厂商**疗效证据**（产品形态已盘 [claim-0066](../../evidence/claims/claim-0066-china-vendor-ai-coaches.md)，独立验证仍 0）；AI 内容检测的逐检测器中文数字（[claim-0065](../../evidence/claims/claim-0065-ai-detection-arms-race.md) 表格级待提取）；平台实际合规做法；Stanford My Heart Counts RCT 结果（仍在招募）。
 

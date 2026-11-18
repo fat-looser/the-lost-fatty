@@ -1,13 +1,15 @@
 ---
 id: claim-0037
 title: 停药一年后回升约三分之二：STEP 1 延长研究净减重从 17.3% 退到 5.6%；STEP 4 换安慰剂 48 周回升 6.9%
-status: 待核实
+status: 已核实
 level: A
 chapters: [34]
 created: 2026-11-12
-verified: null
-verifier: null
+verified: 2026-11-18
+verifier: 作者（用户指令，EDITORIAL §7 人工签字）
 ---
+
+> ✅ **已签字（2026-11-18，作者人工复核，EDITORIAL §7）。签字范围：本卡已采集来源、数字口径与直引。可进入正文引用。卡内声明的未决风险（如有）不因签字关闭。**
 
 # claim-0037：停药之后——药物压住的是一个持续存在的生理信号，不是一次性修好的故障
 
