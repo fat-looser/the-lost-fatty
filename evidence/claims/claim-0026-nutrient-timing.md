@@ -5,9 +5,11 @@ status: 有争议
 level: A
 chapters: [5]
 created: 2026-11-12
-verified: null
-verifier: null
+verified: 2026-11-18
+verifier: 作者（用户指令，EDITORIAL §7 人工签字）
 ---
+
+> ✅ **来源已签字核验（2026-11-18，作者人工复核，EDITORIAL §7）。`status: 有争议` 保留——它是主张级信号（争议须随卡进入正文，正反同段呈现），签字只确认来源与数字口径，不改变主张状态。**
 
 # claim-0026：碳水/营养时序：总摄入量是第一位（A 级），但「时序完全无关」也不成立——有受控研究支持时序效应
 
