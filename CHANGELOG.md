@@ -155,6 +155,16 @@ F.context('answers')['4510027545'].ext_pack =
 
 🔑 **为什么把它留在 README 而不是删掉**：第 35 章批评「AI 时代的浅阅读」，而本书证据层自己就犯了一次——**读了一个看起来像结论的键名，就把它当成了结论**。**这不是自嘲，是示范：在一个字段名就能充当结论的环境里，核查是唯一还没被自动化掉的动作。**
 
+### ✅ 第四批人工签字：claim-0058 转正 + ch36 P-3 / P-5 双槽填入
+
+**[claim-0058](evidence/claims/claim-0058-autonomous-motivation-identity-maintenance.md)**（A/B 级，2026-11-18，verifier：作者）转正。签字范围：Teixeira 2015 中介清单（含「膳食摄入无一致中介」）、Ntoumanis 2021「modest, heterogeneous」与创始人自评警示、Rhodes 2016 r=.44、Sisk/Bolier 反证与例外、Owen 2022 / König 2026 阶级修正数字。**签字不改变卡内立场：效应中小、身份无 RCT、「时间贫困」无量化实证。**
+
+**ch36 双槽填入**：P-3（支柱三动机全证据块——含「but not controlled motivation or amotivation」反意志力支点、identified/intrinsic 双机制、身体意象=功能性心理资源的 33 章连接）+ P-5（§3.3 阶级修正——Owen/König 直引 + 三重外推限制）。反方第二条的回应从占位指向改为实引。
+
+**计数**：待核实 47→46，已核实 7→8（新增 0058）。ch36 正文 8,101→**8,687 字**。
+
+**ch36 仅剩两个槽**：P-6（差 claim-0061 签字）→ P-7（合并句，同依赖）。**签 claim-0061 后 ch36 证据槽全满。**
+
 ### ✅ 第三批人工签字：claim-0059 转正 + ch36 P-2 主槽填入
 
 **[claim-0059](evidence/claims/claim-0059-exercise-depression-effect-size-bias.md)**（A 级，2026-11-17，verifier：作者）转正。签字范围：Cochrane 2026 五行效应量表、Krogh 2017 / Cochrane 2013 低偏倚归零记录、Schuch 2016 SMD 1.11 及其「低估」主张、performance bias 全高风险判定。🔑 **签字不改变卡内立场：「偏倚方向在文献里是分裂的」，两面仍然并陈。**

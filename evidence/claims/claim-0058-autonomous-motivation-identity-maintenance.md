@@ -1,17 +1,17 @@
 ---
 id: claim-0058
 title: 自主动机与身份认同 predicts 长期行为维持（A/B 级），但效应量中小、身份干预尚无 RCT；且「意义叙事」的可及性与效果都有强反证
-status: 待核实
+status: 已核实
 level: A
 chapters: [36, 39]
 created: 2026-11-12
-verified: null
-verifier: null
+verified: 2026-11-17
+verifier: 作者（用户指令，EDITORIAL §7 人工签字）
 ---
 
 # claim-0058：自主动机与身份认同 predicts 长期维持——但效应中小，且「不可外包的三样东西」可能是中产特权
 
-> ⚠️ **AI 使用披露（依 EDITORIAL.md 七）**：本卡由 AI agent 通过 PubMed E-utilities 检索建立，引文与直引均逐字取自实际抓取的 PubMed 记录，未生成任何未经检索的数字。状态 `待核实`，`verified: null`，须人工核查后方可进入正文。
+> ⚠️ **AI 使用披露（依 EDITORIAL.md 七）**：本卡由 AI agent 通过 PubMed E-utilities 检索建立，引文与直引均逐字取自实际抓取的 PubMed 记录，未生成任何未经检索的数字。作者已于 2026-11-18 人工签字（EDITORIAL §7）。可进入正文引用。。
 
 > ⚠️ **本卡是第 36 章最容易被批为「心灵鸡汤」的地方，因此反方证据与正方证据同等篇幅。** 用户明确要求：「不可外包的三样东西对时间贫困/经济贫困者是否同样可及？有没有研究质疑『意义叙事』的实际效果？」——**两个问题的答案都是「有强反证」，见来源 8–11。**
 >
