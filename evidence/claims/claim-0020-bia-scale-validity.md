@@ -1,13 +1,15 @@
 ---
 id: claim-0020
 title: 家用 BIA 体脂秤在个体层面不具备与参考方法互换的效度，误差可达十余个百分点
-status: 待核实
+status: 已核实
 level: A
 chapters: [20]
 created: 2026-11-12
-verified: null
-verifier: null
+verified: 2026-11-18
+verifier: 作者（用户指令，EDITORIAL §7 人工签字）
 ---
+
+> ✅ **已签字（2026-11-18，作者人工复核，EDITORIAL §7）。签字范围：本卡已采集来源、数字口径与直引。可进入正文引用。卡内声明的未决风险（如有）不因签字关闭。**
 
 # claim-0020：家用 BIA 体脂秤在个体层面不具备与参考方法互换的效度，误差可达十余个百分点
 

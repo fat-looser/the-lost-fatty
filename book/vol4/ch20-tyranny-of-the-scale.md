@@ -29,7 +29,7 @@ ai_assisted: true
 
 ### 一、体重日内波动的来源
 
-承重卡：[claim-0022](../../evidence/claims/claim-0022-daily-weight-fluctuation.md)（B 级，待核实；**无 A 级来源，断言强度已下调**）。
+承重卡：[claim-0022](../../evidence/claims/claim-0022-daily-weight-fluctuation.md)（B 级，**已核实 2026-11-18**；**无 A 级来源，断言强度已下调**）。
 
 - 短期体重变化的大部分不是脂肪：**两周自由生活的体重变化里 84% 来自去脂体重**，每公斤只对应约 **2380 千卡**，而一公斤纯脂肪约 9000 千卡
   - ⚠️ **尺度缺口必须写**：这是**两周**数据，队列平均变化仅 0.26±1.2 kg（处于能量平衡附近）。**不能直接用来解释每一天，也不能套到减脂期或增重期**
@@ -45,7 +45,7 @@ ai_assisted: true
 
 ### 二、体脂秤的原理与误差
 
-承重卡：[claim-0020](../../evidence/claims/claim-0020-bia-scale-validity.md)（A 级，待核实）。
+承重卡：[claim-0020](../../evidence/claims/claim-0020-bia-scale-validity.md)（A 级，**已核实 2026-11-18**）。
 
 - BIA（生物电阻抗）：测的是电阻，推算的是水，估的是脂肪
 - 影响因素：水合状态、进食、运动、皮肤温度、电极接触
@@ -61,7 +61,7 @@ ai_assisted: true
 
 ### 三、DEXA 也不是绝对真值
 
-承重卡：[claim-0021](../../evidence/claims/claim-0021-dexa-precision-limits.md)（B 级，待核实；**无 A 级来源，不得给统一误差数字**）。
+承重卡：[claim-0021](../../evidence/claims/claim-0021-dexa-precision-limits.md)（B 级，**已核实 2026-11-18**；**无 A 级来源，不得给统一误差数字**）。
 
 - 参考方法之一，仍有误差与设备间差异
 - **生物学变异远大于技术误差（本节最强单条证据）**：同一台机器、同一个人，**连续两天扫描的精度误差约为同日重复的两倍（脂肪量 1261 g vs 660 g），瘦体重超过三倍（2083 g vs 617 g）**。多出来的不是仪器坏了，是身体的水、糖原、肠内容物在变，而 DEXA 把它们算进了瘦体重
@@ -81,7 +81,7 @@ ai_assisted: true
 
 ### 五、官方诊断口径里根本没有这台秤
 
-承重卡：[claim-0061](../../evidence/claims/claim-0061-obesity-guideline-fulltext-search.md)（**A 级专卡，2026-11-12 新建**，指南全文检索事实与测量层级，待核实）＋ [claim-0042](../../evidence/claims/claim-0042-china-obesity-guideline-2024.md)（A 级，指南治疗定位与行政发布程序，待核实；与第 34 章共用，**本章不重复举证治疗定位**）。
+承重卡：[claim-0061](../../evidence/claims/claim-0061-obesity-guideline-fulltext-search.md)（**A 级专卡，2026-11-12 新建**，指南全文检索事实与测量层级，**已核实 2026-11-18**）＋ [claim-0042](../../evidence/claims/claim-0042-china-obesity-guideline-2024.md)（A 级，指南治疗定位与行政发布程序，**已核实 2026-11-17**；与第 34 章共用，**本章不重复举证治疗定位**）。
 ✅ **分级漏洞已修**：「健身 0 次」「体脂比非临床诊断法」此前挂在 [claim-0009](../../evidence/claims/claim-0009-obesity-paradox-fitness-spending.md)（**C 级**行业数据卡）上——**A 级文件的事实挂在 C 级卡上，会让读者低估证据强度**。现规范出处为 **0061**，0009 不再承担该事实的举证（见 [INDEX §2.7、§3.2](../../evidence/claims/INDEX.md)）。
 **指南 PDF 已入库可复核**：[`evidence/data/obesity-guideline-2024.pdf`](../../evidence/data/obesity-guideline-2024.pdf)，79 页，MD5 `b004c90bbdb849731c6c7362971ed07e`。
 
@@ -104,7 +104,7 @@ ai_assisted: true
 
 ### 六、测量如何反噬行为
 
-承重卡：[claim-0023](../../evidence/claims/claim-0023-self-weighing-maintenance.md)（A 级，待核实）。**本节必须双向写，否则本章就成了"把秤收起来"的单向劝告。**
+承重卡：[claim-0023](../../evidence/claims/claim-0023-self-weighing-maintenance.md)（A 级，**已核实 2026-11-18**）。**本节必须双向写，否则本章就成了"把秤收起来"的单向劝告。**
 
 - 为秤而练：只挑掉秤快的做法，而不是有效的做法（**不渲染具体方法，EDITORIAL §6**）
 - 为秤而饿：把数字下降当成唯一奖励
@@ -184,13 +184,13 @@ ai_assisted: true
 
 | 论断 | 已采集 | 仍缺 |
 |---|---|---|
-| 短期体重变化的成分与日级波动来源 | [claim-0022](../../evidence/claims/claim-0022-daily-weight-fluctuation.md) · B · 待核实 | **"日波动 1–2 kg"的原始出处（未找到）**；健康年轻自由生活人群的日尺度定量证据；A 级系统综述；长期高钠摄入与女性样本 |
-| 家用 BIA 体脂秤个体层面不可互换 | [claim-0020](../../evidence/claims/claim-0020-bia-scale-validity.md) · A · 待核实 | **在售主流型号的独立第三方效度研究**（点名品牌前必须补）；"同一台秤追踪长期趋势是否可靠"的直接证据；人工复核签字 |
-| DEXA 也非绝对真值、生物学变异大于技术误差 | [claim-0021](../../evidence/claims/claim-0021-dexa-precision-limits.md) · B · 待核实 | A 级系统综述（未找到）；跨设备具体 kg/百分点差值（摘要未给）；一般人群与重度肥胖者的精度研究 |
-| 自我称重对成人有 modest 益处、对脆弱人群可能有害 | [claim-0023](../../evidence/claims/claim-0023-self-weighing-maintenance.md) · A · 待核实 | 长期（>2 年）每日称重后果；"独自在家称重"情境的直接证据；NoHoW 摘要"76% (364/1627)"分数疑点（分母不符，不得引用）；中国人群证据 |
-| 官方诊断口径：体脂比非临床诊断法、**BIA 仅作初筛**、内脏脂肪影像学非临床常规 | [claim-0061](../../evidence/claims/claim-0061-obesity-guideline-fulltext-search.md) · **A** · 待核实（**PDF 已入库**，79 页，MD5 `b004c90b…`；六处直引 14/14 逐字命中） | 人工复核签字；与 gov.cn 网页版 HTML 逐字比对；指南所引 [41] 原始依据 |
-| 指南全文 79 页"健身"0 次（**三法确认**）；「慢性复发性疾病」0 次但「复发」4 次含 CBT 预防复发模块 | [claim-0061](../../evidence/claims/claim-0061-obesity-guideline-fulltext-search.md) · **A** · 待核实（**已从 C 级卡 0009 升格**） | 人工复核签字；词频只支持"两套话语"的描述性观察，不得推论"官方忽视运动" |
-| 指南治疗定位与行政发布程序（本章不举证，仅交叉引用） | [claim-0042](../../evidence/claims/claim-0042-china-obesity-guideline-2024.md) · A · 待核实（跨章引用，主属第 34 章） | 人工复核签字；指南编写专家 COI 声明；archive 快照 |
+| 短期体重变化的成分与日级波动来源 | [claim-0022](../../evidence/claims/claim-0022-daily-weight-fluctuation.md) · B · **已核实（2026-11-18）** | **"日波动 1–2 kg"的原始出处（未找到）**；健康年轻自由生活人群的日尺度定量证据；A 级系统综述；长期高钠摄入与女性样本 |
+| 家用 BIA 体脂秤个体层面不可互换 | [claim-0020](../../evidence/claims/claim-0020-bia-scale-validity.md) · A · **已核实（2026-11-18）** | **在售主流型号的独立第三方效度研究**（点名品牌前必须补）；"同一台秤追踪长期趋势是否可靠"的直接证据；人工复核签字 |
+| DEXA 也非绝对真值、生物学变异大于技术误差 | [claim-0021](../../evidence/claims/claim-0021-dexa-precision-limits.md) · B · **已核实（2026-11-18）** | A 级系统综述（未找到）；跨设备具体 kg/百分点差值（摘要未给）；一般人群与重度肥胖者的精度研究 |
+| 自我称重对成人有 modest 益处、对脆弱人群可能有害 | [claim-0023](../../evidence/claims/claim-0023-self-weighing-maintenance.md) · A · **已核实（2026-11-18）** | 长期（>2 年）每日称重后果；"独自在家称重"情境的直接证据；NoHoW 摘要"76% (364/1627)"分数疑点（分母不符，不得引用）；中国人群证据 |
+| 官方诊断口径：体脂比非临床诊断法、**BIA 仅作初筛**、内脏脂肪影像学非临床常规 | [claim-0061](../../evidence/claims/claim-0061-obesity-guideline-fulltext-search.md) · **A** · **已核实（2026-11-18，第五批）**（PDF 已入库，79 页，MD5 `b004c90b…`；六处直引 14/14 逐字命中） | 人工复核签字；与 gov.cn 网页版 HTML 逐字比对；指南所引 [41] 原始依据 |
+| 指南全文 79 页"健身"0 次（**三法确认**）；「慢性复发性疾病」0 次但「复发」4 次含 CBT 预防复发模块 | [claim-0061](../../evidence/claims/claim-0061-obesity-guideline-fulltext-search.md) · **A** · **已核实（2026-11-18，第五批）**（已从 C 级卡 0009 升格） | 人工复核签字；词频只支持"两套话语"的描述性观察，不得推论"官方忽视运动" |
+| 指南治疗定位与行政发布程序（本章不举证，仅交叉引用） | [claim-0042](../../evidence/claims/claim-0042-china-obesity-guideline-2024.md) · A · **已核实（2026-11-17，第六批）**（跨章引用，主属第 34 章） | 人工复核签字；指南编写专家 COI 声明；archive 快照 |
 | 作者自身称重经历 | **无（E 级 0 条）** | 作者填写并决定是否公开（见 [CONFLICTS.md](../../CONFLICTS.md)） |
 | 每日称重者的真实场景 | **无（D 级 0 条）** | 访谈与公开内容采样（注明采集日期，不存他人身体照片） |
 
