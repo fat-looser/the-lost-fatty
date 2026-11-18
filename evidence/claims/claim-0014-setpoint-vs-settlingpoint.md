@@ -5,9 +5,11 @@ status: 有争议
 level: B
 chapters: [22]
 created: 2026-11-12
-verified: null
-verifier: null
+verified: 2026-11-18
+verifier: 作者（用户指令，EDITORIAL §7 人工签字；`status: 有争议` 按主张级语义保留）
 ---
+
+> ✅ **来源已签字核验（2026-11-18，作者人工复核，EDITORIAL §7）。`status: 有争议` 保留——set point vs settling point 的争论未收敛，本书不选边，签字只确认来源与数字口径。**
 
 # claim-0014：身体有没有一个「体重恒温器」？——这个问题还没有答案，本书也不假装有
 
