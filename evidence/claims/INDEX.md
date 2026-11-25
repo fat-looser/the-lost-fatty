@@ -36,7 +36,7 @@
 | [claim-0006](claim-0006-monthly-pay-inverted-incentive.md) | 月付制反转激励，代价是规模与现金流 | C | **已核实（2026-11-25 出处标记制）** | 2 |
 | [claim-0007](claim-0007-keep-revenue-structure.md) | Keep 收入大头是卖货不是卖课，收入与健康结果脱钩 | C | **已核实（2026-11-25 出处标记制）** | 1 |
 | [claim-0008](claim-0008-pt-pay-sales-kpi.md) | 私教薪酬把卖课排在上课之前——结构问题非个人道德 | C | **已核实（2026-11-25 出处标记制）** | 2·3 |
-| [claim-0009](claim-0009-obesity-paradox-fitness-spending.md) | 千亿市场，秤上无解 | C | **已核实（2026-11-18 作者签字）** | 1 |
+| [claim-0009](claim-0009-obesity-paradox-fitness-spending.md) | 千亿市场，秤上无解 | C | **已核实（2026-11-18 作者签字）** | 0·1·2·20 |
 | [claim-0010](claim-0010-adaptive-thermogenesis-magnitude-dispute.md) | 代谢适应幅度学界严重分歧：极端样本 −500 vs 稳定体重 −50 kcal/d | A | **有争议** | 22 |
 | [claim-0011](claim-0011-biggest-loser-six-year-rmr.md) | 超级减肥王六年随访；**流传的 789/−504 已于 2016 年被更正** | B | **已核实（2026-11-18 作者签字）** | 22 |
 | [claim-0012](claim-0012-neat-decline-under-restriction.md) | 能量限制下 NREE 与活动下降；**Levine 1999 是过量进食研究，不能引** | B | **已核实（2026-11-18 作者签字）** | 22 |
