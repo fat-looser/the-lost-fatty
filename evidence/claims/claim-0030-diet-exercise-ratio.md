@@ -3,7 +3,7 @@ id: claim-0030
 title: 「三分练七分吃」：方向有 A 级支持，比例无任何科学出处——它是注意力分配的修辞，不是可推导的数据
 status: 已核实
 level: A
-chapters: [5]
+chapters: [5, 37]
 created: 2026-11-12
 verified: 2026-11-18
 verifier: 作者（用户指令，EDITORIAL §7 人工签字）

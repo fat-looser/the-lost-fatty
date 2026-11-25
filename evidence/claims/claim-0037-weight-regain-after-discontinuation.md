@@ -3,7 +3,7 @@ id: claim-0037
 title: 停药一年后回升约三分之二：STEP 1 延长研究净减重从 17.3% 退到 5.6%；STEP 4 换安慰剂 48 周回升 6.9%
 status: 已核实
 level: A
-chapters: [34]
+chapters: [34, 37]
 created: 2026-11-12
 verified: 2026-11-18
 verifier: 作者（用户指令，EDITORIAL §7 人工签字）

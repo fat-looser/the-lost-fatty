@@ -3,7 +3,7 @@ id: claim-0023
 title: 自我称重对成人减重与维持有 modest 益处且通常不损害心理，但对青少年与部分年轻女性可能有害——反方证据如实呈现
 status: 已核实
 level: A
-chapters: [20, 39]
+chapters: [20, 37, 39]
 created: 2026-11-12
 verified: 2026-11-18
 verifier: 作者（用户指令，EDITORIAL §7 人工签字）

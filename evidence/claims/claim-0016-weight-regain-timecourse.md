@@ -3,7 +3,7 @@ id: claim-0016
 title: 反弹的时间曲线：第一年约回升已减体重的三分之一（Turk 综述）；结构化项目 4–5 年后 VLED 组维持 29%（95% CI 25–33）、HBD 组维持 17%（13–22）；但曲线形状高度依赖人群、定义与随访率
 status: 已核实
 level: A
-chapters: [22]
+chapters: [22, 37]
 created: 2026-11-12
 verified: 2026-11-18
 verifier: 作者（用户指令，EDITORIAL §7 人工签字）

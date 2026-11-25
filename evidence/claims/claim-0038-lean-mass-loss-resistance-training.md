@@ -3,7 +3,7 @@ id: claim-0038
 title: 减掉的体重里约四分之一到三成是去脂体重（含肌肉），且安慰剂组同样如此：药物不是替代力量训练的理由
 status: 已核实
 level: A
-chapters: [34, 36]
+chapters: [34, 36, 37]
 created: 2026-11-12
 verified: 2026-11-17
 verifier: 作者（用户指令，EDITORIAL §7 人工签字）

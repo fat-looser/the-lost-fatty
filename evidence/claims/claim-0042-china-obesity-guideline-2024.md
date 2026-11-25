@@ -3,7 +3,7 @@ id: claim-0042
 title: 《肥胖症诊疗指南（2024年版）》：中国官方把肥胖症列为「慢性疾病中的独立病种」，BMI≥28 为肥胖症；药物是生活方式干预之上的联合手段，不是替代
 status: 已核实
 level: A
-chapters: [0, 20, 34]
+chapters: [0, 20, 34, 37]
 created: 2026-11-12
 verified: 2026-11-18
 verifier: 作者（用户指令，EDITORIAL §7 人工签字）

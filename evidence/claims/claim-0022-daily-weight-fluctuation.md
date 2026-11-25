@@ -3,7 +3,7 @@ id: claim-0022
 title: 短期体重变化的大部分不是脂肪：水、糖原、肠内容物主导日级波动，但流行「1–2 kg」数字缺原始出处
 status: 已核实
 level: B
-chapters: [20, 5]
+chapters: [20, 5, 37]
 created: 2026-11-12
 verified: 2026-11-18
 verifier: 作者（用户指令，EDITORIAL §7 人工签字）

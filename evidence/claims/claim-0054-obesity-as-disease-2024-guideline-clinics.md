@@ -3,7 +3,7 @@ id: claim-0054
 title: 肥胖症在 2024 年被中国官方正式确立为独立慢性疾病并建立多学科诊疗路径，减重门诊随之在两年内扩张到 5500 多所
 status: 已核实
 level: C
-chapters: [0, 34]
+chapters: [0, 34, 37]
 created: 2026-11-12
 verified: 2026-11-18
 verifier: 作者（用户指令，EDITORIAL §7 人工签字）

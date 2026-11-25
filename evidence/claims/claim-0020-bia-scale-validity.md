@@ -3,7 +3,7 @@ id: claim-0020
 title: 家用 BIA 体脂秤在个体层面不具备与参考方法互换的效度，误差可达十余个百分点
 status: 已核实
 level: A
-chapters: [20]
+chapters: [20, 37]
 created: 2026-11-12
 verified: 2026-11-18
 verifier: 作者（用户指令，EDITORIAL §7 人工签字）

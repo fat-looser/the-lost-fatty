@@ -3,7 +3,7 @@ id: claim-0017
 title: 平台期与反弹的最强竞争解释：依从性随时间衰减 + 摄入自报系统性偏低（Lichtman 1992：低报 47±16%、高报活动 51±75%；Thomas 2014 模型：间歇性不依从即可造成 6 个月平台）
 status: 已核实
 level: B
-chapters: [5, 22]
+chapters: [5, 22, 37]
 created: 2026-11-12
 verified: 2026-11-18
 verifier: 作者（用户指令，EDITORIAL §7 人工签字）

@@ -43,30 +43,30 @@
 | [claim-0013](claim-0013-hormonal-adaptation-persistence.md) | 食欲激素变化 ≥1 年不回基线；ghrelin 每 +1 ng/mL → 多回升 2.3% | A | **已核实（2026-11-18 作者签字）** | 22·34 |
 | [claim-0014](claim-0014-setpoint-vs-settlingpoint.md) | set point vs settling point 之争未收敛，不得断言任一方 | B | **有争议** | 22 |
 | [claim-0015](claim-0015-nwcr-successful-maintainers.md) | NWCR 十年维持 23.1 kg、>87%；**自我选择样本有幸存者偏差** | B | **已核实（2026-11-18 作者签字）** | 22 |
-| [claim-0016](claim-0016-weight-regain-timecourse.md) | 反弹时间曲线：第一年约回升三分之一；4–5 年维持 29%/17% | A | **已核实（2026-11-18 作者签字）** | 22 |
-| [claim-0017](claim-0017-plateau-adherence-underreporting.md) | 最强竞争解释：依从性衰减 + 摄入自报偏低（低报 47±16%） | B | **已核实（2026-11-18 作者签字）** | 22 |
+| [claim-0016](claim-0016-weight-regain-timecourse.md) | 反弹时间曲线：第一年约回升三分之一；4–5 年维持 29%/17% | A | **已核实（2026-11-18 作者签字）** | 22·37 |
+| [claim-0017](claim-0017-plateau-adherence-underreporting.md) | 最强竞争解释：依从性衰减 + 摄入自报偏低（低报 47±16%） | B | **已核实（2026-11-18 作者签字）** | 5·22·37 |
 | [claim-0018](claim-0018-energy-balance-dynamics-plateau.md) | 「3500 千卡 = 1 磅」是错的；体重按约 1 年半衰期趋向新平台 | B | **已核实（2026-11-18 作者签字）** | 22 |
-| [claim-0019](claim-0019-maintenance-intervention-rct.md) | 每月一次人际接触使 30 个月回升少 1.5 kg；纯技术臂失效 | A | **已核实（2026-11-17 作者签字）** | 22·35·36 |
-| [claim-0020](claim-0020-bia-scale-validity.md) | 家用 BIA 体脂秤个体层面不可与参考方法互换，误差十余百分点 | A | **已核实（2026-11-18 作者签字）** | 20 |
+| [claim-0019](claim-0019-maintenance-intervention-rct.md) | 每月一次人际接触使 30 个月回升少 1.5 kg；纯技术臂失效 | A | **已核实（2026-11-17 作者签字）** | 22·34·35·36·37·39 |
+| [claim-0020](claim-0020-bia-scale-validity.md) | 家用 BIA 体脂秤个体层面不可与参考方法互换，误差十余百分点 | A | **已核实（2026-11-18 作者签字）** | 20·37 |
 | [claim-0021](claim-0021-dexa-precision-limits.md) | DEXA 也非绝对真值；生物学变异远大于技术误差 | B | **已核实（2026-11-18 作者签字）** | 20 |
-| [claim-0022](claim-0022-daily-weight-fluctuation.md) | 日级波动主要是水/糖原/肠内容物；**流行「1–2 kg」缺原始出处** | B | **已核实（2026-11-18 作者签字）** | 20·5 |
-| [claim-0023](claim-0023-self-weighing-maintenance.md) | 自我称重对成人有 modest 益处，**对青少年与部分年轻女性可能有害** | A | **已核实（2026-11-18 作者签字）** | 20 |
+| [claim-0022](claim-0022-daily-weight-fluctuation.md) | 日级波动主要是水/糖原/肠内容物；**流行「1–2 kg」缺原始出处** | B | **已核实（2026-11-18 作者签字）** | 20·5·37 |
+| [claim-0023](claim-0023-self-weighing-maintenance.md) | 自我称重对成人有 modest 益处，**对青少年与部分年轻女性可能有害** | A | **已核实（2026-11-18 作者签字）** | 20·37·39 |
 | [claim-0024](claim-0024-spot-reduction.md) | 局部减脂：营销不成立，但「生理上完全不可能」也不成立 | A | **有争议**（来源已核验 2026-11-18） | 5 |
 | [claim-0025](claim-0025-fasted-cardio.md) | 空腹有氧：急性燃脂更高，长期体成分无差 | A | **已核实（2026-11-18 作者签字）** | 5 |
 | [claim-0026](claim-0026-nutrient-timing.md) | 营养时序：总摄入第一位，但「完全无关」也不成立 | A | **有争议**（来源已核验 2026-11-18） | 5 |
 | [claim-0027](claim-0027-easy-gain-constitution.md) | 易胖体质：差异真实（遗传度 0.69、增重差 3 倍）但不阻碍干预起效 | A | **已核实（2026-11-18 作者签字）** | 5 |
 | [claim-0028](claim-0028-metabolic-damage.md) | 代谢受损：产热适应真实但被曲解，「修复」属营销 | A | **已核实（2026-11-18 作者签字）** | 5 |
 | [claim-0029](claim-0029-detox-toxins.md) | 排毒：生理解毒真实，排毒饮食不增强它；产品有严重不良事件 | A | **已核实（2026-11-18 作者签字）** | 5 |
-| [claim-0030](claim-0030-diet-exercise-ratio.md) | 三分练七分吃：方向有 A 级支持，**比例无任何科学出处** | A | **已核实（2026-11-18 作者签字）** | 5 |
+| [claim-0030](claim-0030-diet-exercise-ratio.md) | 三分练七分吃：方向有 A 级支持，**比例无任何科学出处** | A | **已核实（2026-11-18 作者签字）** | 5·37 |
 | [claim-0031](claim-0031-gendered-body-marketing.md) | 女瘦男壮有跨时代 meta 支持，**但中国证据方向与美国叙事相反** | A | **已核实（2026-11-18 作者签字）** | 5 |
 | [claim-0035](claim-0035-step1-semaglutide-effect-size.md) | STEP 1：68 周 −14.9% vs −2.4%，差 12.4 pp | A | **已核实（2026-11-18 作者签字）** | 34 |
 | [claim-0036](claim-0036-surmount1-tirzepatide-dose-response.md) | SURMOUNT-1：72 周 −15.0/−19.5/−20.9% vs −3.1% | A | **已核实（2026-11-18 作者签字）** | 34 |
-| [claim-0037](claim-0037-weight-regain-after-discontinuation.md) | 停药一年回升约三分之二；STEP 4 −7.9% vs +6.9% | A | **已核实（2026-11-18 作者签字）** | 34 |
-| [claim-0038](claim-0038-lean-mass-loss-resistance-training.md) | 减重约四分之一是去脂体重，**药组 74/26 vs 安慰剂组 75/25（构成基本相同）**；客观功能终点全缺、自评功能改善 | A | **已核实（2026-11-17 作者签字）** | 34 |
+| [claim-0037](claim-0037-weight-regain-after-discontinuation.md) | 停药一年回升约三分之二；STEP 4 −7.9% vs +6.9% | A | **已核实（2026-11-18 作者签字）** | 34·37 |
+| [claim-0038](claim-0038-lean-mass-loss-resistance-training.md) | 减重约四分之一是去脂体重，**药组 74/26 vs 安慰剂组 75/25（构成基本相同）**；客观功能终点全缺、自评功能改善 | A | **已核实（2026-11-17 作者签字）** | 34·36·37 |
 | [claim-0039](claim-0039-china-approval-timeline.md) | 中国获批时间线；2026-10-21 诺和盈适应症更新为中国标准 | C | **已核实（2026-11-18 作者签字）** | 34 |
 | [claim-0040](claim-0040-china-price-access-2026.md) | 减重适应症全自费不进医保；省级挂网价一年近乎腰斩 | C | **已核实（2026-11-18 作者签字）** | 34 |
 | [claim-0041](claim-0041-adverse-effects-longterm-gap.md) | 不良反应谱与长期缺口；最大 RCT 平均随访约 3.3 年 | A | **已核实（2026-11-18 作者签字）** | 34 |
-| [claim-0042](claim-0042-china-obesity-guideline-2024.md) | 指南 2024：独立病种、BMI≥28、**药是联合手段不是替代** | A | **已核实（2026-11-18 作者签字）** | 34 |
+| [claim-0042](claim-0042-china-obesity-guideline-2024.md) | 指南 2024：独立病种、BMI≥28、**药是联合手段不是替代** | A | **已核实（2026-11-18 作者签字）** | 0·20·34·37 |
 | [claim-0043](claim-0043-appetite-physiology-not-morality.md) | 食欲是生理信号：自由进食摄入降 24–35%，RMR 不变 | A | **已核实（2026-11-18 作者签字）** | 34 |
 | [claim-0044](claim-0044-select-cardiovascular-hard-endpoint.md) | SELECT：HR 0.80（0.72–0.90），**仅约 33% 由腰围中介** | A | **已核实（2026-11-18 作者签字）** | 34 |
 | [claim-0045](claim-0045-llm-health-advice-quality.md) | LLM 方案可用但同质化；个体化与安全性仍是短板 | A | **有争议** | 35 |
@@ -78,7 +78,7 @@
 | [claim-0051](claim-0051-wearable-llm-health-agents-2026.md) | 可穿戴+LLM 已是付费产品；**关键研究几乎全由 Google 资助** | B | **有争议** | 35 |
 | [claim-0052](claim-0052-ai-no-conflict-platform-has.md) | 「AI 无利益冲突」有实证；「平台有」仍是结构推断 | B | **有争议** | 35 |
 | [claim-0053](claim-0053-china-adult-overweight-obesity-prevalence.md) | 成人超重 34.3%、肥胖 16.4%（中国口径）；**仍属二手转引** | C | 待核实 | 0 |
-| [claim-0054](claim-0054-obesity-as-disease-2024-guideline-clinics.md) | 2024 确立独立病种；减重门诊两年扩张到 5500 多所 | C | **已核实（2026-11-18 作者签字）** | 0 |
+| [claim-0054](claim-0054-obesity-as-disease-2024-guideline-clinics.md) | 2024 确立独立病种；减重门诊两年扩张到 5500 多所 | C | **已核实（2026-11-18 作者签字）** | 0·34·37 |
 | [claim-0055](claim-0055-weight-stigma-health-harms.md) | 肥胖污名本身损害健康，不是「激励人变瘦」 | A | 待核实 | 33 |
 | [claim-0056](claim-0056-obesity-heritability-not-destiny.md) | BMI 遗传度双胞胎 0.47–0.90；**遗传度≠不可改变** | A | 待核实 | 33 |
 | [claim-0057](claim-0057-fat-equals-lazy-attribution-stigma.md) | 「胖=懒」是可测量的归因偏见；改变叙事≠改变政策 | B | 待核实 | 33 |
@@ -244,7 +244,7 @@
 
 ### 2.12 WHO 2020 指南 ↔ 中国指南的运动剂量（2026-11-25 新增）
 
-- **[claim-0067](claim-0067-who-2020-physical-activity-guideline.md)（WHO，A 级）与 [claim-0061](claim-0061-obesity-guideline-fulltext-search.md)（中国指南，A 级已签）不得互相替换举证**：WHO 的「150–300 分钟中等强度」是**全人群通用**推荐；0061 的「维持期 200–300 分钟」是**中国指南的维持期**推荐——对象（全人群 vs 减重维持人群）、阶段（日常 vs 维持期）、文件（WHO vs 国卫办）都不同。第 37 章同时引用时**各自注明出处与语境**；🚫 不得写「WHO 要求 200–300 分钟」或「中国指南说 150 分钟起」。
+- **[claim-0067](claim-0067-who-2020-physical-activity-guideline.md)（WHO，A 级）与 [claim-0061](claim-0061-obesity-guideline-fulltext-search.md)（中国指南，A 级已签）不得互相替换举证**：WHO 的「150–300 分钟中等强度」是**全人群通用**推荐；0061 的「维持期 200-300 分钟」是**中国指南的维持期**推荐——对象（全人群 vs 减重维持人群）、阶段（日常 vs 维持期）、文件（WHO vs 国卫办）都不同。第 37 章同时引用时**各自注明出处与语境**；🚫 不得写「WHO 要求 200-300 分钟」或「中国指南说 150 分钟起」。
 - 0067 的「Some physical activity is better than none / Start with small amounts」是**强推荐的解释性注记**，不是效应量——🚫 不得改写为「WHO 证明小量运动降低 X% 风险」。
 
 ---
