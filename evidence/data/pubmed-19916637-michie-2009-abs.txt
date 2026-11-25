@@ -1,0 +1,38 @@
+1. Health Psychol. 2009 Nov;28(6):690-701. doi: 10.1037/a0016136.
+
+Effective techniques in healthy eating and physical activity interventions: a 
+meta-regression.
+
+Michie S(1), Abraham C, Whittington C, McAteer J, Gupta S.
+
+Author information:
+(1)Centre for Outcomes Research and Effectiveness, University College London, 
+UK. s.michie@ucl.ac.uk
+
+OBJECTIVE: Meta-analyses of behavior change (BC) interventions typically find 
+large heterogeneity in effectiveness and small effects. This study aimed to 
+assess the effectiveness of active BC interventions designed to promote physical 
+activity and healthy eating and investigate whether theoretically specified BC 
+techniques improve outcome.
+DESIGN: Interventions, evaluated in experimental or quasi-experimental studies, 
+using behavioral and/or cognitive techniques to increase physical activity and 
+healthy eating in adults, were systematically reviewed. Intervention content was 
+reliably classified into 26 BC techniques and the effects of individual 
+techniques, and of a theoretically derived combination of self-regulation 
+techniques, were assessed using meta-regression.
+MAIN OUTCOME MEASURES: Valid outcomes of physical activity and healthy eating.
+RESULTS: The 122 evaluations (N = 44,747) produced an overall pooled effect size 
+of 0.31 (95% confidence interval = 0.26 to 0.36, I(2) = 69%). The technique, 
+"self-monitoring," explained the greatest amount of among-study heterogeneity 
+(13%). Interventions that combined self-monitoring with at least one other 
+technique derived from control theory were significantly more effective than the 
+other interventions (0.42 vs. 0.26).
+CONCLUSION: Classifying interventions according to component techniques and 
+theoretically derived technique combinations and conducting meta-regression 
+enabled identification of effective components of interventions designed to 
+increase physical activity and healthy eating.
+
+PsycINFO Database Record (c) 2009 APA, all rights reserved.
+
+DOI: 10.1037/a0016136
+PMID: 19916637 [Indexed for MEDLINE]

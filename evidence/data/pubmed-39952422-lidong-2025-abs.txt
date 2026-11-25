@@ -1,0 +1,69 @@
+2. Psychol Sport Exerc. 2025 May;78:102822. doi:
+10.1016/j.psychsport.2025.102822.  Epub 2025 Feb 12.
+
+Examining the impact of perceived behavioral control and planning on closing the 
+exercise intention-behavior gap: Insights from a meta-analytic structural 
+equation modeling study.
+
+Lidong W(1), Xiuhong L(2), Kai Q(3), Donghai W(3).
+
+Author information:
+(1)School of Physical Education, Nanjing University of Posts and 
+Telecommunications, Nanjing, 200023, China. Electronic address: 
+vldwong@outlook.com.
+(2)Physical Education Department, Harbin Institute of Technology. Weihai, 
+264209, China.
+(3)School of Physical Education, Nanjing University of Posts and 
+Telecommunications, Nanjing, 200023, China.
+
+OBJECTIVE: This study aims to investigate the roles of perceived behavioral 
+control (PBC), action planning, and coping planning in bridging the gap between 
+exercise intention and behavior. By using a Meta-Analytic Structural Equation 
+Model (MASEM), we quantify the specific effects of these variables and explore 
+their mediating roles in the relationships between intention, PBC, and behavior. 
+The study provides insights into how these constructs contribute to informing 
+effective behavioral intervention strategies.
+METHODS: A meta-analysis was conducted to calculate the correlation effect sizes 
+between variables in the model, and MASEM was employed to examine the 
+interrelationships among multiple variables. Data from 57 samples across 49 
+studies, with a total sample size of 19,883, were analyzed. We constructed an 
+aggregated correlation matrix and performed path analysis using structural 
+equation modeling. AMOS 26.0 software was used to estimate model parameters, 
+including path coefficients, standard errors, and various model fit indices.
+RESULTS: The results indicate that behavioral intention serves as a key 
+predictor of behavior, showing a significant positive direct effect (β = 0.416, 
+p < 0.001). Intention also significantly predicts both action planning 
+(β = 0.439, p < 0.001) and coping planning (β = 0.360, p < 0.001), though its 
+impact on behavior is mediated differently by these two forms of planning. 
+Mediation analysis further revealed that intention indirectly predicts behavior 
+through coping planning (β = 0.067, p < 0.001), while the mediation effect 
+through action planning was not significant (β = -0.001, p > 0.05). PBC played 
+multiple roles: it directly predicts behavior (β = 0.106, p < 0.001), indirectly 
+predicts behavior through intention (β = 0.282, p < 0.001), and further mediates 
+behavior through intention and coping planning (β = 0.046, p < 0.001), as well 
+as through coping planning alone (β = 0.032, p < 0.001). Additionally, the 
+mediation effect of PBC on behavior through action planning was statistically 
+significant but negligible (β = 0.000, p = 0.003), reinforcing the stronger role 
+of coping planning in driving behavior change.
+CONCLUSION: This study highlights the important roles of behavioral intention 
+and perceived behavioral control in promoting physical activity while 
+challenging the effectiveness of focusing solely on action planning. The 
+findings suggest that although action planning does not significantly impact 
+behavior, coping planning plays a critical role in behavior implementation. By 
+integrating action planning and coping planning, comprehensive behavioral 
+intervention strategies can more effectively bridge the intention-behavior gap 
+and promote sustained physical activity.
+
+Copyright © 2025 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.psychsport.2025.102822
+PMID: 39952422 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare the following financial interests/personal relationships which may be 
+considered as potential competing interests: Lidong Wang reports financial 
+support was provided by Key Project of Jiangsu Province's 14th Five-Year 
+Education Plan (GK-202305). Kai Qiu reports financial support was provided by 
+Key Project of the 14th Five-Year Plan for Education in Jiangsu Province in 2021 
+(T-b/2021/46). All other authors declare that they have no known competing 
+financial interests or personal relationships that could have appeared to 

@@ -8,7 +8,7 @@
 - P1 MVP 九章正文写作（提纲已全部挂卡，顺序见 [meta/ROADMAP.md](meta/ROADMAP.md)）
 
 ### 待办
-- **13 张「待核实」卡的人工复核签字**（AI 检索内容不得直接进正文；2026-11-24 T1 盘点后的精确清单见 [meta/BACKLOG.md](meta/BACKLOG.md) T2）
+- **16 张「待核实」卡的人工复核签字**（13 张交接清单 + 3 张 2026-11-25 新建 ch37 素材卡；精确清单见 [meta/BACKLOG.md](meta/BACKLOG.md) T2）
 - **Batsis 勘误正文仍未取得**：`10.7326/ANNALS-26-02085`（**PMID 42258831**，ErratumFor 三篇；acpjournals.org 与 doi.org 均 **403**；**第三轮改判为付费墙**——Europe PMC 确证 `inPMC=N`/`inEPMC=N`/`isOpenAccess=N`/`hasPDF=N`/无摘要，开放渠道无副本）→ **28.3% 不得视为终局数字**。**Look 更正已关闭**（仅 Figure 4 图轴单位，见 [0.0.3]）
 - CONFLICTS.md 由作者本人填写
 - 附录 B 常见说法真伪对照表
@@ -125,6 +125,18 @@ INDEX §7 原建议"法释〔2025〕4号另建卡"——核查发现 **0005 已�
 ⚠️ 0005 与 0062 出自**同一机关、同一场新闻发布会**，已登记入 INDEX §4：**不得写成"法条与判例双重印证"**。分工裁决见 INDEX §3.4。
 
 **已接入章节**：02（§五 判例侧＋官方表述＋用语纪律，挂卡 7→8）、05（§五 追加充值证词，挂卡 10→11）。**58→59 张，C 14→15，待核实 46→47，59/59 具备反方小节，双向注册零差异。**
+
+### 证据：ch37 素材卡三张新建（WHO A 级 + 行为改变 B 级 ×2）——同时清扫五个文件的「12 张」算术错残留
+
+**BACKLOG T3 的 ch37「无证据卡」缺口关闭（除签字）**。三卡均按建卡纪律取证（esearch 验证 PMID **零猜测 ID** → efetch 摘要逐字 → 开放全文入库记 MD5 → archive.org 本网络不可达如实标注）：
+
+| 卡 | 级 | 内容 | 服务骨架 |
+|---|---|---|---|
+| [claim-0067](../evidence/claims/claim-0067-who-2020-physical-activity-guideline.md) | **A** | WHO 2020 身体活动指南（BJSM 2020;54(24):1451-1462，PMID 33239350 / PMCID PMC7719906，**DOI 误引 `bjsm` 已纠为 `bjsports`**）：成人 150–300 min 中等强度（或 75–150 高强度）+ 每周 ≥2 天全身肌力（强推荐逐字）；「**Some physical activity is better than none…Start with small amounts and gradually increase**」强推荐注记；慢病「按能力参与 + 咨询接口」 | 「5 个动作」定量锚 + 「少到不可能失败」+ 升级就医线 |
+| [claim-0068](../evidence/claims/claim-0068-self-monitoring-meta-regression.md) | **B** | Michie 2009 *Health Psychol* 元回归（122 项评估 / 44,747 人）：**自我监测解释异质性最大（13%）**，组合控制理论技术 **0.42 vs 0.26**；整体效应仅 0.31、I²=69%（反方在卡） | 「3 个指标」 |
+| [claim-0069](../evidence/claims/claim-0069-coping-planning-intention-behavior.md) | **B** | Wang 2025 *Psychol Sport Exerc* MASEM（57 样本 / 49 研究 / 19,883 人）：**应对计划中介意图→行为（β=0.067）**，行动计划单独不显著（β=−0.001）；江苏教育课题资助已披露 | 「事先写好成败标准 + 失败预案」 |
+
+**计数**：63 → **66 张** = 已核实 41 + 有争议 9 + 待核实 **16**（13 交接 + 3 新建）；A 30→31、B 15→17。**INDEX §2.12 新增口径裁决**：WHO 150–300（全人群通用）与 0061 中国指南维持期 200–300 **不得互相替换举证**。**同步清扫**：SOURCES / README / AGENT-GUIDE / OUTLINE / ch39 五个文件残留的「**12 张待核实**」算术错（12+41+9=62≠63，2026-11-18 已在 BACKLOG 记录但未同步到这些文件）与 INDEX §0 的「待核实 20」半同步行（20+41+9=70）——全部更正为 16/66 口径；ch35 正文两处自指同步至 66/16（截至 2026-11-25）。**archive.org 复测（2026-11-25）：仍不可达**，快照待建项维持。
 
 ### 审读：ch35 五张有争议卡呈现复核——「争议的具体形状」按 ch05 标准补齐
 
