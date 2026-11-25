@@ -1,17 +1,19 @@
 ---
 id: claim-0057
 title: 「胖=懒」是一种可测量的归因偏见，它 predicts 歧视意愿与惩罚性政策态度；但改变叙事并不等于改变政策
-status: 待核实
+status: 已核实
 level: B
 chapters: [33]
 created: 2026-11-12
-verified: null
-verifier: null
+verified: 2026-11-25
+verifier: 作者（2026-11-25 指令：免签字制→出处标记制；未逐卡人工复核）
 ---
+
+> ✅ **已转正（2026-11-25，作者指令：免签字制→出处标记制，[EDITORIAL.md](../../EDITORIAL.md) §7 修订）。转正依据 = 来源已采集存档 + 直引逐字核验 + 出处随稿标记；⚠️ 未逐卡人工复核，读者可据此校准信任。卡内数据缺口与采信范围限制不因转正关闭，继续有效。**
 
 # claim-0057：「胖=懒」是一种归因偏见，它 predicts 歧视与惩罚性政策态度——但改叙事不等于改政策
 
-> ⚠️ **AI 使用披露（依 EDITORIAL.md 七）**：本卡由 AI agent 通过 PubMed E-utilities 检索建立，引文与直引均逐字取自实际抓取的 PubMed 记录，未生成任何未经检索的数字。状态 `待核实`，`verified: null`，须人工核查后方可进入正文。
+> ⚠️ **AI 使用披露（依 EDITORIAL.md 七）**：本卡由 AI agent 通过 PubMed E-utilities 检索建立，引文与直引均逐字取自实际抓取的 PubMed 记录，未生成任何未经检索的数字。2026-11-25 按出处标记制转正（未逐卡人工复核）；全文未取、中国证据为零等限制继续有效。
 
 > ⚠️ **本卡最重要的诚实之处**：来源 3（Frederick 2016，4 项实验 n=2187）发现，媒体框架能显著改变**偏见与歧视意愿**，但对**公共政策态度**的影响「**generally small and/or nonsignificant**」，作者结论是「**Shifting policy attitudes, however, is more challenging.**」
 > **所以：本书不能声称「把道德从体重上摘下来，政策就会变」。** 叙事→态度→政策这条链，在实验证据里**后半段是断的**。这必须写进第 33 章，否则本书就在贩卖自己批判的那种「观念改变一切」的鸡汤。
